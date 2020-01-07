@@ -31,16 +31,75 @@ if __name__ == "__main__":
 
     stats = list(map(lambda x: x.strip(), open(
         './resources/pkm-stats.txt', 'r').readlines()))
+    pokemons = []
 
     i = 0
+    # id
+    # name
+    #   - cn
+    #   - en
+    #   - ja
+    # form : int
+    # galar-dex: int and -1 for foreign
+    # base
+    #   - hp
+    #   - atk
+    #   - def
+    #   - spatk
+    #   - spdef
+    #   - spe
+    # abilities: list of number
+    # ty pe: list of string
+    # evolution: list of [(id, form)]
+    # moves: list of sorted unique number
+    # egg-moves: list of sorted unique number
 
     while i + 1 < len(stats):
         if stats[i] == '======':
             i += 1
-        name = stats[i].split('(')[0].split('- ')[1]
-        print(name)
+        id = int(stats[i].split(' -')[0])
+        name = stats[i].split('(')[0].split('- ')[1].strip()
+        if not name[-1].isdigit():
+            name += " 0"
+        pokemon = {}
+
+        info = en_pokemons_dict[name.rsplit(' ', 1)[0]]
+        pokemon['id'] = info[0]
+        pokemon['name'] = {}
+        pokemon['name']['cn'] = info[1]
+        pokemon['name']['en'] = name.rsplit(' ', 1)[0]
+        pokemon['name']['ja'] = info[2]
+        pokemon['form'] = int(name.rsplit(' ', 1)[1])
         i += 2
-        i += 5
+
+        # Galar Dex
+        if '#' in stats[i]:
+            pokemon['galar-dex'] = int(stats[i].split('#')[1])
+        else:
+            pokemon['galar-dex'] = -1
+        i += 1
+
+        # Base Stats
+        base = list(map(int, (stats[i].split(' ')[2]).split('.')))
+        pokemon['base'] = {}
+        pokemon['base']['hp'] = base[0]
+        pokemon['base']['atk'] = base[1]
+        pokemon['base']['def'] = base[2]
+        pokemon['base']['spatk'] = base[3]
+        pokemon['base']['spdef'] = base[4]
+        pokemon['base']['spe'] = base[5]
+        i += 1
+
+        # EV Yield
+        i += 1
+
+        # Abilities
+        i += 1
+
+        # Type
+        i += 1
+
+        print(pokemon)
         while stats[i].startswith('Item'):
             i += 1
         i += 4
@@ -83,30 +142,7 @@ if __name__ == "__main__":
             i += 1
         if not stats[i].startswith('='):
             i += 3
+        pokemons.append(pokemon)
 
-    # # structure
-    # # id
-    # # name
-    # #   - cn
-    # #   - ja
-    # #   - en
-    # # description
-
-    # for table in tables:
-    #     rows = table.find_all('tr')[1:]
-    #     for row in rows:
-    #         cells = row.find_all('td')
-
-    #         ability = {}
-    #         ability['id'] = int(cells[0].text.strip())
-    #         ability['name'] = {}
-    #         ability['name']['cn'] = cells[1].text.strip()
-    #         ability['name']['ja'] = cells[2].text.strip()
-    #         ability['name']['en'] = cells[3].text.strip()
-    #         ability['description'] = cells[4].text.strip()
-
-    #         assert(len(abilities) == ability['id'])
-    #         abilities.append(ability)
-
-    # output_file = open('./abilities.json', 'w')
-    # output_file.write(json.dumps(abilities, indent=2, ensure_ascii=False))
+output_file = open('./pokemons.json', 'w')
+output_file.write(json.dumps(pokemons, indent=2, ensure_ascii=False))

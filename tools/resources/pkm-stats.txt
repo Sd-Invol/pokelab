@@ -3859,7 +3859,7 @@ TRs:
 - [TR95] Throat Chop
 
 ======
-083 - Farfetch’d (Stage: 2)
+083 - Farfetch'd (Stage: 2)
 ======
 Galar Dex: #218
 Base Stats: 52.90.55.58.62.60 (BST: 377)
@@ -3946,7 +3946,7 @@ The stalk this Pokémon carries in its wings serves as a sword to cut down oppon
 They use a plant stalk as a weapon, but not all of them use it in the same way. Several distinct styles of stalk fighting have been observed.
 
 ======
-915 - Farfetch’d 1 (Stage: 2)
+915 - Farfetch'd 1 (Stage: 2)
 ======
 Galar Dex: #218
 Base Stats: 52.95.55.58.62.55 (BST: 377)
@@ -25269,8 +25269,8 @@ Egg Group: Mineral
 Hatch Cycles: 20
 Height: 01.70 m, Weight: 053.0 kg, Color: Brown
 Level Up Moves:
-- [00] King’s Shield
-- [01] King’s Shield
+- [00] King's Shield
+- [01] King's Shield
 - [01] Head Smash
 - [01] Aerial Ace
 - [01] Metal Sound
@@ -25337,8 +25337,8 @@ Egg Group: Mineral
 Hatch Cycles: 20
 Height: 01.70 m, Weight: 053.0 kg, Color: Brown
 Level Up Moves:
-- [00] King’s Shield
-- [01] King’s Shield
+- [00] King's Shield
+- [01] King's Shield
 - [01] Head Smash
 - [01] Aerial Ace
 - [01] Metal Sound
@@ -26569,7 +26569,7 @@ Level Up Moves:
 - [40] Ingrain
 - [44] Wood Hammer
 - [48] Destiny Bond
-- [52] Forest’s Curse
+- [52] Forest's Curse
 Egg Moves:
 - Grudge
 - Sucker Punch
@@ -26648,7 +26648,7 @@ Level Up Moves:
 - [40] Ingrain
 - [44] Wood Hammer
 - [48] Destiny Bond
-- [52] Forest’s Curse
+- [52] Forest's Curse
 TMs:
 - [TM08] Hyper Beam
 - [TM09] Giga Impact
@@ -37599,7 +37599,7 @@ TRs:
 - [TR66] Brave Bird
 - [TR85] Work Up
 - [TR95] Throat Chop
-Only Farfetch’d that have survived many battles can attain this evolution. When this Pokémon’s leek withers, it will retire from combat.
+Only Farfetch'd that have survived many battles can attain this evolution. When this Pokémon’s leek withers, it will retire from combat.
 After deflecting attacks with its hard leaf shield, it strikes back with its sharp leek stalk. The leek stalk is both weapon and food.
 
 ======
