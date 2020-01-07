@@ -39,10 +39,10 @@ function App() {
       continue;
     }
     pokemonList.push(
-      <MenuItem value={pokemon.id + '.' + pokemon.form}>
-        <div>
+      <MenuItem value={pokemon.id + '.' + pokemon.form} key={pokemon.id}>
+        <span>
           <img src={`https://s.pokeuniv.com/pokemon/icon/${pokemon.form ? pokemon.id + '.' + pokemon.form : pokemon.id}.png`} alt={pokemon.id} />
-        </div>
+        </span>
         <span>{pokemon.name.cn}</span>
       </MenuItem>)
   }
@@ -51,7 +51,7 @@ function App() {
   return (
     <div className="App">
       <FormControl className={classes.formControl}>
-        <InputLabel id="demo-simple-select-label">Age</InputLabel>
+        <InputLabel id="demo-simple-select-label">宝可梦</InputLabel>
         <Select
           labelId="demo-simple-select-label"
           id="demo-simple-select"
