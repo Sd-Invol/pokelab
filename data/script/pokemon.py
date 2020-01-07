@@ -94,14 +94,17 @@ if __name__ == "__main__":
         i += 1
 
         # Abilities
-        abilities = list(map(lambda x: x.strip(), stats[i].split(':', 1)[1].split('|')))
+        abilities = list(
+            map(lambda x: x.strip(), stats[i].split(':', 1)[1].split('|')))
         pokemon['abilities'] = []
         for ab in abilities:
-            pokemon['abilities'].append(en_abilities_dict[ab.split('(')[0].strip()][0])
+            pokemon['abilities'].append(
+                en_abilities_dict[ab.split('(')[0].strip()][0])
         i += 1
 
         # Type
-        pokemon['type'] = list(map(lambda x: x.strip(), stats[i].split(':', 1)[1].split('/')))
+        pokemon['type'] = list(
+            map(lambda x: x.strip(), stats[i].split(':', 1)[1].split('/')))
         i += 1
 
         while stats[i].startswith('Item'):
@@ -147,13 +150,13 @@ if __name__ == "__main__":
             pokemon['moves'] += egg_moves[key]
         pokemon['moves'] = sorted(set(pokemon['moves']))
         egg_moves[key] = pokemon['moves']
-        
+
         # pokemon['evolution'] = []
         while stats[i].startswith('Evolves into '):
             eve = stats[i].split('@')[0].split(' ', 2)[2]
             name, form = eve.rsplit('-', 1)
             id = int(en_pokemons_dict[name][0])
-            egg_moves[(id, int(form))] = egg_moves[key] 
+            egg_moves[(id, int(form))] = egg_moves[key]
             # pokemon['evolution'].append({'id': int(id), 'form': int(form)})
             i += 1
         while len(stats[i]) == 0:
