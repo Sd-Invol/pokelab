@@ -7,7 +7,7 @@
       "ja": "フシギダネ"
     },
     "form": 0,
-    "galar-dex": -1,
+    "galardex": -1,
     "base": {
       "hp": 45,
       "atk": 49,
@@ -93,7 +93,7 @@
       "ja": "フシギソウ"
     },
     "form": 0,
-    "galar-dex": -1,
+    "galardex": -1,
     "base": {
       "hp": 60,
       "atk": 62,
@@ -179,7 +179,7 @@
       "ja": "フシギバナ"
     },
     "form": 0,
-    "galar-dex": -1,
+    "galardex": -1,
     "base": {
       "hp": 80,
       "atk": 82,
@@ -268,7 +268,7 @@
       "ja": "ヒトカゲ"
     },
     "form": 0,
-    "galar-dex": 378,
+    "galardex": 378,
     "base": {
       "hp": 39,
       "atk": 52,
@@ -361,7 +361,7 @@
       "ja": "リザード"
     },
     "form": 0,
-    "galar-dex": 379,
+    "galardex": 379,
     "base": {
       "hp": 58,
       "atk": 64,
@@ -454,7 +454,7 @@
       "ja": "リザードン"
     },
     "form": 0,
-    "galar-dex": 380,
+    "galardex": 380,
     "base": {
       "hp": 78,
       "atk": 84,
@@ -558,7 +558,7 @@
       "ja": "ゼニガメ"
     },
     "form": 0,
-    "galar-dex": -1,
+    "galardex": -1,
     "base": {
       "hp": 44,
       "atk": 48,
@@ -652,7 +652,7 @@
       "ja": "カメール"
     },
     "form": 0,
-    "galar-dex": -1,
+    "galardex": -1,
     "base": {
       "hp": 59,
       "atk": 63,
@@ -746,7 +746,7 @@
       "ja": "カメックス"
     },
     "form": 0,
-    "galar-dex": -1,
+    "galardex": -1,
     "base": {
       "hp": 79,
       "atk": 83,
@@ -848,7 +848,7 @@
       "ja": "キャタピー"
     },
     "form": 0,
-    "galar-dex": 13,
+    "galardex": 13,
     "base": {
       "hp": 45,
       "atk": 30,
@@ -886,7 +886,7 @@
       "ja": "トランセル"
     },
     "form": 0,
-    "galar-dex": 14,
+    "galardex": 14,
     "base": {
       "hp": 50,
       "atk": 20,
@@ -926,7 +926,7 @@
       "ja": "バタフリー"
     },
     "form": 0,
-    "galar-dex": 15,
+    "galardex": 15,
     "base": {
       "hp": 60,
       "atk": 45,
@@ -1004,7 +1004,7 @@
       "ja": "ピカチュウ"
     },
     "form": 0,
-    "galar-dex": 194,
+    "galardex": 194,
     "base": {
       "hp": 35,
       "atk": 55,
@@ -1092,7 +1092,7 @@
       "ja": "ピカチュウ"
     },
     "form": 1,
-    "galar-dex": 194,
+    "galardex": 194,
     "base": {
       "hp": 35,
       "atk": 55,
@@ -1175,7 +1175,7 @@
       "ja": "ピカチュウ"
     },
     "form": 2,
-    "galar-dex": 194,
+    "galardex": 194,
     "base": {
       "hp": 35,
       "atk": 55,
@@ -1258,7 +1258,7 @@
       "ja": "ピカチュウ"
     },
     "form": 3,
-    "galar-dex": 194,
+    "galardex": 194,
     "base": {
       "hp": 35,
       "atk": 55,
@@ -1341,7 +1341,7 @@
       "ja": "ピカチュウ"
     },
     "form": 4,
-    "galar-dex": 194,
+    "galardex": 194,
     "base": {
       "hp": 35,
       "atk": 55,
@@ -1424,7 +1424,7 @@
       "ja": "ピカチュウ"
     },
     "form": 5,
-    "galar-dex": 194,
+    "galardex": 194,
     "base": {
       "hp": 35,
       "atk": 55,
@@ -1507,7 +1507,7 @@
       "ja": "ピカチュウ"
     },
     "form": 6,
-    "galar-dex": 194,
+    "galardex": 194,
     "base": {
       "hp": 35,
       "atk": 55,
@@ -1590,7 +1590,7 @@
       "ja": "ピカチュウ"
     },
     "form": 7,
-    "galar-dex": 194,
+    "galardex": 194,
     "base": {
       "hp": 35,
       "atk": 55,
@@ -1673,7 +1673,7 @@
       "ja": "ライチュウ"
     },
     "form": 0,
-    "galar-dex": 195,
+    "galardex": 195,
     "base": {
       "hp": 60,
       "atk": 90,
@@ -1763,7 +1763,7 @@
       "ja": "ライチュウ"
     },
     "form": 1,
-    "galar-dex": 195,
+    "galardex": 195,
     "base": {
       "hp": 60,
       "atk": 85,
@@ -1859,7 +1859,7 @@
       "ja": "ピッピ"
     },
     "form": 0,
-    "galar-dex": 255,
+    "galardex": 255,
     "base": {
       "hp": 70,
       "atk": 45,
@@ -1976,7 +1976,7 @@
       "ja": "ピクシー"
     },
     "form": 0,
-    "galar-dex": 256,
+    "galardex": 256,
     "base": {
       "hp": 95,
       "atk": 70,
@@ -2091,7 +2091,7 @@
       "ja": "ロコン"
     },
     "form": 0,
-    "galar-dex": 68,
+    "galardex": 68,
     "base": {
       "hp": 38,
       "atk": 41,
@@ -2177,7 +2177,7 @@
       "ja": "ロコン"
     },
     "form": 1,
-    "galar-dex": 68,
+    "galardex": 68,
     "base": {
       "hp": 38,
       "atk": 41,
@@ -2262,7 +2262,7 @@
       "ja": "キュウコン"
     },
     "form": 0,
-    "galar-dex": 69,
+    "galardex": 69,
     "base": {
       "hp": 73,
       "atk": 76,
@@ -2352,7 +2352,7 @@
       "ja": "キュウコン"
     },
     "form": 1,
-    "galar-dex": 69,
+    "galardex": 69,
     "base": {
       "hp": 73,
       "atk": 67,
@@ -2445,7 +2445,7 @@
       "ja": "ナゾノクサ"
     },
     "form": 0,
-    "galar-dex": 55,
+    "galardex": 55,
     "base": {
       "hp": 45,
       "atk": 50,
@@ -2524,7 +2524,7 @@
       "ja": "クサイハナ"
     },
     "form": 0,
-    "galar-dex": 56,
+    "galardex": 56,
     "base": {
       "hp": 60,
       "atk": 65,
@@ -2609,7 +2609,7 @@
       "ja": "ラフレシア"
     },
     "form": 0,
-    "galar-dex": 57,
+    "galardex": 57,
     "base": {
       "hp": 75,
       "atk": 80,
@@ -2693,7 +2693,7 @@
       "ja": "ディグダ"
     },
     "form": 0,
-    "galar-dex": 164,
+    "galardex": 164,
     "base": {
       "hp": 10,
       "atk": 55,
@@ -2771,7 +2771,7 @@
       "ja": "ディグダ"
     },
     "form": 1,
-    "galar-dex": 164,
+    "galardex": 164,
     "base": {
       "hp": 10,
       "atk": 55,
@@ -2853,7 +2853,7 @@
       "ja": "ダグトリオ"
     },
     "form": 0,
-    "galar-dex": 165,
+    "galardex": 165,
     "base": {
       "hp": 35,
       "atk": 100,
@@ -2934,7 +2934,7 @@
       "ja": "ダグトリオ"
     },
     "form": 1,
-    "galar-dex": 165,
+    "galardex": 165,
     "base": {
       "hp": 35,
       "atk": 100,
@@ -3019,7 +3019,7 @@
       "ja": "ニャース"
     },
     "form": 0,
-    "galar-dex": 182,
+    "galardex": 182,
     "base": {
       "hp": 40,
       "atk": 45,
@@ -3106,7 +3106,7 @@
       "ja": "ニャース"
     },
     "form": 1,
-    "galar-dex": 182,
+    "galardex": 182,
     "base": {
       "hp": 40,
       "atk": 35,
@@ -3193,7 +3193,7 @@
       "ja": "ニャース"
     },
     "form": 2,
-    "galar-dex": 182,
+    "galardex": 182,
     "base": {
       "hp": 50,
       "atk": 65,
@@ -3285,7 +3285,7 @@
       "ja": "ペルシアン"
     },
     "form": 0,
-    "galar-dex": 184,
+    "galardex": 184,
     "base": {
       "hp": 65,
       "atk": 70,
@@ -3371,7 +3371,7 @@
       "ja": "ペルシアン"
     },
     "form": 1,
-    "galar-dex": 184,
+    "galardex": 184,
     "base": {
       "hp": 65,
       "atk": 60,
@@ -3461,7 +3461,7 @@
       "ja": "ガーディ"
     },
     "form": 0,
-    "galar-dex": 70,
+    "galardex": 70,
     "base": {
       "hp": 55,
       "atk": 70,
@@ -3542,7 +3542,7 @@
       "ja": "ウインディ"
     },
     "form": 0,
-    "galar-dex": 71,
+    "galardex": 71,
     "base": {
       "hp": 90,
       "atk": 110,
@@ -3629,7 +3629,7 @@
       "ja": "ワンリキー"
     },
     "form": 0,
-    "galar-dex": 138,
+    "galardex": 138,
     "base": {
       "hp": 70,
       "atk": 80,
@@ -3723,7 +3723,7 @@
       "ja": "ゴーリキー"
     },
     "form": 0,
-    "galar-dex": 139,
+    "galardex": 139,
     "base": {
       "hp": 80,
       "atk": 100,
@@ -3818,7 +3818,7 @@
       "ja": "カイリキー"
     },
     "form": 0,
-    "galar-dex": 140,
+    "galardex": 140,
     "base": {
       "hp": 90,
       "atk": 130,
@@ -3918,7 +3918,7 @@
       "ja": "ポニータ"
     },
     "form": 0,
-    "galar-dex": 333,
+    "galardex": 333,
     "base": {
       "hp": 50,
       "atk": 85,
@@ -3998,7 +3998,7 @@
       "ja": "ポニータ"
     },
     "form": 1,
-    "galar-dex": 333,
+    "galardex": 333,
     "base": {
       "hp": 50,
       "atk": 85,
@@ -4076,7 +4076,7 @@
       "ja": "ギャロップ"
     },
     "form": 0,
-    "galar-dex": 334,
+    "galardex": 334,
     "base": {
       "hp": 65,
       "atk": 100,
@@ -4162,7 +4162,7 @@
       "ja": "ギャロップ"
     },
     "form": 1,
-    "galar-dex": 334,
+    "galardex": 334,
     "base": {
       "hp": 65,
       "atk": 100,
@@ -4252,7 +4252,7 @@
       "ja": "カモネギ"
     },
     "form": 0,
-    "galar-dex": 218,
+    "galardex": 218,
     "base": {
       "hp": 52,
       "atk": 90,
@@ -4341,7 +4341,7 @@
       "ja": "カモネギ"
     },
     "form": 1,
-    "galar-dex": 218,
+    "galardex": 218,
     "base": {
       "hp": 52,
       "atk": 95,
@@ -4424,7 +4424,7 @@
       "ja": "シェルダー"
     },
     "form": 0,
-    "galar-dex": 150,
+    "galardex": 150,
     "base": {
       "hp": 30,
       "atk": 65,
@@ -4501,7 +4501,7 @@
       "ja": "パルシェン"
     },
     "form": 0,
-    "galar-dex": 151,
+    "galardex": 151,
     "base": {
       "hp": 50,
       "atk": 95,
@@ -4584,7 +4584,7 @@
       "ja": "ゴース"
     },
     "form": 0,
-    "galar-dex": 141,
+    "galardex": 141,
     "base": {
       "hp": 30,
       "atk": 35,
@@ -4678,7 +4678,7 @@
       "ja": "ゴースト"
     },
     "form": 0,
-    "galar-dex": 142,
+    "galardex": 142,
     "base": {
       "hp": 45,
       "atk": 50,
@@ -4776,7 +4776,7 @@
       "ja": "ゲンガー"
     },
     "form": 0,
-    "galar-dex": 143,
+    "galardex": 143,
     "base": {
       "hp": 60,
       "atk": 65,
@@ -4882,7 +4882,7 @@
       "ja": "イワーク"
     },
     "form": 0,
-    "galar-dex": 178,
+    "galardex": 178,
     "base": {
       "hp": 35,
       "atk": 45,
@@ -4974,7 +4974,7 @@
       "ja": "クラブ"
     },
     "form": 0,
-    "galar-dex": 98,
+    "galardex": 98,
     "base": {
       "hp": 30,
       "atk": 105,
@@ -5060,7 +5060,7 @@
       "ja": "キングラー"
     },
     "form": 0,
-    "galar-dex": 99,
+    "galardex": 99,
     "base": {
       "hp": 55,
       "atk": 130,
@@ -5148,7 +5148,7 @@
       "ja": "サワムラー"
     },
     "form": 0,
-    "galar-dex": 108,
+    "galardex": 108,
     "base": {
       "hp": 50,
       "atk": 120,
@@ -5227,7 +5227,7 @@
       "ja": "エビワラー"
     },
     "form": 0,
-    "galar-dex": 109,
+    "galardex": 109,
     "base": {
       "hp": 50,
       "atk": 105,
@@ -5309,7 +5309,7 @@
       "ja": "ドガース"
     },
     "form": 0,
-    "galar-dex": 250,
+    "galardex": 250,
     "base": {
       "hp": 40,
       "atk": 65,
@@ -5394,7 +5394,7 @@
       "ja": "マタドガス"
     },
     "form": 0,
-    "galar-dex": 251,
+    "galardex": 251,
     "base": {
       "hp": 65,
       "atk": 90,
@@ -5470,7 +5470,7 @@
       "ja": "マタドガス"
     },
     "form": 1,
-    "galar-dex": 251,
+    "galardex": 251,
     "base": {
       "hp": 65,
       "atk": 90,
@@ -5566,7 +5566,7 @@
       "ja": "サイホーン"
     },
     "form": 0,
-    "galar-dex": 264,
+    "galardex": 264,
     "base": {
       "hp": 80,
       "atk": 85,
@@ -5664,7 +5664,7 @@
       "ja": "サイドン"
     },
     "form": 0,
-    "galar-dex": 265,
+    "galardex": 265,
     "base": {
       "hp": 105,
       "atk": 130,
@@ -5787,7 +5787,7 @@
       "ja": "トサキント"
     },
     "form": 0,
-    "galar-dex": 146,
+    "galardex": 146,
     "base": {
       "hp": 45,
       "atk": 67,
@@ -5867,7 +5867,7 @@
       "ja": "アズマオウ"
     },
     "form": 0,
-    "galar-dex": 147,
+    "galardex": 147,
     "base": {
       "hp": 80,
       "atk": 92,
@@ -5944,7 +5944,7 @@
       "ja": "バリヤード"
     },
     "form": 0,
-    "galar-dex": 365,
+    "galardex": 365,
     "base": {
       "hp": 40,
       "atk": 45,
@@ -6055,7 +6055,7 @@
       "ja": "バリヤード"
     },
     "form": 1,
-    "galar-dex": 365,
+    "galardex": 365,
     "base": {
       "hp": 50,
       "atk": 65,
@@ -6177,7 +6177,7 @@
       "ja": "コイキング"
     },
     "form": 0,
-    "galar-dex": 144,
+    "galardex": 144,
     "base": {
       "hp": 20,
       "atk": 10,
@@ -6216,7 +6216,7 @@
       "ja": "ギャラドス"
     },
     "form": 0,
-    "galar-dex": 145,
+    "galardex": 145,
     "base": {
       "hp": 95,
       "atk": 125,
@@ -6305,7 +6305,7 @@
       "ja": "ラプラス"
     },
     "form": 0,
-    "galar-dex": 361,
+    "galardex": 361,
     "base": {
       "hp": 130,
       "atk": 85,
@@ -6397,7 +6397,7 @@
       "ja": "メタモン"
     },
     "form": 0,
-    "galar-dex": 373,
+    "galardex": 373,
     "base": {
       "hp": 48,
       "atk": 48,
@@ -6427,7 +6427,7 @@
       "ja": "イーブイ"
     },
     "form": 0,
-    "galar-dex": 196,
+    "galardex": 196,
     "base": {
       "hp": 55,
       "atk": 55,
@@ -6536,7 +6536,7 @@
       "ja": "シャワーズ"
     },
     "form": 0,
-    "galar-dex": 197,
+    "galardex": 197,
     "base": {
       "hp": 130,
       "atk": 65,
@@ -6633,7 +6633,7 @@
       "ja": "サンダース"
     },
     "form": 0,
-    "galar-dex": 198,
+    "galardex": 198,
     "base": {
       "hp": 65,
       "atk": 65,
@@ -6723,7 +6723,7 @@
       "ja": "ブースター"
     },
     "form": 0,
-    "galar-dex": 199,
+    "galardex": 199,
     "base": {
       "hp": 65,
       "atk": 130,
@@ -6815,7 +6815,7 @@
       "ja": "カビゴン"
     },
     "form": 0,
-    "galar-dex": 261,
+    "galardex": 261,
     "base": {
       "hp": 160,
       "atk": 110,
@@ -6929,7 +6929,7 @@
       "ja": "ミュウツー"
     },
     "form": 0,
-    "galar-dex": -1,
+    "galardex": -1,
     "base": {
       "hp": 106,
       "atk": 110,
@@ -7049,7 +7049,7 @@
       "ja": "ミュウ"
     },
     "form": 0,
-    "galar-dex": -1,
+    "galardex": -1,
     "base": {
       "hp": 100,
       "atk": 100,
@@ -7283,7 +7283,7 @@
       "ja": "ホーホー"
     },
     "form": 0,
-    "galar-dex": 19,
+    "galardex": 19,
     "base": {
       "hp": 60,
       "atk": 30,
@@ -7368,7 +7368,7 @@
       "ja": "ヨルノズク"
     },
     "form": 0,
-    "galar-dex": 20,
+    "galardex": 20,
     "base": {
       "hp": 100,
       "atk": 50,
@@ -7452,7 +7452,7 @@
       "ja": "チョンチー"
     },
     "form": 0,
-    "galar-dex": 220,
+    "galardex": 220,
     "base": {
       "hp": 75,
       "atk": 38,
@@ -7533,7 +7533,7 @@
       "ja": "ランターン"
     },
     "form": 0,
-    "galar-dex": 221,
+    "galardex": 221,
     "base": {
       "hp": 125,
       "atk": 58,
@@ -7615,7 +7615,7 @@
       "ja": "ピチュー"
     },
     "form": 0,
-    "galar-dex": 193,
+    "galardex": 193,
     "base": {
       "hp": 20,
       "atk": 40,
@@ -7696,7 +7696,7 @@
       "ja": "ピィ"
     },
     "form": 0,
-    "galar-dex": 254,
+    "galardex": 254,
     "base": {
       "hp": 50,
       "atk": 25,
@@ -7787,7 +7787,7 @@
       "ja": "トゲピー"
     },
     "form": 0,
-    "galar-dex": 257,
+    "galardex": 257,
     "base": {
       "hp": 35,
       "atk": 20,
@@ -7883,7 +7883,7 @@
       "ja": "トゲチック"
     },
     "form": 0,
-    "galar-dex": 258,
+    "galardex": 258,
     "base": {
       "hp": 55,
       "atk": 40,
@@ -7992,7 +7992,7 @@
       "ja": "ネイティ"
     },
     "form": 0,
-    "galar-dex": 92,
+    "galardex": 92,
     "base": {
       "hp": 40,
       "atk": 50,
@@ -8081,7 +8081,7 @@
       "ja": "ネイティオ"
     },
     "form": 0,
-    "galar-dex": 93,
+    "galardex": 93,
     "base": {
       "hp": 65,
       "atk": 75,
@@ -8170,7 +8170,7 @@
       "ja": "キレイハナ"
     },
     "form": 0,
-    "galar-dex": 58,
+    "galardex": 58,
     "base": {
       "hp": 75,
       "atk": 80,
@@ -8257,7 +8257,7 @@
       "ja": "ウソッキー"
     },
     "form": 0,
-    "galar-dex": 253,
+    "galardex": 253,
     "base": {
       "hp": 70,
       "atk": 100,
@@ -8346,7 +8346,7 @@
       "ja": "ウパー"
     },
     "form": 0,
-    "galar-dex": 100,
+    "galardex": 100,
     "base": {
       "hp": 55,
       "atk": 45,
@@ -8438,7 +8438,7 @@
       "ja": "ヌオー"
     },
     "form": 0,
-    "galar-dex": 101,
+    "galardex": 101,
     "base": {
       "hp": 95,
       "atk": 85,
@@ -8538,7 +8538,7 @@
       "ja": "エーフィ"
     },
     "form": 0,
-    "galar-dex": 200,
+    "galardex": 200,
     "base": {
       "hp": 65,
       "atk": 65,
@@ -8636,7 +8636,7 @@
       "ja": "ブラッキー"
     },
     "form": 0,
-    "galar-dex": 201,
+    "galardex": 201,
     "base": {
       "hp": 95,
       "atk": 65,
@@ -8730,7 +8730,7 @@
       "ja": "ソーナンス"
     },
     "form": 0,
-    "galar-dex": 217,
+    "galardex": 217,
     "base": {
       "hp": 190,
       "atk": 33,
@@ -8767,7 +8767,7 @@
       "ja": "ハガネール"
     },
     "form": 0,
-    "galar-dex": 179,
+    "galardex": 179,
     "base": {
       "hp": 75,
       "atk": 85,
@@ -8865,7 +8865,7 @@
       "ja": "ハリーセン"
     },
     "form": 0,
-    "galar-dex": 304,
+    "galardex": 304,
     "base": {
       "hp": 65,
       "atk": 95,
@@ -8961,7 +8961,7 @@
       "ja": "ツボツボ"
     },
     "form": 0,
-    "galar-dex": 227,
+    "galardex": 227,
     "base": {
       "hp": 20,
       "atk": 10,
@@ -9044,7 +9044,7 @@
       "ja": "ニューラ"
     },
     "form": 0,
-    "galar-dex": 292,
+    "galardex": 292,
     "base": {
       "hp": 55,
       "atk": 95,
@@ -9143,7 +9143,7 @@
       "ja": "ウリムー"
     },
     "form": 0,
-    "galar-dex": 75,
+    "galardex": 75,
     "base": {
       "hp": 50,
       "atk": 50,
@@ -9224,7 +9224,7 @@
       "ja": "イノムー"
     },
     "form": 0,
-    "galar-dex": 76,
+    "galardex": 76,
     "base": {
       "hp": 100,
       "atk": 100,
@@ -9312,7 +9312,7 @@
       "ja": "サニーゴ"
     },
     "form": 0,
-    "galar-dex": 236,
+    "galardex": 236,
     "base": {
       "hp": 65,
       "atk": 55,
@@ -9404,7 +9404,7 @@
       "ja": "サニーゴ"
     },
     "form": 1,
-    "galar-dex": 236,
+    "galardex": 236,
     "base": {
       "hp": 60,
       "atk": 55,
@@ -9504,7 +9504,7 @@
       "ja": "テッポウオ"
     },
     "form": 0,
-    "galar-dex": 148,
+    "galardex": 148,
     "base": {
       "hp": 35,
       "atk": 65,
@@ -9589,7 +9589,7 @@
       "ja": "オクタン"
     },
     "form": 0,
-    "galar-dex": 149,
+    "galardex": 149,
     "base": {
       "hp": 75,
       "atk": 105,
@@ -9677,7 +9677,7 @@
       "ja": "デリバード"
     },
     "form": 0,
-    "galar-dex": 78,
+    "galardex": 78,
     "base": {
       "hp": 45,
       "atk": 55,
@@ -9759,7 +9759,7 @@
       "ja": "マンタイン"
     },
     "form": 0,
-    "galar-dex": 355,
+    "galardex": 355,
     "base": {
       "hp": 85,
       "atk": 40,
@@ -9852,7 +9852,7 @@
       "ja": "バルキー"
     },
     "form": 0,
-    "galar-dex": 107,
+    "galardex": 107,
     "base": {
       "hp": 35,
       "atk": 35,
@@ -9932,7 +9932,7 @@
       "ja": "カポエラー"
     },
     "form": 0,
-    "galar-dex": 110,
+    "galardex": 110,
     "base": {
       "hp": 50,
       "atk": 95,
@@ -10016,7 +10016,7 @@
       "ja": "ヨーギラス"
     },
     "form": 0,
-    "galar-dex": 383,
+    "galardex": 383,
     "base": {
       "hp": 50,
       "atk": 64,
@@ -10102,7 +10102,7 @@
       "ja": "サナギラス"
     },
     "form": 0,
-    "galar-dex": 384,
+    "galardex": 384,
     "base": {
       "hp": 70,
       "atk": 84,
@@ -10188,7 +10188,7 @@
       "ja": "バンギラス"
     },
     "form": 0,
-    "galar-dex": 385,
+    "galardex": 385,
     "base": {
       "hp": 100,
       "atk": 134,
@@ -10303,7 +10303,7 @@
       "ja": "セレビィ"
     },
     "form": 0,
-    "galar-dex": -1,
+    "galardex": -1,
     "base": {
       "hp": 100,
       "atk": 100,
@@ -10397,7 +10397,7 @@
       "ja": "ジグザグマ"
     },
     "form": 0,
-    "galar-dex": 31,
+    "galardex": 31,
     "base": {
       "hp": 38,
       "atk": 30,
@@ -10483,7 +10483,7 @@
       "ja": "ジグザグマ"
     },
     "form": 1,
-    "galar-dex": 31,
+    "galardex": 31,
     "base": {
       "hp": 38,
       "atk": 30,
@@ -10573,7 +10573,7 @@
       "ja": "マッスグマ"
     },
     "form": 0,
-    "galar-dex": 32,
+    "galardex": 32,
     "base": {
       "hp": 78,
       "atk": 70,
@@ -10664,7 +10664,7 @@
       "ja": "マッスグマ"
     },
     "form": 1,
-    "galar-dex": 32,
+    "galardex": 32,
     "base": {
       "hp": 78,
       "atk": 70,
@@ -10764,7 +10764,7 @@
       "ja": "ハスボー"
     },
     "form": 0,
-    "galar-dex": 36,
+    "galardex": 36,
     "base": {
       "hp": 40,
       "atk": 30,
@@ -10844,7 +10844,7 @@
       "ja": "ハスブレロ"
     },
     "form": 0,
-    "galar-dex": 37,
+    "galardex": 37,
     "base": {
       "hp": 60,
       "atk": 50,
@@ -10942,7 +10942,7 @@
       "ja": "ルンパッパ"
     },
     "form": 0,
-    "galar-dex": 38,
+    "galardex": 38,
     "base": {
       "hp": 80,
       "atk": 70,
@@ -11042,7 +11042,7 @@
       "ja": "タネボー"
     },
     "form": 0,
-    "galar-dex": 39,
+    "galardex": 39,
     "base": {
       "hp": 40,
       "atk": 40,
@@ -11123,7 +11123,7 @@
       "ja": "コノハナ"
     },
     "form": 0,
-    "galar-dex": 40,
+    "galardex": 40,
     "base": {
       "hp": 70,
       "atk": 70,
@@ -11226,7 +11226,7 @@
       "ja": "ダーテング"
     },
     "form": 0,
-    "galar-dex": 41,
+    "galardex": 41,
     "base": {
       "hp": 90,
       "atk": 100,
@@ -11339,7 +11339,7 @@
       "ja": "キャモメ"
     },
     "form": 0,
-    "galar-dex": 62,
+    "galardex": 62,
     "base": {
       "hp": 40,
       "atk": 30,
@@ -11416,7 +11416,7 @@
       "ja": "ペリッパー"
     },
     "form": 0,
-    "galar-dex": 63,
+    "galardex": 63,
     "base": {
       "hp": 60,
       "atk": 50,
@@ -11503,7 +11503,7 @@
       "ja": "ラルトス"
     },
     "form": 0,
-    "galar-dex": 120,
+    "galardex": 120,
     "base": {
       "hp": 28,
       "atk": 25,
@@ -11607,7 +11607,7 @@
       "ja": "キルリア"
     },
     "form": 0,
-    "galar-dex": 121,
+    "galardex": 121,
     "base": {
       "hp": 38,
       "atk": 35,
@@ -11715,7 +11715,7 @@
       "ja": "サーナイト"
     },
     "form": 0,
-    "galar-dex": 122,
+    "galardex": 122,
     "base": {
       "hp": 68,
       "atk": 65,
@@ -11825,7 +11825,7 @@
       "ja": "ツチニン"
     },
     "form": 0,
-    "galar-dex": 104,
+    "galardex": 104,
     "base": {
       "hp": 31,
       "atk": 45,
@@ -11891,7 +11891,7 @@
       "ja": "テッカニン"
     },
     "form": 0,
-    "galar-dex": 105,
+    "galardex": 105,
     "base": {
       "hp": 61,
       "atk": 90,
@@ -11968,7 +11968,7 @@
       "ja": "ヌケニン"
     },
     "form": 0,
-    "galar-dex": 106,
+    "galardex": 106,
     "base": {
       "hp": 1,
       "atk": 90,
@@ -12038,7 +12038,7 @@
       "ja": "ヤミラミ"
     },
     "form": 0,
-    "galar-dex": 294,
+    "galardex": 294,
     "base": {
       "hp": 50,
       "atk": 75,
@@ -12138,7 +12138,7 @@
       "ja": "クチート"
     },
     "form": 0,
-    "galar-dex": 295,
+    "galardex": 295,
     "base": {
       "hp": 50,
       "atk": 85,
@@ -12239,7 +12239,7 @@
       "ja": "ラクライ"
     },
     "form": 0,
-    "galar-dex": 66,
+    "galardex": 66,
     "base": {
       "hp": 40,
       "atk": 45,
@@ -12317,7 +12317,7 @@
       "ja": "ライボルト"
     },
     "form": 0,
-    "galar-dex": 67,
+    "galardex": 67,
     "base": {
       "hp": 70,
       "atk": 75,
@@ -12396,7 +12396,7 @@
       "ja": "ロゼリア"
     },
     "form": 0,
-    "galar-dex": 60,
+    "galardex": 60,
     "base": {
       "hp": 50,
       "atk": 60,
@@ -12483,7 +12483,7 @@
       "ja": "ホエルコ"
     },
     "form": 0,
-    "galar-dex": 356,
+    "galardex": 356,
     "base": {
       "hp": 130,
       "atk": 70,
@@ -12567,7 +12567,7 @@
       "ja": "ホエルオー"
     },
     "form": 0,
-    "galar-dex": 357,
+    "galardex": 357,
     "base": {
       "hp": 170,
       "atk": 90,
@@ -12651,7 +12651,7 @@
       "ja": "コータス"
     },
     "form": 0,
-    "galar-dex": 300,
+    "galardex": 300,
     "base": {
       "hp": 70,
       "atk": 85,
@@ -12735,7 +12735,7 @@
       "ja": "ナックラー"
     },
     "form": 0,
-    "galar-dex": 321,
+    "galardex": 321,
     "base": {
       "hp": 45,
       "atk": 100,
@@ -12808,7 +12808,7 @@
       "ja": "ビブラーバ"
     },
     "form": 0,
-    "galar-dex": 322,
+    "galardex": 322,
     "base": {
       "hp": 50,
       "atk": 70,
@@ -12899,7 +12899,7 @@
       "ja": "フライゴン"
     },
     "form": 0,
-    "galar-dex": 323,
+    "galardex": 323,
     "base": {
       "hp": 80,
       "atk": 100,
@@ -12999,7 +12999,7 @@
       "ja": "ルナトーン"
     },
     "form": 0,
-    "galar-dex": 362,
+    "galardex": 362,
     "base": {
       "hp": 90,
       "atk": 55,
@@ -13093,7 +13093,7 @@
       "ja": "ソルロック"
     },
     "form": 0,
-    "galar-dex": 363,
+    "galardex": 363,
     "base": {
       "hp": 90,
       "atk": 95,
@@ -13190,7 +13190,7 @@
       "ja": "ドジョッチ"
     },
     "form": 0,
-    "galar-dex": 228,
+    "galardex": 228,
     "base": {
       "hp": 50,
       "atk": 48,
@@ -13265,7 +13265,7 @@
       "ja": "ナマズン"
     },
     "form": 0,
-    "galar-dex": 229,
+    "galardex": 229,
     "base": {
       "hp": 110,
       "atk": 78,
@@ -13347,7 +13347,7 @@
       "ja": "ヘイガニ"
     },
     "form": 0,
-    "galar-dex": 102,
+    "galardex": 102,
     "base": {
       "hp": 43,
       "atk": 80,
@@ -13435,7 +13435,7 @@
       "ja": "シザリガー"
     },
     "form": 0,
-    "galar-dex": 103,
+    "galardex": 103,
     "base": {
       "hp": 63,
       "atk": 120,
@@ -13532,7 +13532,7 @@
       "ja": "ヤジロン"
     },
     "form": 0,
-    "galar-dex": 82,
+    "galardex": 82,
     "base": {
       "hp": 40,
       "atk": 40,
@@ -13624,7 +13624,7 @@
       "ja": "ネンドール"
     },
     "form": 0,
-    "galar-dex": 83,
+    "galardex": 83,
     "base": {
       "hp": 60,
       "atk": 70,
@@ -13720,7 +13720,7 @@
       "ja": "ヒンバス"
     },
     "form": 0,
-    "galar-dex": 152,
+    "galardex": 152,
     "base": {
       "hp": 20,
       "atk": 15,
@@ -13794,7 +13794,7 @@
       "ja": "ミロカロス"
     },
     "form": 0,
-    "galar-dex": 153,
+    "galardex": 153,
     "base": {
       "hp": 95,
       "atk": 60,
@@ -13884,7 +13884,7 @@
       "ja": "ヨマワル"
     },
     "form": 0,
-    "galar-dex": 135,
+    "galardex": 135,
     "base": {
       "hp": 20,
       "atk": 40,
@@ -13964,7 +13964,7 @@
       "ja": "サマヨール"
     },
     "form": 0,
-    "galar-dex": 136,
+    "galardex": 136,
     "base": {
       "hp": 40,
       "atk": 70,
@@ -14060,7 +14060,7 @@
       "ja": "ソーナノ"
     },
     "form": 0,
-    "galar-dex": 216,
+    "galardex": 216,
     "base": {
       "hp": 95,
       "atk": 23,
@@ -14102,7 +14102,7 @@
       "ja": "ユキワラシ"
     },
     "form": 0,
-    "galar-dex": 79,
+    "galardex": 79,
     "base": {
       "hp": 50,
       "atk": 50,
@@ -14178,7 +14178,7 @@
       "ja": "オニゴーリ"
     },
     "form": 0,
-    "galar-dex": 80,
+    "galardex": 80,
     "base": {
       "hp": 80,
       "atk": 80,
@@ -14259,7 +14259,7 @@
       "ja": "ジラーチ"
     },
     "form": 0,
-    "galar-dex": -1,
+    "galardex": -1,
     "base": {
       "hp": 100,
       "atk": 100,
@@ -14358,7 +14358,7 @@
       "ja": "スボミー"
     },
     "form": 0,
-    "galar-dex": 59,
+    "galardex": 59,
     "base": {
       "hp": 40,
       "atk": 30,
@@ -14431,7 +14431,7 @@
       "ja": "ロズレイド"
     },
     "form": 0,
-    "galar-dex": 61,
+    "galardex": 61,
     "base": {
       "hp": 60,
       "atk": 70,
@@ -14517,7 +14517,7 @@
       "ja": "ミツハニー"
     },
     "form": 0,
-    "galar-dex": 116,
+    "galardex": 116,
     "base": {
       "hp": 30,
       "atk": 30,
@@ -14558,7 +14558,7 @@
       "ja": "ビークイン"
     },
     "form": 0,
-    "galar-dex": 117,
+    "galardex": 117,
     "base": {
       "hp": 70,
       "atk": 80,
@@ -14639,7 +14639,7 @@
       "ja": "チェリンボ"
     },
     "form": 0,
-    "galar-dex": 128,
+    "galardex": 128,
     "base": {
       "hp": 45,
       "atk": 35,
@@ -14716,7 +14716,7 @@
       "ja": "チェリム"
     },
     "form": 0,
-    "galar-dex": 129,
+    "galardex": 129,
     "base": {
       "hp": 70,
       "atk": 60,
@@ -14793,7 +14793,7 @@
       "ja": "チェリム"
     },
     "form": 1,
-    "galar-dex": 129,
+    "galardex": 129,
     "base": {
       "hp": 70,
       "atk": 60,
@@ -14861,7 +14861,7 @@
       "ja": "カラナクシ"
     },
     "form": 0,
-    "galar-dex": 230,
+    "galardex": 230,
     "base": {
       "hp": 76,
       "atk": 48,
@@ -14938,7 +14938,7 @@
       "ja": "カラナクシ"
     },
     "form": 1,
-    "galar-dex": 230,
+    "galardex": 230,
     "base": {
       "hp": 76,
       "atk": 48,
@@ -15015,7 +15015,7 @@
       "ja": "トリトドン"
     },
     "form": 0,
-    "galar-dex": 231,
+    "galardex": 231,
     "base": {
       "hp": 111,
       "atk": 83,
@@ -15103,7 +15103,7 @@
       "ja": "トリトドン"
     },
     "form": 1,
-    "galar-dex": 231,
+    "galardex": 231,
     "base": {
       "hp": 111,
       "atk": 83,
@@ -15191,7 +15191,7 @@
       "ja": "フワンテ"
     },
     "form": 0,
-    "galar-dex": 124,
+    "galardex": 124,
     "base": {
       "hp": 90,
       "atk": 50,
@@ -15276,7 +15276,7 @@
       "ja": "フワライド"
     },
     "form": 0,
-    "galar-dex": 125,
+    "galardex": 125,
     "base": {
       "hp": 150,
       "atk": 80,
@@ -15362,7 +15362,7 @@
       "ja": "スカンプー"
     },
     "form": 0,
-    "galar-dex": 130,
+    "galardex": 130,
     "base": {
       "hp": 63,
       "atk": 63,
@@ -15453,7 +15453,7 @@
       "ja": "スカタンク"
     },
     "form": 0,
-    "galar-dex": 131,
+    "galardex": 131,
     "base": {
       "hp": 103,
       "atk": 93,
@@ -15543,7 +15543,7 @@
       "ja": "ドーミラー"
     },
     "form": 0,
-    "galar-dex": 118,
+    "galardex": 118,
     "base": {
       "hp": 57,
       "atk": 24,
@@ -15625,7 +15625,7 @@
       "ja": "ドータクン"
     },
     "form": 0,
-    "galar-dex": 119,
+    "galardex": 119,
     "base": {
       "hp": 67,
       "atk": 89,
@@ -15710,7 +15710,7 @@
       "ja": "ウソハチ"
     },
     "form": 0,
-    "galar-dex": 252,
+    "galardex": 252,
     "base": {
       "hp": 50,
       "atk": 80,
@@ -15786,7 +15786,7 @@
       "ja": "マネネ"
     },
     "form": 0,
-    "galar-dex": 364,
+    "galardex": 364,
     "base": {
       "hp": 20,
       "atk": 25,
@@ -15881,7 +15881,7 @@
       "ja": "ゴンベ"
     },
     "form": 0,
-    "galar-dex": 260,
+    "galardex": 260,
     "base": {
       "hp": 135,
       "atk": 85,
@@ -15984,7 +15984,7 @@
       "ja": "リオル"
     },
     "form": 0,
-    "galar-dex": 298,
+    "galardex": 298,
     "base": {
       "hp": 40,
       "atk": 70,
@@ -16081,7 +16081,7 @@
       "ja": "ルカリオ"
     },
     "form": 0,
-    "galar-dex": 299,
+    "galardex": 299,
     "base": {
       "hp": 70,
       "atk": 110,
@@ -16195,7 +16195,7 @@
       "ja": "ヒポポタス"
     },
     "form": 0,
-    "galar-dex": 314,
+    "galardex": 314,
     "base": {
       "hp": 68,
       "atk": 72,
@@ -16273,7 +16273,7 @@
       "ja": "カバルドン"
     },
     "form": 0,
-    "galar-dex": 315,
+    "galardex": 315,
     "base": {
       "hp": 108,
       "atk": 112,
@@ -16355,7 +16355,7 @@
       "ja": "スコルピ"
     },
     "form": 0,
-    "galar-dex": 285,
+    "galardex": 285,
     "base": {
       "hp": 40,
       "atk": 50,
@@ -16441,7 +16441,7 @@
       "ja": "ドラピオン"
     },
     "form": 0,
-    "galar-dex": 286,
+    "galardex": 286,
     "base": {
       "hp": 70,
       "atk": 90,
@@ -16539,7 +16539,7 @@
       "ja": "グレッグル"
     },
     "form": 0,
-    "galar-dex": 222,
+    "galardex": 222,
     "base": {
       "hp": 48,
       "atk": 61,
@@ -16642,7 +16642,7 @@
       "ja": "ドクロッグ"
     },
     "form": 0,
-    "galar-dex": 223,
+    "galardex": 223,
     "base": {
       "hp": 83,
       "atk": 106,
@@ -16746,7 +16746,7 @@
       "ja": "タマンタ"
     },
     "form": 0,
-    "galar-dex": 354,
+    "galardex": 354,
     "base": {
       "hp": 45,
       "atk": 20,
@@ -16828,7 +16828,7 @@
       "ja": "ユキカブリ"
     },
     "form": 0,
-    "galar-dex": 96,
+    "galardex": 96,
     "base": {
       "hp": 60,
       "atk": 62,
@@ -16908,7 +16908,7 @@
       "ja": "ユキノオー"
     },
     "form": 0,
-    "galar-dex": 97,
+    "galardex": 97,
     "base": {
       "hp": 90,
       "atk": 92,
@@ -16999,7 +16999,7 @@
       "ja": "マニューラ"
     },
     "form": 0,
-    "galar-dex": 293,
+    "galardex": 293,
     "base": {
       "hp": 70,
       "atk": 120,
@@ -17101,7 +17101,7 @@
       "ja": "ドサイドン"
     },
     "form": 0,
-    "galar-dex": 266,
+    "galardex": 266,
     "base": {
       "hp": 115,
       "atk": 140,
@@ -17222,7 +17222,7 @@
       "ja": "トゲキッス"
     },
     "form": 0,
-    "galar-dex": 259,
+    "galardex": 259,
     "base": {
       "hp": 85,
       "atk": 50,
@@ -17332,7 +17332,7 @@
       "ja": "リーフィア"
     },
     "form": 0,
-    "galar-dex": 202,
+    "galardex": 202,
     "base": {
       "hp": 65,
       "atk": 110,
@@ -17425,7 +17425,7 @@
       "ja": "グレイシア"
     },
     "form": 0,
-    "galar-dex": 203,
+    "galardex": 203,
     "base": {
       "hp": 65,
       "atk": 60,
@@ -17513,7 +17513,7 @@
       "ja": "マンムー"
     },
     "form": 0,
-    "galar-dex": 77,
+    "galardex": 77,
     "base": {
       "hp": 110,
       "atk": 130,
@@ -17601,7 +17601,7 @@
       "ja": "エルレイド"
     },
     "form": 0,
-    "galar-dex": 123,
+    "galardex": 123,
     "base": {
       "hp": 68,
       "atk": 125,
@@ -17737,7 +17737,7 @@
       "ja": "ヨノワール"
     },
     "form": 0,
-    "galar-dex": 137,
+    "galardex": 137,
     "base": {
       "hp": 45,
       "atk": 100,
@@ -17831,7 +17831,7 @@
       "ja": "ユキメノコ"
     },
     "form": 0,
-    "galar-dex": 81,
+    "galardex": 81,
     "base": {
       "hp": 70,
       "atk": 80,
@@ -17920,7 +17920,7 @@
       "ja": "ロトム"
     },
     "form": 0,
-    "galar-dex": 372,
+    "galardex": 372,
     "base": {
       "hp": 50,
       "atk": 50,
@@ -17991,7 +17991,7 @@
       "ja": "ロトム"
     },
     "form": 1,
-    "galar-dex": 372,
+    "galardex": 372,
     "base": {
       "hp": 50,
       "atk": 65,
@@ -18062,7 +18062,7 @@
       "ja": "ロトム"
     },
     "form": 2,
-    "galar-dex": 372,
+    "galardex": 372,
     "base": {
       "hp": 50,
       "atk": 65,
@@ -18133,7 +18133,7 @@
       "ja": "ロトム"
     },
     "form": 3,
-    "galar-dex": 372,
+    "galardex": 372,
     "base": {
       "hp": 50,
       "atk": 65,
@@ -18204,7 +18204,7 @@
       "ja": "ロトム"
     },
     "form": 4,
-    "galar-dex": 372,
+    "galardex": 372,
     "base": {
       "hp": 50,
       "atk": 65,
@@ -18275,7 +18275,7 @@
       "ja": "ロトム"
     },
     "form": 5,
-    "galar-dex": 372,
+    "galardex": 372,
     "base": {
       "hp": 50,
       "atk": 65,
@@ -18346,7 +18346,7 @@
       "ja": "チョロネコ"
     },
     "form": 0,
-    "galar-dex": 44,
+    "galardex": 44,
     "base": {
       "hp": 41,
       "atk": 50,
@@ -18432,7 +18432,7 @@
       "ja": "レパルダス"
     },
     "form": 0,
-    "galar-dex": 45,
+    "galardex": 45,
     "base": {
       "hp": 64,
       "atk": 88,
@@ -18517,7 +18517,7 @@
       "ja": "ムンナ"
     },
     "form": 0,
-    "galar-dex": 90,
+    "galardex": 90,
     "base": {
       "hp": 76,
       "atk": 25,
@@ -18598,7 +18598,7 @@
       "ja": "ムシャーナ"
     },
     "form": 0,
-    "galar-dex": 91,
+    "galardex": 91,
     "base": {
       "hp": 116,
       "atk": 55,
@@ -18677,7 +18677,7 @@
       "ja": "マメパト"
     },
     "form": 0,
-    "galar-dex": 26,
+    "galardex": 26,
     "base": {
       "hp": 50,
       "atk": 55,
@@ -18750,7 +18750,7 @@
       "ja": "ハトーボー"
     },
     "form": 0,
-    "galar-dex": 27,
+    "galardex": 27,
     "base": {
       "hp": 62,
       "atk": 77,
@@ -18823,7 +18823,7 @@
       "ja": "ケンホロウ"
     },
     "form": 0,
-    "galar-dex": 28,
+    "galardex": 28,
     "base": {
       "hp": 80,
       "atk": 115,
@@ -18895,7 +18895,7 @@
       "ja": "ダンゴロ"
     },
     "form": 0,
-    "galar-dex": 168,
+    "galardex": 168,
     "base": {
       "hp": 55,
       "atk": 75,
@@ -18964,7 +18964,7 @@
       "ja": "ガントル"
     },
     "form": 0,
-    "galar-dex": 169,
+    "galardex": 169,
     "base": {
       "hp": 70,
       "atk": 105,
@@ -19035,7 +19035,7 @@
       "ja": "ギガイアス"
     },
     "form": 0,
-    "galar-dex": 170,
+    "galardex": 170,
     "base": {
       "hp": 85,
       "atk": 135,
@@ -19109,7 +19109,7 @@
       "ja": "コロモリ"
     },
     "form": 0,
-    "galar-dex": 174,
+    "galardex": 174,
     "base": {
       "hp": 65,
       "atk": 45,
@@ -19203,7 +19203,7 @@
       "ja": "ココロモリ"
     },
     "form": 0,
-    "galar-dex": 175,
+    "galardex": 175,
     "base": {
       "hp": 67,
       "atk": 57,
@@ -19295,7 +19295,7 @@
       "ja": "モグリュー"
     },
     "form": 0,
-    "galar-dex": 166,
+    "galardex": 166,
     "base": {
       "hp": 60,
       "atk": 85,
@@ -19369,7 +19369,7 @@
       "ja": "ドリュウズ"
     },
     "form": 0,
-    "galar-dex": 167,
+    "galardex": 167,
     "base": {
       "hp": 110,
       "atk": 135,
@@ -19448,7 +19448,7 @@
       "ja": "ドッコラー"
     },
     "form": 0,
-    "galar-dex": 171,
+    "galardex": 171,
     "base": {
       "hp": 75,
       "atk": 80,
@@ -19535,7 +19535,7 @@
       "ja": "ドテッコツ"
     },
     "form": 0,
-    "galar-dex": 172,
+    "galardex": 172,
     "base": {
       "hp": 85,
       "atk": 105,
@@ -19624,7 +19624,7 @@
       "ja": "ローブシン"
     },
     "form": 0,
-    "galar-dex": 173,
+    "galardex": 173,
     "base": {
       "hp": 105,
       "atk": 140,
@@ -19714,7 +19714,7 @@
       "ja": "オタマロ"
     },
     "form": 0,
-    "galar-dex": 132,
+    "galardex": 132,
     "base": {
       "hp": 50,
       "atk": 50,
@@ -19785,7 +19785,7 @@
       "ja": "ガマガル"
     },
     "form": 0,
-    "galar-dex": 133,
+    "galardex": 133,
     "base": {
       "hp": 75,
       "atk": 65,
@@ -19860,7 +19860,7 @@
       "ja": "ガマゲロゲ"
     },
     "form": 0,
-    "galar-dex": 134,
+    "galardex": 134,
     "base": {
       "hp": 105,
       "atk": 95,
@@ -19952,7 +19952,7 @@
       "ja": "ナゲキ"
     },
     "form": 0,
-    "galar-dex": 248,
+    "galardex": 248,
     "base": {
       "hp": 120,
       "atk": 100,
@@ -20032,7 +20032,7 @@
       "ja": "ダゲキ"
     },
     "form": 0,
-    "galar-dex": 249,
+    "galardex": 249,
     "base": {
       "hp": 75,
       "atk": 125,
@@ -20110,7 +20110,7 @@
       "ja": "モンメン"
     },
     "form": 0,
-    "galar-dex": 262,
+    "galardex": 262,
     "base": {
       "hp": 40,
       "atk": 27,
@@ -20187,7 +20187,7 @@
       "ja": "エルフーン"
     },
     "form": 0,
-    "galar-dex": 263,
+    "galardex": 263,
     "base": {
       "hp": 60,
       "atk": 67,
@@ -20273,7 +20273,7 @@
       "ja": "バスラオ"
     },
     "form": 0,
-    "galar-dex": 154,
+    "galardex": 154,
     "base": {
       "hp": 70,
       "atk": 92,
@@ -20355,7 +20355,7 @@
       "ja": "バスラオ"
     },
     "form": 1,
-    "galar-dex": 154,
+    "galardex": 154,
     "base": {
       "hp": 70,
       "atk": 92,
@@ -20437,7 +20437,7 @@
       "ja": "ダルマッカ"
     },
     "form": 0,
-    "galar-dex": 367,
+    "galardex": 367,
     "base": {
       "hp": 70,
       "atk": 90,
@@ -20522,7 +20522,7 @@
       "ja": "ダルマッカ"
     },
     "form": 1,
-    "galar-dex": 367,
+    "galardex": 367,
     "base": {
       "hp": 70,
       "atk": 90,
@@ -20613,7 +20613,7 @@
       "ja": "ヒヒダルマ"
     },
     "form": 0,
-    "galar-dex": 368,
+    "galardex": 368,
     "base": {
       "hp": 105,
       "atk": 140,
@@ -20712,7 +20712,7 @@
       "ja": "ヒヒダルマ"
     },
     "form": 1,
-    "galar-dex": 368,
+    "galardex": 368,
     "base": {
       "hp": 105,
       "atk": 30,
@@ -20807,7 +20807,7 @@
       "ja": "ヒヒダルマ"
     },
     "form": 2,
-    "galar-dex": 368,
+    "galardex": 368,
     "base": {
       "hp": 105,
       "atk": 140,
@@ -20908,7 +20908,7 @@
       "ja": "ヒヒダルマ"
     },
     "form": 3,
-    "galar-dex": 368,
+    "galardex": 368,
     "base": {
       "hp": 105,
       "atk": 160,
@@ -21002,7 +21002,7 @@
       "ja": "マラカッチ"
     },
     "form": 0,
-    "galar-dex": 296,
+    "galardex": 296,
     "base": {
       "hp": 75,
       "atk": 86,
@@ -21081,7 +21081,7 @@
       "ja": "イシズマイ"
     },
     "form": 0,
-    "galar-dex": 86,
+    "galardex": 86,
     "base": {
       "hp": 50,
       "atk": 65,
@@ -21158,7 +21158,7 @@
       "ja": "イワパレス"
     },
     "form": 0,
-    "galar-dex": 87,
+    "galardex": 87,
     "base": {
       "hp": 70,
       "atk": 105,
@@ -21236,7 +21236,7 @@
       "ja": "ズルッグ"
     },
     "form": 0,
-    "galar-dex": 224,
+    "galardex": 224,
     "base": {
       "hp": 50,
       "atk": 75,
@@ -21336,7 +21336,7 @@
       "ja": "ズルズキン"
     },
     "form": 0,
-    "galar-dex": 225,
+    "galardex": 225,
     "base": {
       "hp": 65,
       "atk": 90,
@@ -21436,7 +21436,7 @@
       "ja": "シンボラー"
     },
     "form": 0,
-    "galar-dex": 297,
+    "galardex": 297,
     "base": {
       "hp": 72,
       "atk": 58,
@@ -21523,7 +21523,7 @@
       "ja": "デスマス"
     },
     "form": 0,
-    "galar-dex": 327,
+    "galardex": 327,
     "base": {
       "hp": 38,
       "atk": 30,
@@ -21600,7 +21600,7 @@
       "ja": "デスマス"
     },
     "form": 1,
-    "galar-dex": 327,
+    "galardex": 327,
     "base": {
       "hp": 38,
       "atk": 55,
@@ -21684,7 +21684,7 @@
       "ja": "デスカーン"
     },
     "form": 0,
-    "galar-dex": 329,
+    "galardex": 329,
     "base": {
       "hp": 58,
       "atk": 50,
@@ -21766,7 +21766,7 @@
       "ja": "ヤブクロン"
     },
     "form": 0,
-    "galar-dex": 157,
+    "galardex": 157,
     "base": {
       "hp": 50,
       "atk": 50,
@@ -21845,7 +21845,7 @@
       "ja": "ダストダス"
     },
     "form": 0,
-    "galar-dex": 158,
+    "galardex": 158,
     "base": {
       "hp": 80,
       "atk": 95,
@@ -21932,7 +21932,7 @@
       "ja": "チラーミィ"
     },
     "form": 0,
-    "galar-dex": 50,
+    "galardex": 50,
     "base": {
       "hp": 55,
       "atk": 50,
@@ -22013,7 +22013,7 @@
       "ja": "チラチーノ"
     },
     "form": 0,
-    "galar-dex": 51,
+    "galardex": 51,
     "base": {
       "hp": 75,
       "atk": 95,
@@ -22096,7 +22096,7 @@
       "ja": "ゴチム"
     },
     "form": 0,
-    "galar-dex": 267,
+    "galardex": 267,
     "base": {
       "hp": 45,
       "atk": 30,
@@ -22186,7 +22186,7 @@
       "ja": "ゴチミル"
     },
     "form": 0,
-    "galar-dex": 268,
+    "galardex": 268,
     "base": {
       "hp": 60,
       "atk": 45,
@@ -22276,7 +22276,7 @@
       "ja": "ゴチルゼル"
     },
     "form": 0,
-    "galar-dex": 269,
+    "galardex": 269,
     "base": {
       "hp": 70,
       "atk": 55,
@@ -22367,7 +22367,7 @@
       "ja": "ユニラン"
     },
     "form": 0,
-    "galar-dex": 270,
+    "galardex": 270,
     "base": {
       "hp": 45,
       "atk": 30,
@@ -22449,7 +22449,7 @@
       "ja": "ダブラン"
     },
     "form": 0,
-    "galar-dex": 271,
+    "galardex": 271,
     "base": {
       "hp": 65,
       "atk": 40,
@@ -22531,7 +22531,7 @@
       "ja": "ランクルス"
     },
     "form": 0,
-    "galar-dex": 272,
+    "galardex": 272,
     "base": {
       "hp": 110,
       "atk": 65,
@@ -22620,7 +22620,7 @@
       "ja": "バニプッチ"
     },
     "form": 0,
-    "galar-dex": 72,
+    "galardex": 72,
     "base": {
       "hp": 36,
       "atk": 50,
@@ -22691,7 +22691,7 @@
       "ja": "バニリッチ"
     },
     "form": 0,
-    "galar-dex": 73,
+    "galardex": 73,
     "base": {
       "hp": 51,
       "atk": 65,
@@ -22762,7 +22762,7 @@
       "ja": "バイバニラ"
     },
     "form": 0,
-    "galar-dex": 74,
+    "galardex": 74,
     "base": {
       "hp": 71,
       "atk": 95,
@@ -22833,7 +22833,7 @@
       "ja": "カブルモ"
     },
     "form": 0,
-    "galar-dex": 273,
+    "galardex": 273,
     "base": {
       "hp": 50,
       "atk": 75,
@@ -22903,7 +22903,7 @@
       "ja": "シュバルゴ"
     },
     "form": 0,
-    "galar-dex": 274,
+    "galardex": 274,
     "base": {
       "hp": 70,
       "atk": 135,
@@ -22984,7 +22984,7 @@
       "ja": "プルリル"
     },
     "form": 0,
-    "galar-dex": 305,
+    "galardex": 305,
     "base": {
       "hp": 55,
       "atk": 40,
@@ -23069,7 +23069,7 @@
       "ja": "ブルンゲル"
     },
     "form": 0,
-    "galar-dex": 306,
+    "galardex": 306,
     "base": {
       "hp": 100,
       "atk": 60,
@@ -23152,7 +23152,7 @@
       "ja": "バチュル"
     },
     "form": 0,
-    "galar-dex": 64,
+    "galardex": 64,
     "base": {
       "hp": 50,
       "atk": 47,
@@ -23231,7 +23231,7 @@
       "ja": "デンチュラ"
     },
     "form": 0,
-    "galar-dex": 65,
+    "galardex": 65,
     "base": {
       "hp": 70,
       "atk": 77,
@@ -23310,7 +23310,7 @@
       "ja": "テッシード"
     },
     "form": 0,
-    "galar-dex": 189,
+    "galardex": 189,
     "base": {
       "hp": 44,
       "atk": 50,
@@ -23385,7 +23385,7 @@
       "ja": "ナットレイ"
     },
     "form": 0,
-    "galar-dex": 190,
+    "galardex": 190,
     "base": {
       "hp": 74,
       "atk": 94,
@@ -23467,7 +23467,7 @@
       "ja": "ギアル"
     },
     "form": 0,
-    "galar-dex": 113,
+    "galardex": 113,
     "base": {
       "hp": 40,
       "atk": 55,
@@ -23533,7 +23533,7 @@
       "ja": "ギギアル"
     },
     "form": 0,
-    "galar-dex": 114,
+    "galardex": 114,
     "base": {
       "hp": 60,
       "atk": 80,
@@ -23600,7 +23600,7 @@
       "ja": "ギギギアル"
     },
     "form": 0,
-    "galar-dex": 115,
+    "galardex": 115,
     "base": {
       "hp": 60,
       "atk": 100,
@@ -23668,7 +23668,7 @@
       "ja": "リグレー"
     },
     "form": 0,
-    "galar-dex": 277,
+    "galardex": 277,
     "base": {
       "hp": 55,
       "atk": 55,
@@ -23754,7 +23754,7 @@
       "ja": "オーベム"
     },
     "form": 0,
-    "galar-dex": 278,
+    "galardex": 278,
     "base": {
       "hp": 75,
       "atk": 75,
@@ -23841,7 +23841,7 @@
       "ja": "ヒトモシ"
     },
     "form": 0,
-    "galar-dex": 287,
+    "galardex": 287,
     "base": {
       "hp": 50,
       "atk": 30,
@@ -23922,7 +23922,7 @@
       "ja": "ランプラー"
     },
     "form": 0,
-    "galar-dex": 288,
+    "galardex": 288,
     "base": {
       "hp": 60,
       "atk": 40,
@@ -24003,7 +24003,7 @@
       "ja": "シャンデラ"
     },
     "form": 0,
-    "galar-dex": 289,
+    "galardex": 289,
     "base": {
       "hp": 60,
       "atk": 55,
@@ -24081,7 +24081,7 @@
       "ja": "キバゴ"
     },
     "form": 0,
-    "galar-dex": 324,
+    "galardex": 324,
     "base": {
       "hp": 46,
       "atk": 87,
@@ -24161,7 +24161,7 @@
       "ja": "オノンド"
     },
     "form": 0,
-    "galar-dex": 325,
+    "galardex": 325,
     "base": {
       "hp": 66,
       "atk": 117,
@@ -24244,7 +24244,7 @@
       "ja": "オノノクス"
     },
     "form": 0,
-    "galar-dex": 326,
+    "galardex": 326,
     "base": {
       "hp": 76,
       "atk": 147,
@@ -24334,7 +24334,7 @@
       "ja": "クマシュン"
     },
     "form": 0,
-    "galar-dex": 279,
+    "galardex": 279,
     "base": {
       "hp": 55,
       "atk": 70,
@@ -24412,7 +24412,7 @@
       "ja": "ツンベアー"
     },
     "form": 0,
-    "galar-dex": 280,
+    "galardex": 280,
     "base": {
       "hp": 95,
       "atk": 130,
@@ -24505,7 +24505,7 @@
       "ja": "チョボマキ"
     },
     "form": 0,
-    "galar-dex": 275,
+    "galardex": 275,
     "base": {
       "hp": 50,
       "atk": 40,
@@ -24575,7 +24575,7 @@
       "ja": "アギルダー"
     },
     "form": 0,
-    "galar-dex": 276,
+    "galardex": 276,
     "base": {
       "hp": 80,
       "atk": 70,
@@ -24656,7 +24656,7 @@
       "ja": "マッギョ"
     },
     "form": 0,
-    "galar-dex": 226,
+    "galardex": 226,
     "base": {
       "hp": 109,
       "atk": 66,
@@ -24739,7 +24739,7 @@
       "ja": "マッギョ"
     },
     "form": 1,
-    "galar-dex": 226,
+    "galardex": 226,
     "base": {
       "hp": 109,
       "atk": 81,
@@ -24823,7 +24823,7 @@
       "ja": "ゴビット"
     },
     "form": 0,
-    "galar-dex": 88,
+    "galardex": 88,
     "base": {
       "hp": 59,
       "atk": 74,
@@ -24911,7 +24911,7 @@
       "ja": "ゴルーグ"
     },
     "form": 0,
-    "galar-dex": 89,
+    "galardex": 89,
     "base": {
       "hp": 89,
       "atk": 124,
@@ -25010,7 +25010,7 @@
       "ja": "コマタナ"
     },
     "form": 0,
-    "galar-dex": 246,
+    "galardex": 246,
     "base": {
       "hp": 45,
       "atk": 85,
@@ -25099,7 +25099,7 @@
       "ja": "キリキザン"
     },
     "form": 0,
-    "galar-dex": 247,
+    "galardex": 247,
     "base": {
       "hp": 65,
       "atk": 125,
@@ -25190,7 +25190,7 @@
       "ja": "ワシボン"
     },
     "form": 0,
-    "galar-dex": 281,
+    "galardex": 281,
     "base": {
       "hp": 70,
       "atk": 83,
@@ -25267,7 +25267,7 @@
       "ja": "ウォーグル"
     },
     "form": 0,
-    "galar-dex": 282,
+    "galardex": 282,
     "base": {
       "hp": 100,
       "atk": 123,
@@ -25343,7 +25343,7 @@
       "ja": "バルチャイ"
     },
     "form": 0,
-    "galar-dex": 283,
+    "galardex": 283,
     "base": {
       "hp": 70,
       "atk": 55,
@@ -25421,7 +25421,7 @@
       "ja": "バルジーナ"
     },
     "form": 0,
-    "galar-dex": 284,
+    "galardex": 284,
     "base": {
       "hp": 110,
       "atk": 65,
@@ -25498,7 +25498,7 @@
       "ja": "クイタラン"
     },
     "form": 0,
-    "galar-dex": 317,
+    "galardex": 317,
     "base": {
       "hp": 85,
       "atk": 97,
@@ -25583,7 +25583,7 @@
       "ja": "アイアント"
     },
     "form": 0,
-    "galar-dex": 316,
+    "galardex": 316,
     "base": {
       "hp": 58,
       "atk": 109,
@@ -25659,7 +25659,7 @@
       "ja": "モノズ"
     },
     "form": 0,
-    "galar-dex": 386,
+    "galardex": 386,
     "base": {
       "hp": 52,
       "atk": 65,
@@ -25738,7 +25738,7 @@
       "ja": "ジヘッド"
     },
     "form": 0,
-    "galar-dex": 387,
+    "galardex": 387,
     "base": {
       "hp": 72,
       "atk": 85,
@@ -25819,7 +25819,7 @@
       "ja": "サザンドラ"
     },
     "form": 0,
-    "galar-dex": 388,
+    "galardex": 388,
     "base": {
       "hp": 92,
       "atk": 105,
@@ -25923,7 +25923,7 @@
       "ja": "コバルオン"
     },
     "form": 0,
-    "galar-dex": -1,
+    "galardex": -1,
     "base": {
       "hp": 91,
       "atk": 90,
@@ -26003,7 +26003,7 @@
       "ja": "テラキオン"
     },
     "form": 0,
-    "galar-dex": -1,
+    "galardex": -1,
     "base": {
       "hp": 91,
       "atk": 129,
@@ -26084,7 +26084,7 @@
       "ja": "ビリジオン"
     },
     "form": 0,
-    "galar-dex": -1,
+    "galardex": -1,
     "base": {
       "hp": 91,
       "atk": 90,
@@ -26164,7 +26164,7 @@
       "ja": "レシラム"
     },
     "form": 0,
-    "galar-dex": -1,
+    "galardex": -1,
     "base": {
       "hp": 100,
       "atk": 120,
@@ -26252,7 +26252,7 @@
       "ja": "ゼクロム"
     },
     "form": 0,
-    "galar-dex": -1,
+    "galardex": -1,
     "base": {
       "hp": 100,
       "atk": 150,
@@ -26337,7 +26337,7 @@
       "ja": "キュレム"
     },
     "form": 0,
-    "galar-dex": -1,
+    "galardex": -1,
     "base": {
       "hp": 125,
       "atk": 130,
@@ -26423,7 +26423,7 @@
       "ja": "キュレム"
     },
     "form": 1,
-    "galar-dex": -1,
+    "galardex": -1,
     "base": {
       "hp": 125,
       "atk": 120,
@@ -26510,7 +26510,7 @@
       "ja": "キュレム"
     },
     "form": 2,
-    "galar-dex": -1,
+    "galardex": -1,
     "base": {
       "hp": 125,
       "atk": 170,
@@ -26597,7 +26597,7 @@
       "ja": "ケルディオ"
     },
     "form": 0,
-    "galar-dex": -1,
+    "galardex": -1,
     "base": {
       "hp": 91,
       "atk": 72,
@@ -26680,7 +26680,7 @@
       "ja": "ケルディオ"
     },
     "form": 1,
-    "galar-dex": -1,
+    "galardex": -1,
     "base": {
       "hp": 91,
       "atk": 72,
@@ -26763,7 +26763,7 @@
       "ja": "ホルビー"
     },
     "form": 0,
-    "galar-dex": 48,
+    "galardex": 48,
     "base": {
       "hp": 38,
       "atk": 36,
@@ -26842,7 +26842,7 @@
       "ja": "ホルード"
     },
     "form": 0,
-    "galar-dex": 49,
+    "galardex": 49,
     "base": {
       "hp": 85,
       "atk": 56,
@@ -26936,7 +26936,7 @@
       "ja": "ヤンチャム"
     },
     "form": 0,
-    "galar-dex": 111,
+    "galardex": 111,
     "base": {
       "hp": 67,
       "atk": 82,
@@ -27031,7 +27031,7 @@
       "ja": "ゴロンダ"
     },
     "form": 0,
-    "galar-dex": 112,
+    "galardex": 112,
     "base": {
       "hp": 95,
       "atk": 124,
@@ -27144,7 +27144,7 @@
       "ja": "ニャスパー"
     },
     "form": 0,
-    "galar-dex": 208,
+    "galardex": 208,
     "base": {
       "hp": 62,
       "atk": 48,
@@ -27228,7 +27228,7 @@
       "ja": "ニャオニクス"
     },
     "form": 0,
-    "galar-dex": 209,
+    "galardex": 209,
     "base": {
       "hp": 74,
       "atk": 48,
@@ -27316,7 +27316,7 @@
       "ja": "ニャオニクス"
     },
     "form": 1,
-    "galar-dex": 209,
+    "galardex": 209,
     "base": {
       "hp": 74,
       "atk": 48,
@@ -27405,7 +27405,7 @@
       "ja": "ヒトツキ"
     },
     "form": 0,
-    "galar-dex": 330,
+    "galardex": 330,
     "base": {
       "hp": 45,
       "atk": 80,
@@ -27480,7 +27480,7 @@
       "ja": "ニダンギル"
     },
     "form": 0,
-    "galar-dex": 331,
+    "galardex": 331,
     "base": {
       "hp": 59,
       "atk": 110,
@@ -27555,7 +27555,7 @@
       "ja": "ギルガルド"
     },
     "form": 0,
-    "galar-dex": 332,
+    "galardex": 332,
     "base": {
       "hp": 60,
       "atk": 50,
@@ -27632,7 +27632,7 @@
       "ja": "ギルガルド"
     },
     "form": 1,
-    "galar-dex": 332,
+    "galardex": 332,
     "base": {
       "hp": 60,
       "atk": 140,
@@ -27706,7 +27706,7 @@
       "ja": "シュシュプ"
     },
     "form": 0,
-    "galar-dex": 212,
+    "galardex": 212,
     "base": {
       "hp": 78,
       "atk": 52,
@@ -27780,7 +27780,7 @@
       "ja": "フレフワン"
     },
     "form": 0,
-    "galar-dex": 213,
+    "galardex": 213,
     "base": {
       "hp": 101,
       "atk": 72,
@@ -27859,7 +27859,7 @@
       "ja": "ペロッパフ"
     },
     "form": 0,
-    "galar-dex": 210,
+    "galardex": 210,
     "base": {
       "hp": 62,
       "atk": 48,
@@ -27934,7 +27934,7 @@
       "ja": "ペロリーム"
     },
     "form": 0,
-    "galar-dex": 211,
+    "galardex": 211,
     "base": {
       "hp": 82,
       "atk": 80,
@@ -28009,7 +28009,7 @@
       "ja": "マーイーカ"
     },
     "form": 0,
-    "galar-dex": 290,
+    "galardex": 290,
     "base": {
       "hp": 53,
       "atk": 54,
@@ -28094,7 +28094,7 @@
       "ja": "カラマネロ"
     },
     "form": 0,
-    "galar-dex": 291,
+    "galardex": 291,
     "base": {
       "hp": 86,
       "atk": 92,
@@ -28181,7 +28181,7 @@
       "ja": "カメテテ"
     },
     "form": 0,
-    "galar-dex": 234,
+    "galardex": 234,
     "base": {
       "hp": 42,
       "atk": 52,
@@ -28278,7 +28278,7 @@
       "ja": "ガメノデス"
     },
     "form": 0,
-    "galar-dex": 235,
+    "galardex": 235,
     "base": {
       "hp": 72,
       "atk": 105,
@@ -28383,7 +28383,7 @@
       "ja": "エリキテル"
     },
     "form": 0,
-    "galar-dex": 318,
+    "galardex": 318,
     "base": {
       "hp": 44,
       "atk": 38,
@@ -28462,7 +28462,7 @@
       "ja": "エレザード"
     },
     "form": 0,
-    "galar-dex": 319,
+    "galardex": 319,
     "base": {
       "hp": 62,
       "atk": 55,
@@ -28553,7 +28553,7 @@
       "ja": "ニンフィア"
     },
     "form": 0,
-    "galar-dex": 204,
+    "galardex": 204,
     "base": {
       "hp": 95,
       "atk": 65,
@@ -28646,7 +28646,7 @@
       "ja": "ルチャブル"
     },
     "form": 0,
-    "galar-dex": 320,
+    "galardex": 320,
     "base": {
       "hp": 78,
       "atk": 92,
@@ -28751,7 +28751,7 @@
       "ja": "ヌメラ"
     },
     "form": 0,
-    "galar-dex": 389,
+    "galardex": 389,
     "base": {
       "hp": 45,
       "atk": 50,
@@ -28815,7 +28815,7 @@
       "ja": "ヌメイル"
     },
     "form": 0,
-    "galar-dex": 390,
+    "galardex": 390,
     "base": {
       "hp": 68,
       "atk": 75,
@@ -28882,7 +28882,7 @@
       "ja": "ヌメルゴン"
     },
     "form": 0,
-    "galar-dex": 391,
+    "galardex": 391,
     "base": {
       "hp": 90,
       "atk": 100,
@@ -28971,7 +28971,7 @@
       "ja": "ボクレー"
     },
     "form": 0,
-    "galar-dex": 338,
+    "galardex": 338,
     "base": {
       "hp": 43,
       "atk": 70,
@@ -29058,7 +29058,7 @@
       "ja": "オーロット"
     },
     "form": 0,
-    "galar-dex": 339,
+    "galardex": 339,
     "base": {
       "hp": 85,
       "atk": 110,
@@ -29149,7 +29149,7 @@
       "ja": "バケッチャ"
     },
     "form": 0,
-    "galar-dex": 191,
+    "galardex": 191,
     "base": {
       "hp": 49,
       "atk": 66,
@@ -29232,7 +29232,7 @@
       "ja": "バケッチャ"
     },
     "form": 1,
-    "galar-dex": 191,
+    "galardex": 191,
     "base": {
       "hp": 44,
       "atk": 66,
@@ -29315,7 +29315,7 @@
       "ja": "バケッチャ"
     },
     "form": 2,
-    "galar-dex": 191,
+    "galardex": 191,
     "base": {
       "hp": 54,
       "atk": 66,
@@ -29398,7 +29398,7 @@
       "ja": "バケッチャ"
     },
     "form": 3,
-    "galar-dex": 191,
+    "galardex": 191,
     "base": {
       "hp": 59,
       "atk": 66,
@@ -29481,7 +29481,7 @@
       "ja": "パンプジン"
     },
     "form": 0,
-    "galar-dex": 192,
+    "galardex": 192,
     "base": {
       "hp": 65,
       "atk": 90,
@@ -29568,7 +29568,7 @@
       "ja": "パンプジン"
     },
     "form": 1,
-    "galar-dex": 192,
+    "galardex": 192,
     "base": {
       "hp": 55,
       "atk": 85,
@@ -29655,7 +29655,7 @@
       "ja": "パンプジン"
     },
     "form": 2,
-    "galar-dex": 192,
+    "galardex": 192,
     "base": {
       "hp": 75,
       "atk": 95,
@@ -29742,7 +29742,7 @@
       "ja": "パンプジン"
     },
     "form": 3,
-    "galar-dex": 192,
+    "galardex": 192,
     "base": {
       "hp": 85,
       "atk": 100,
@@ -29829,7 +29829,7 @@
       "ja": "カチコール"
     },
     "form": 0,
-    "galar-dex": 358,
+    "galardex": 358,
     "base": {
       "hp": 55,
       "atk": 69,
@@ -29901,7 +29901,7 @@
       "ja": "クレベース"
     },
     "form": 0,
-    "galar-dex": 359,
+    "galardex": 359,
     "base": {
       "hp": 95,
       "atk": 117,
@@ -29982,7 +29982,7 @@
       "ja": "オンバット"
     },
     "form": 0,
-    "galar-dex": 176,
+    "galardex": 176,
     "base": {
       "hp": 40,
       "atk": 30,
@@ -30067,7 +30067,7 @@
       "ja": "オンバーン"
     },
     "form": 0,
-    "galar-dex": 177,
+    "galardex": 177,
     "base": {
       "hp": 85,
       "atk": 70,
@@ -30155,7 +30155,7 @@
       "ja": "モクロー"
     },
     "form": 0,
-    "galar-dex": -1,
+    "galardex": -1,
     "base": {
       "hp": 68,
       "atk": 55,
@@ -30232,7 +30232,7 @@
       "ja": "フクスロー"
     },
     "form": 0,
-    "galar-dex": -1,
+    "galardex": -1,
     "base": {
       "hp": 78,
       "atk": 75,
@@ -30309,7 +30309,7 @@
       "ja": "ジュナイパー"
     },
     "form": 0,
-    "galar-dex": -1,
+    "galardex": -1,
     "base": {
       "hp": 78,
       "atk": 107,
@@ -30397,7 +30397,7 @@
       "ja": "ニャビー"
     },
     "form": 0,
-    "galar-dex": -1,
+    "galardex": -1,
     "base": {
       "hp": 45,
       "atk": 65,
@@ -30477,7 +30477,7 @@
       "ja": "ニャヒート"
     },
     "form": 0,
-    "galar-dex": -1,
+    "galardex": -1,
     "base": {
       "hp": 65,
       "atk": 85,
@@ -30557,7 +30557,7 @@
       "ja": "ガオガエン"
     },
     "form": 0,
-    "galar-dex": -1,
+    "galardex": -1,
     "base": {
       "hp": 95,
       "atk": 115,
@@ -30661,7 +30661,7 @@
       "ja": "アシマリ"
     },
     "form": 0,
-    "galar-dex": -1,
+    "galardex": -1,
     "base": {
       "hp": 50,
       "atk": 54,
@@ -30741,7 +30741,7 @@
       "ja": "オシャマリ"
     },
     "form": 0,
-    "galar-dex": -1,
+    "galardex": -1,
     "base": {
       "hp": 60,
       "atk": 69,
@@ -30821,7 +30821,7 @@
       "ja": "アシレーヌ"
     },
     "form": 0,
-    "galar-dex": -1,
+    "galardex": -1,
     "base": {
       "hp": 80,
       "atk": 74,
@@ -30910,7 +30910,7 @@
       "ja": "アゴジムシ"
     },
     "form": 0,
-    "galar-dex": 16,
+    "galardex": 16,
     "base": {
       "hp": 47,
       "atk": 62,
@@ -30976,7 +30976,7 @@
       "ja": "デンヂムシ"
     },
     "form": 0,
-    "galar-dex": 17,
+    "galardex": 17,
     "base": {
       "hp": 57,
       "atk": 82,
@@ -31047,7 +31047,7 @@
       "ja": "クワガノン"
     },
     "form": 0,
-    "galar-dex": 18,
+    "galardex": 18,
     "base": {
       "hp": 77,
       "atk": 70,
@@ -31125,7 +31125,7 @@
       "ja": "アブリー"
     },
     "form": 0,
-    "galar-dex": 187,
+    "galardex": 187,
     "base": {
       "hp": 40,
       "atk": 45,
@@ -31207,7 +31207,7 @@
       "ja": "アブリボン"
     },
     "form": 0,
-    "galar-dex": 188,
+    "galardex": 188,
     "base": {
       "hp": 60,
       "atk": 55,
@@ -31290,7 +31290,7 @@
       "ja": "ヨワシ"
     },
     "form": 0,
-    "galar-dex": 155,
+    "galardex": 155,
     "base": {
       "hp": 45,
       "atk": 20,
@@ -31359,7 +31359,7 @@
       "ja": "ヨワシ"
     },
     "form": 1,
-    "galar-dex": 155,
+    "galardex": 155,
     "base": {
       "hp": 45,
       "atk": 140,
@@ -31428,7 +31428,7 @@
       "ja": "ヒドイデ"
     },
     "form": 0,
-    "galar-dex": 307,
+    "galardex": 307,
     "base": {
       "hp": 50,
       "atk": 53,
@@ -31506,7 +31506,7 @@
       "ja": "ドヒドイデ"
     },
     "form": 0,
-    "galar-dex": 308,
+    "galardex": 308,
     "base": {
       "hp": 50,
       "atk": 63,
@@ -31583,7 +31583,7 @@
       "ja": "ドロバンコ"
     },
     "form": 0,
-    "galar-dex": 84,
+    "galardex": 84,
     "base": {
       "hp": 70,
       "atk": 100,
@@ -31656,7 +31656,7 @@
       "ja": "バンバドロ"
     },
     "form": 0,
-    "galar-dex": 85,
+    "galardex": 85,
     "base": {
       "hp": 100,
       "atk": 125,
@@ -31731,7 +31731,7 @@
       "ja": "シズクモ"
     },
     "form": 0,
-    "galar-dex": 214,
+    "galardex": 214,
     "base": {
       "hp": 38,
       "atk": 40,
@@ -31807,7 +31807,7 @@
       "ja": "オニシズクモ"
     },
     "form": 0,
-    "galar-dex": 215,
+    "galardex": 215,
     "base": {
       "hp": 68,
       "atk": 70,
@@ -31883,7 +31883,7 @@
       "ja": "ネマシュ"
     },
     "form": 0,
-    "galar-dex": 340,
+    "galardex": 340,
     "base": {
       "hp": 40,
       "atk": 35,
@@ -31958,7 +31958,7 @@
       "ja": "マシェード"
     },
     "form": 0,
-    "galar-dex": 341,
+    "galardex": 341,
     "base": {
       "hp": 60,
       "atk": 45,
@@ -32033,7 +32033,7 @@
       "ja": "ヤトウモリ"
     },
     "form": 0,
-    "galar-dex": 244,
+    "galardex": 244,
     "base": {
       "hp": 48,
       "atk": 44,
@@ -32116,7 +32116,7 @@
       "ja": "エンニュート"
     },
     "form": 0,
-    "galar-dex": 245,
+    "galardex": 245,
     "base": {
       "hp": 68,
       "atk": 64,
@@ -32207,7 +32207,7 @@
       "ja": "ヌイコグマ"
     },
     "form": 0,
-    "galar-dex": 94,
+    "galardex": 94,
     "base": {
       "hp": 70,
       "atk": 75,
@@ -32288,7 +32288,7 @@
       "ja": "キテルグマ"
     },
     "form": 0,
-    "galar-dex": 95,
+    "galardex": 95,
     "base": {
       "hp": 120,
       "atk": 125,
@@ -32378,7 +32378,7 @@
       "ja": "アマカジ"
     },
     "form": 0,
-    "galar-dex": 52,
+    "galardex": 52,
     "base": {
       "hp": 42,
       "atk": 30,
@@ -32450,7 +32450,7 @@
       "ja": "アママイコ"
     },
     "form": 0,
-    "galar-dex": 53,
+    "galardex": 53,
     "base": {
       "hp": 52,
       "atk": 40,
@@ -32527,7 +32527,7 @@
       "ja": "アマージョ"
     },
     "form": 0,
-    "galar-dex": 54,
+    "galardex": 54,
     "base": {
       "hp": 72,
       "atk": 120,
@@ -32611,7 +32611,7 @@
       "ja": "ヤレユータン"
     },
     "form": 0,
-    "galar-dex": 342,
+    "galardex": 342,
     "base": {
       "hp": 90,
       "atk": 60,
@@ -32698,7 +32698,7 @@
       "ja": "ナゲツケサル"
     },
     "form": 0,
-    "galar-dex": 343,
+    "galardex": 343,
     "base": {
       "hp": 100,
       "atk": 120,
@@ -32791,7 +32791,7 @@
       "ja": "コソクムシ"
     },
     "form": 0,
-    "galar-dex": 232,
+    "galardex": 232,
     "base": {
       "hp": 25,
       "atk": 35,
@@ -32856,7 +32856,7 @@
       "ja": "グソクムシャ"
     },
     "form": 0,
-    "galar-dex": 233,
+    "galardex": 233,
     "base": {
       "hp": 75,
       "atk": 125,
@@ -32955,7 +32955,7 @@
       "ja": "ナマコブシ"
     },
     "form": 0,
-    "galar-dex": 156,
+    "galardex": 156,
     "base": {
       "hp": 55,
       "atk": 60,
@@ -33014,7 +33014,7 @@
       "ja": "タイプ：ヌル"
     },
     "form": 0,
-    "galar-dex": 381,
+    "galardex": 381,
     "base": {
       "hp": 95,
       "atk": 95,
@@ -33086,7 +33086,7 @@
       "ja": "シルヴァディ"
     },
     "form": 0,
-    "galar-dex": 382,
+    "galardex": 382,
     "base": {
       "hp": 95,
       "atk": 95,
@@ -33177,7 +33177,7 @@
       "ja": "シルヴァディ"
     },
     "form": 1,
-    "galar-dex": 382,
+    "galardex": 382,
     "base": {
       "hp": 95,
       "atk": 95,
@@ -33268,7 +33268,7 @@
       "ja": "シルヴァディ"
     },
     "form": 2,
-    "galar-dex": 382,
+    "galardex": 382,
     "base": {
       "hp": 95,
       "atk": 95,
@@ -33359,7 +33359,7 @@
       "ja": "シルヴァディ"
     },
     "form": 3,
-    "galar-dex": 382,
+    "galardex": 382,
     "base": {
       "hp": 95,
       "atk": 95,
@@ -33450,7 +33450,7 @@
       "ja": "シルヴァディ"
     },
     "form": 4,
-    "galar-dex": 382,
+    "galardex": 382,
     "base": {
       "hp": 95,
       "atk": 95,
@@ -33541,7 +33541,7 @@
       "ja": "シルヴァディ"
     },
     "form": 5,
-    "galar-dex": 382,
+    "galardex": 382,
     "base": {
       "hp": 95,
       "atk": 95,
@@ -33632,7 +33632,7 @@
       "ja": "シルヴァディ"
     },
     "form": 6,
-    "galar-dex": 382,
+    "galardex": 382,
     "base": {
       "hp": 95,
       "atk": 95,
@@ -33723,7 +33723,7 @@
       "ja": "シルヴァディ"
     },
     "form": 7,
-    "galar-dex": 382,
+    "galardex": 382,
     "base": {
       "hp": 95,
       "atk": 95,
@@ -33814,7 +33814,7 @@
       "ja": "シルヴァディ"
     },
     "form": 8,
-    "galar-dex": 382,
+    "galardex": 382,
     "base": {
       "hp": 95,
       "atk": 95,
@@ -33905,7 +33905,7 @@
       "ja": "シルヴァディ"
     },
     "form": 9,
-    "galar-dex": 382,
+    "galardex": 382,
     "base": {
       "hp": 95,
       "atk": 95,
@@ -33996,7 +33996,7 @@
       "ja": "シルヴァディ"
     },
     "form": 10,
-    "galar-dex": 382,
+    "galardex": 382,
     "base": {
       "hp": 95,
       "atk": 95,
@@ -34087,7 +34087,7 @@
       "ja": "シルヴァディ"
     },
     "form": 11,
-    "galar-dex": 382,
+    "galardex": 382,
     "base": {
       "hp": 95,
       "atk": 95,
@@ -34178,7 +34178,7 @@
       "ja": "シルヴァディ"
     },
     "form": 12,
-    "galar-dex": 382,
+    "galardex": 382,
     "base": {
       "hp": 95,
       "atk": 95,
@@ -34269,7 +34269,7 @@
       "ja": "シルヴァディ"
     },
     "form": 13,
-    "galar-dex": 382,
+    "galardex": 382,
     "base": {
       "hp": 95,
       "atk": 95,
@@ -34360,7 +34360,7 @@
       "ja": "シルヴァディ"
     },
     "form": 14,
-    "galar-dex": 382,
+    "galardex": 382,
     "base": {
       "hp": 95,
       "atk": 95,
@@ -34451,7 +34451,7 @@
       "ja": "シルヴァディ"
     },
     "form": 15,
-    "galar-dex": 382,
+    "galardex": 382,
     "base": {
       "hp": 95,
       "atk": 95,
@@ -34542,7 +34542,7 @@
       "ja": "シルヴァディ"
     },
     "form": 16,
-    "galar-dex": 382,
+    "galardex": 382,
     "base": {
       "hp": 95,
       "atk": 95,
@@ -34633,7 +34633,7 @@
       "ja": "シルヴァディ"
     },
     "form": 17,
-    "galar-dex": 382,
+    "galardex": 382,
     "base": {
       "hp": 95,
       "atk": 95,
@@ -34724,7 +34724,7 @@
       "ja": "バクガメス"
     },
     "form": 0,
-    "galar-dex": 347,
+    "galardex": 347,
     "base": {
       "hp": 60,
       "atk": 78,
@@ -34814,7 +34814,7 @@
       "ja": "トゲデマル"
     },
     "form": 0,
-    "galar-dex": 348,
+    "galardex": 348,
     "base": {
       "hp": 65,
       "atk": 98,
@@ -34901,7 +34901,7 @@
       "ja": "ミミッキュ"
     },
     "form": 0,
-    "galar-dex": 301,
+    "galardex": 301,
     "base": {
       "hp": 55,
       "atk": 90,
@@ -34989,7 +34989,7 @@
       "ja": "ミミッキュ"
     },
     "form": 1,
-    "galar-dex": 301,
+    "galardex": 301,
     "base": {
       "hp": 55,
       "atk": 90,
@@ -35077,7 +35077,7 @@
       "ja": "ジジーロン"
     },
     "form": 0,
-    "galar-dex": 346,
+    "galardex": 346,
     "base": {
       "hp": 78,
       "atk": 60,
@@ -35171,7 +35171,7 @@
       "ja": "ダダリン"
     },
     "form": 0,
-    "galar-dex": 360,
+    "galardex": 360,
     "base": {
       "hp": 70,
       "atk": 131,
@@ -35257,7 +35257,7 @@
       "ja": "ジャラコ"
     },
     "form": 0,
-    "galar-dex": 392,
+    "galardex": 392,
     "base": {
       "hp": 45,
       "atk": 55,
@@ -35337,7 +35337,7 @@
       "ja": "ジャランゴ"
     },
     "form": 0,
-    "galar-dex": 393,
+    "galardex": 393,
     "base": {
       "hp": 55,
       "atk": 75,
@@ -35424,7 +35424,7 @@
       "ja": "ジャラランガ"
     },
     "form": 0,
-    "galar-dex": 394,
+    "galardex": 394,
     "base": {
       "hp": 75,
       "atk": 110,
@@ -35526,7 +35526,7 @@
       "ja": "コスモッグ"
     },
     "form": 0,
-    "galar-dex": -1,
+    "galardex": -1,
     "base": {
       "hp": 43,
       "atk": 29,
@@ -35562,7 +35562,7 @@
       "ja": "コスモウム"
     },
     "form": 0,
-    "galar-dex": -1,
+    "galardex": -1,
     "base": {
       "hp": 43,
       "atk": 29,
@@ -35603,7 +35603,7 @@
       "ja": "ソルガレオ"
     },
     "form": 0,
-    "galar-dex": -1,
+    "galardex": -1,
     "base": {
       "hp": 137,
       "atk": 137,
@@ -35698,7 +35698,7 @@
       "ja": "ルナアーラ"
     },
     "form": 0,
-    "galar-dex": -1,
+    "galardex": -1,
     "base": {
       "hp": 137,
       "atk": 113,
@@ -35788,7 +35788,7 @@
       "ja": "ネクロズマ"
     },
     "form": 0,
-    "galar-dex": -1,
+    "galardex": -1,
     "base": {
       "hp": 97,
       "atk": 107,
@@ -35882,7 +35882,7 @@
       "ja": "ネクロズマ"
     },
     "form": 1,
-    "galar-dex": -1,
+    "galardex": -1,
     "base": {
       "hp": 97,
       "atk": 157,
@@ -35977,7 +35977,7 @@
       "ja": "ネクロズマ"
     },
     "form": 2,
-    "galar-dex": -1,
+    "galardex": -1,
     "base": {
       "hp": 97,
       "atk": 113,
@@ -36072,7 +36072,7 @@
       "ja": "マーシャドー"
     },
     "form": 0,
-    "galar-dex": -1,
+    "galardex": -1,
     "base": {
       "hp": 90,
       "atk": 125,
@@ -36167,7 +36167,7 @@
       "ja": "ゼラオラ"
     },
     "form": 0,
-    "galar-dex": -1,
+    "galardex": -1,
     "base": {
       "hp": 88,
       "atk": 112,
@@ -36262,7 +36262,7 @@
       "ja": "メルタン"
     },
     "form": 0,
-    "galar-dex": -1,
+    "galardex": -1,
     "base": {
       "hp": 46,
       "atk": 65,
@@ -36309,7 +36309,7 @@
       "ja": "メルメタル"
     },
     "form": 0,
-    "galar-dex": -1,
+    "galardex": -1,
     "base": {
       "hp": 135,
       "atk": 143,
@@ -36381,7 +36381,7 @@
       "ja": "サルノリ"
     },
     "form": 0,
-    "galar-dex": 1,
+    "galardex": 1,
     "base": {
       "hp": 50,
       "atk": 65,
@@ -36462,7 +36462,7 @@
       "ja": "バチンキー"
     },
     "form": 0,
-    "galar-dex": 2,
+    "galardex": 2,
     "base": {
       "hp": 70,
       "atk": 85,
@@ -36544,7 +36544,7 @@
       "ja": "ゴリランダー"
     },
     "form": 0,
-    "galar-dex": 3,
+    "galardex": 3,
     "base": {
       "hp": 100,
       "atk": 125,
@@ -36646,7 +36646,7 @@
       "ja": "ヒバニー"
     },
     "form": 0,
-    "galar-dex": 4,
+    "galardex": 4,
     "base": {
       "hp": 50,
       "atk": 71,
@@ -36727,7 +36727,7 @@
       "ja": "ラビフット"
     },
     "form": 0,
-    "galar-dex": 5,
+    "galardex": 5,
     "base": {
       "hp": 65,
       "atk": 86,
@@ -36810,7 +36810,7 @@
       "ja": "エースバーン"
     },
     "form": 0,
-    "galar-dex": 6,
+    "galardex": 6,
     "base": {
       "hp": 80,
       "atk": 116,
@@ -36902,7 +36902,7 @@
       "ja": "メッソン"
     },
     "form": 0,
-    "galar-dex": 7,
+    "galardex": 7,
     "base": {
       "hp": 50,
       "atk": 40,
@@ -36976,7 +36976,7 @@
       "ja": "ジメレオン"
     },
     "form": 0,
-    "galar-dex": 8,
+    "galardex": 8,
     "base": {
       "hp": 65,
       "atk": 60,
@@ -37051,7 +37051,7 @@
       "ja": "インテレオン"
     },
     "form": 0,
-    "galar-dex": 9,
+    "galardex": 9,
     "base": {
       "hp": 70,
       "atk": 85,
@@ -37140,7 +37140,7 @@
       "ja": "ホシガリス"
     },
     "form": 0,
-    "galar-dex": 24,
+    "galardex": 24,
     "base": {
       "hp": 70,
       "atk": 55,
@@ -37214,7 +37214,7 @@
       "ja": "ヨクバリス"
     },
     "form": 0,
-    "galar-dex": 25,
+    "galardex": 25,
     "base": {
       "hp": 120,
       "atk": 95,
@@ -37296,7 +37296,7 @@
       "ja": "ココガラ"
     },
     "form": 0,
-    "galar-dex": 21,
+    "galardex": 21,
     "base": {
       "hp": 38,
       "atk": 47,
@@ -37372,7 +37372,7 @@
       "ja": "アオガラス"
     },
     "form": 0,
-    "galar-dex": 22,
+    "galardex": 22,
     "base": {
       "hp": 68,
       "atk": 67,
@@ -37448,7 +37448,7 @@
       "ja": "アーマーガア"
     },
     "form": 0,
-    "galar-dex": 23,
+    "galardex": 23,
     "base": {
       "hp": 98,
       "atk": 87,
@@ -37535,7 +37535,7 @@
       "ja": "サッチムシ"
     },
     "form": 0,
-    "galar-dex": 10,
+    "galardex": 10,
     "base": {
       "hp": 25,
       "atk": 20,
@@ -37574,7 +37574,7 @@
       "ja": "レドームシ"
     },
     "form": 0,
-    "galar-dex": 11,
+    "galardex": 11,
     "base": {
       "hp": 50,
       "atk": 35,
@@ -37652,7 +37652,7 @@
       "ja": "イオルブ"
     },
     "form": 0,
-    "galar-dex": 12,
+    "galardex": 12,
     "base": {
       "hp": 60,
       "atk": 45,
@@ -37738,7 +37738,7 @@
       "ja": "クスネ"
     },
     "form": 0,
-    "galar-dex": 29,
+    "galardex": 29,
     "base": {
       "hp": 40,
       "atk": 28,
@@ -37806,7 +37806,7 @@
       "ja": "フォクスライ"
     },
     "form": 0,
-    "galar-dex": 30,
+    "galardex": 30,
     "base": {
       "hp": 70,
       "atk": 58,
@@ -37883,7 +37883,7 @@
       "ja": "ヒメンカ"
     },
     "form": 0,
-    "galar-dex": 126,
+    "galardex": 126,
     "base": {
       "hp": 40,
       "atk": 40,
@@ -37954,7 +37954,7 @@
       "ja": "ワタシラガ"
     },
     "form": 0,
-    "galar-dex": 127,
+    "galardex": 127,
     "base": {
       "hp": 60,
       "atk": 50,
@@ -38026,7 +38026,7 @@
       "ja": "ウールー"
     },
     "form": 0,
-    "galar-dex": 34,
+    "galardex": 34,
     "base": {
       "hp": 42,
       "atk": 40,
@@ -38089,7 +38089,7 @@
       "ja": "バイウールー"
     },
     "form": 0,
-    "galar-dex": 35,
+    "galardex": 35,
     "base": {
       "hp": 72,
       "atk": 80,
@@ -38158,7 +38158,7 @@
       "ja": "カムカメ"
     },
     "form": 0,
-    "galar-dex": 42,
+    "galardex": 42,
     "base": {
       "hp": 50,
       "atk": 64,
@@ -38222,7 +38222,7 @@
       "ja": "カジリガメ"
     },
     "form": 0,
-    "galar-dex": 43,
+    "galardex": 43,
     "base": {
       "hp": 90,
       "atk": 115,
@@ -38317,7 +38317,7 @@
       "ja": "ワンパチ"
     },
     "form": 0,
-    "galar-dex": 46,
+    "galardex": 46,
     "base": {
       "hp": 59,
       "atk": 45,
@@ -38388,7 +38388,7 @@
       "ja": "パルスワン"
     },
     "form": 0,
-    "galar-dex": 47,
+    "galardex": 47,
     "base": {
       "hp": 69,
       "atk": 90,
@@ -38464,7 +38464,7 @@
       "ja": "タンドン"
     },
     "form": 0,
-    "galar-dex": 161,
+    "galardex": 161,
     "base": {
       "hp": 30,
       "atk": 40,
@@ -38533,7 +38533,7 @@
       "ja": "トロッゴン"
     },
     "form": 0,
-    "galar-dex": 162,
+    "galardex": 162,
     "base": {
       "hp": 80,
       "atk": 60,
@@ -38615,7 +38615,7 @@
       "ja": "セキタンザン"
     },
     "form": 0,
-    "galar-dex": 163,
+    "galardex": 163,
     "base": {
       "hp": 110,
       "atk": 80,
@@ -38703,7 +38703,7 @@
       "ja": "カジッチュ"
     },
     "form": 0,
-    "galar-dex": 205,
+    "galardex": 205,
     "base": {
       "hp": 40,
       "atk": 40,
@@ -38749,7 +38749,7 @@
       "ja": "アップリュー"
     },
     "form": 0,
-    "galar-dex": 206,
+    "galardex": 206,
     "base": {
       "hp": 70,
       "atk": 110,
@@ -38822,7 +38822,7 @@
       "ja": "タルップル"
     },
     "form": 0,
-    "galar-dex": 207,
+    "galardex": 207,
     "base": {
       "hp": 110,
       "atk": 85,
@@ -38900,7 +38900,7 @@
       "ja": "スナヘビ"
     },
     "form": 0,
-    "galar-dex": 312,
+    "galardex": 312,
     "base": {
       "hp": 52,
       "atk": 57,
@@ -38965,7 +38965,7 @@
       "ja": "サダイジャ"
     },
     "form": 0,
-    "galar-dex": 313,
+    "galardex": 313,
     "base": {
       "hp": 72,
       "atk": 107,
@@ -39041,7 +39041,7 @@
       "ja": "ウッウ"
     },
     "form": 0,
-    "galar-dex": 309,
+    "galardex": 309,
     "base": {
       "hp": 70,
       "atk": 85,
@@ -39121,7 +39121,7 @@
       "ja": "ウッウ"
     },
     "form": 1,
-    "galar-dex": 309,
+    "galardex": 309,
     "base": {
       "hp": 70,
       "atk": 85,
@@ -39201,7 +39201,7 @@
       "ja": "ウッウ"
     },
     "form": 2,
-    "galar-dex": 309,
+    "galardex": 309,
     "base": {
       "hp": 70,
       "atk": 85,
@@ -39281,7 +39281,7 @@
       "ja": "サシカマス"
     },
     "form": 0,
-    "galar-dex": 180,
+    "galardex": 180,
     "base": {
       "hp": 41,
       "atk": 63,
@@ -39353,7 +39353,7 @@
       "ja": "カマスジョー"
     },
     "form": 0,
-    "galar-dex": 181,
+    "galardex": 181,
     "base": {
       "hp": 61,
       "atk": 123,
@@ -39425,7 +39425,7 @@
       "ja": "エレズン"
     },
     "form": 0,
-    "galar-dex": 310,
+    "galardex": 310,
     "base": {
       "hp": 40,
       "atk": 38,
@@ -39483,7 +39483,7 @@
       "ja": "ストリンダー"
     },
     "form": 0,
-    "galar-dex": 311,
+    "galardex": 311,
     "base": {
       "hp": 75,
       "atk": 98,
@@ -39576,7 +39576,7 @@
       "ja": "ストリンダー"
     },
     "form": 1,
-    "galar-dex": 311,
+    "galardex": 311,
     "base": {
       "hp": 75,
       "atk": 98,
@@ -39669,7 +39669,7 @@
       "ja": "ヤクデ"
     },
     "form": 0,
-    "galar-dex": 159,
+    "galardex": 159,
     "base": {
       "hp": 50,
       "atk": 65,
@@ -39739,7 +39739,7 @@
       "ja": "マルヤクデ"
     },
     "form": 0,
-    "galar-dex": 160,
+    "galardex": 160,
     "base": {
       "hp": 100,
       "atk": 115,
@@ -39817,7 +39817,7 @@
       "ja": "タタッコ"
     },
     "form": 0,
-    "galar-dex": 351,
+    "galardex": 351,
     "base": {
       "hp": 50,
       "atk": 68,
@@ -39892,7 +39892,7 @@
       "ja": "オトスパス"
     },
     "form": 0,
-    "galar-dex": 352,
+    "galardex": 352,
     "base": {
       "hp": 80,
       "atk": 118,
@@ -39975,7 +39975,7 @@
       "ja": "ヤバチャ"
     },
     "form": 0,
-    "galar-dex": 335,
+    "galardex": 335,
     "base": {
       "hp": 40,
       "atk": 45,
@@ -40043,7 +40043,7 @@
       "ja": "ヤバチャ"
     },
     "form": 1,
-    "galar-dex": 335,
+    "galardex": 335,
     "base": {
       "hp": 40,
       "atk": 45,
@@ -40111,7 +40111,7 @@
       "ja": "ポットデス"
     },
     "form": 0,
-    "galar-dex": 336,
+    "galardex": 336,
     "base": {
       "hp": 60,
       "atk": 65,
@@ -40182,7 +40182,7 @@
       "ja": "ポットデス"
     },
     "form": 1,
-    "galar-dex": 336,
+    "galardex": 336,
     "base": {
       "hp": 60,
       "atk": 65,
@@ -40253,7 +40253,7 @@
       "ja": "ミブリム"
     },
     "form": 0,
-    "galar-dex": 241,
+    "galardex": 241,
     "base": {
       "hp": 42,
       "atk": 30,
@@ -40327,7 +40327,7 @@
       "ja": "テブリム"
     },
     "form": 0,
-    "galar-dex": 242,
+    "galardex": 242,
     "base": {
       "hp": 57,
       "atk": 40,
@@ -40402,7 +40402,7 @@
       "ja": "ブリムオン"
     },
     "form": 0,
-    "galar-dex": 243,
+    "galardex": 243,
     "base": {
       "hp": 57,
       "atk": 90,
@@ -40487,7 +40487,7 @@
       "ja": "ベロバー"
     },
     "form": 0,
-    "galar-dex": 238,
+    "galardex": 238,
     "base": {
       "hp": 45,
       "atk": 45,
@@ -40559,7 +40559,7 @@
       "ja": "ギモー"
     },
     "form": 0,
-    "galar-dex": 239,
+    "galardex": 239,
     "base": {
       "hp": 65,
       "atk": 60,
@@ -40636,7 +40636,7 @@
       "ja": "オーロンゲ"
     },
     "form": 0,
-    "galar-dex": 240,
+    "galardex": 240,
     "base": {
       "hp": 95,
       "atk": 120,
@@ -40731,7 +40731,7 @@
       "ja": "タチフサグマ"
     },
     "form": 0,
-    "galar-dex": 33,
+    "galardex": 33,
     "base": {
       "hp": 93,
       "atk": 90,
@@ -40844,7 +40844,7 @@
       "ja": "ニャイキング"
     },
     "form": 0,
-    "galar-dex": 183,
+    "galardex": 183,
     "base": {
       "hp": 70,
       "atk": 110,
@@ -40938,7 +40938,7 @@
       "ja": "サニゴーン"
     },
     "form": 0,
-    "galar-dex": 237,
+    "galardex": 237,
     "base": {
       "hp": 60,
       "atk": 95,
@@ -41039,7 +41039,7 @@
       "ja": "ネギガナイト"
     },
     "form": 0,
-    "galar-dex": 219,
+    "galardex": 219,
     "base": {
       "hp": 62,
       "atk": 135,
@@ -41120,7 +41120,7 @@
       "ja": "バリコオル"
     },
     "form": 0,
-    "galar-dex": 366,
+    "galardex": 366,
     "base": {
       "hp": 80,
       "atk": 85,
@@ -41241,7 +41241,7 @@
       "ja": "デスバーン"
     },
     "form": 0,
-    "galar-dex": 328,
+    "galardex": 328,
     "base": {
       "hp": 58,
       "atk": 95,
@@ -41338,7 +41338,7 @@
       "ja": "マホミル"
     },
     "form": 0,
-    "galar-dex": 185,
+    "galardex": 185,
     "base": {
       "hp": 45,
       "atk": 40,
@@ -41430,7 +41430,7 @@
       "ja": "マホイップ"
     },
     "form": 0,
-    "galar-dex": 186,
+    "galardex": 186,
     "base": {
       "hp": 65,
       "atk": 60,
@@ -41507,7 +41507,7 @@
       "ja": "マホイップ"
     },
     "form": 1,
-    "galar-dex": 186,
+    "galardex": 186,
     "base": {
       "hp": 65,
       "atk": 60,
@@ -41584,7 +41584,7 @@
       "ja": "マホイップ"
     },
     "form": 2,
-    "galar-dex": 186,
+    "galardex": 186,
     "base": {
       "hp": 65,
       "atk": 60,
@@ -41661,7 +41661,7 @@
       "ja": "マホイップ"
     },
     "form": 3,
-    "galar-dex": 186,
+    "galardex": 186,
     "base": {
       "hp": 65,
       "atk": 60,
@@ -41738,7 +41738,7 @@
       "ja": "マホイップ"
     },
     "form": 4,
-    "galar-dex": 186,
+    "galardex": 186,
     "base": {
       "hp": 65,
       "atk": 60,
@@ -41815,7 +41815,7 @@
       "ja": "マホイップ"
     },
     "form": 5,
-    "galar-dex": 186,
+    "galardex": 186,
     "base": {
       "hp": 65,
       "atk": 60,
@@ -41892,7 +41892,7 @@
       "ja": "マホイップ"
     },
     "form": 6,
-    "galar-dex": 186,
+    "galardex": 186,
     "base": {
       "hp": 65,
       "atk": 60,
@@ -41969,7 +41969,7 @@
       "ja": "マホイップ"
     },
     "form": 7,
-    "galar-dex": 186,
+    "galardex": 186,
     "base": {
       "hp": 65,
       "atk": 60,
@@ -42046,7 +42046,7 @@
       "ja": "マホイップ"
     },
     "form": 8,
-    "galar-dex": 186,
+    "galardex": 186,
     "base": {
       "hp": 65,
       "atk": 60,
@@ -42123,7 +42123,7 @@
       "ja": "タイレーツ"
     },
     "form": 0,
-    "galar-dex": 345,
+    "galardex": 345,
     "base": {
       "hp": 65,
       "atk": 100,
@@ -42194,7 +42194,7 @@
       "ja": "バチンウニ"
     },
     "form": 0,
-    "galar-dex": 353,
+    "galardex": 353,
     "base": {
       "hp": 48,
       "atk": 101,
@@ -42269,7 +42269,7 @@
       "ja": "ユキハミ"
     },
     "form": 0,
-    "galar-dex": 349,
+    "galardex": 349,
     "base": {
       "hp": 30,
       "atk": 25,
@@ -42321,7 +42321,7 @@
       "ja": "モスノウ"
     },
     "form": 0,
-    "galar-dex": 350,
+    "galardex": 350,
     "base": {
       "hp": 70,
       "atk": 65,
@@ -42399,7 +42399,7 @@
       "ja": "イシヘンジン"
     },
     "form": 0,
-    "galar-dex": 369,
+    "galardex": 369,
     "base": {
       "hp": 100,
       "atk": 125,
@@ -42471,7 +42471,7 @@
       "ja": "コオリッポ"
     },
     "form": 0,
-    "galar-dex": 370,
+    "galardex": 370,
     "base": {
       "hp": 75,
       "atk": 80,
@@ -42543,7 +42543,7 @@
       "ja": "コオリッポ"
     },
     "form": 1,
-    "galar-dex": 370,
+    "galardex": 370,
     "base": {
       "hp": 75,
       "atk": 80,
@@ -42615,7 +42615,7 @@
       "ja": "イエッサン"
     },
     "form": 0,
-    "galar-dex": 337,
+    "galardex": 337,
     "base": {
       "hp": 60,
       "atk": 65,
@@ -42693,7 +42693,7 @@
       "ja": "イエッサン"
     },
     "form": 1,
-    "galar-dex": 337,
+    "galardex": 337,
     "base": {
       "hp": 70,
       "atk": 55,
@@ -42771,7 +42771,7 @@
       "ja": "モルペコ"
     },
     "form": 0,
-    "galar-dex": 344,
+    "galardex": 344,
     "base": {
       "hp": 58,
       "atk": 95,
@@ -42863,7 +42863,7 @@
       "ja": "モルペコ"
     },
     "form": 1,
-    "galar-dex": 344,
+    "galardex": 344,
     "base": {
       "hp": 58,
       "atk": 95,
@@ -42955,7 +42955,7 @@
       "ja": "ゾウドウ"
     },
     "form": 0,
-    "galar-dex": 302,
+    "galardex": 302,
     "base": {
       "hp": 72,
       "atk": 80,
@@ -43036,7 +43036,7 @@
       "ja": "ダイオウドウ"
     },
     "form": 0,
-    "galar-dex": 303,
+    "galardex": 303,
     "base": {
       "hp": 122,
       "atk": 130,
@@ -43125,7 +43125,7 @@
       "ja": "パッチラゴン"
     },
     "form": 0,
-    "galar-dex": 374,
+    "galardex": 374,
     "base": {
       "hp": 90,
       "atk": 100,
@@ -43210,7 +43210,7 @@
       "ja": "パッチルドン"
     },
     "form": 0,
-    "galar-dex": 375,
+    "galardex": 375,
     "base": {
       "hp": 90,
       "atk": 100,
@@ -43292,7 +43292,7 @@
       "ja": "ウオノラゴン"
     },
     "form": 0,
-    "galar-dex": 376,
+    "galardex": 376,
     "base": {
       "hp": 90,
       "atk": 90,
@@ -43370,7 +43370,7 @@
       "ja": "ウオチルドン"
     },
     "form": 0,
-    "galar-dex": 377,
+    "galardex": 377,
     "base": {
       "hp": 90,
       "atk": 90,
@@ -43444,7 +43444,7 @@
       "ja": "ジュラルドン"
     },
     "form": 0,
-    "galar-dex": 371,
+    "galardex": 371,
     "base": {
       "hp": 70,
       "atk": 95,
@@ -43525,7 +43525,7 @@
       "ja": "ドラメシヤ"
     },
     "form": 0,
-    "galar-dex": 395,
+    "galardex": 395,
     "base": {
       "hp": 28,
       "atk": 60,
@@ -43584,7 +43584,7 @@
       "ja": "ドロンチ"
     },
     "form": 0,
-    "galar-dex": 396,
+    "galardex": 396,
     "base": {
       "hp": 68,
       "atk": 80,
@@ -43675,7 +43675,7 @@
       "ja": "ドラパルト"
     },
     "form": 0,
-    "galar-dex": 397,
+    "galardex": 397,
     "base": {
       "hp": 88,
       "atk": 120,
@@ -43772,7 +43772,7 @@
       "ja": "ザシアン"
     },
     "form": 0,
-    "galar-dex": 398,
+    "galardex": 398,
     "base": {
       "hp": 92,
       "atk": 130,
@@ -43853,7 +43853,7 @@
       "ja": "ザシアン"
     },
     "form": 1,
-    "galar-dex": 398,
+    "galardex": 398,
     "base": {
       "hp": 92,
       "atk": 170,
@@ -43935,7 +43935,7 @@
       "ja": "ザマゼンタ"
     },
     "form": 0,
-    "galar-dex": 399,
+    "galardex": 399,
     "base": {
       "hp": 92,
       "atk": 130,
@@ -44018,7 +44018,7 @@
       "ja": "ザマゼンタ"
     },
     "form": 1,
-    "galar-dex": 399,
+    "galardex": 399,
     "base": {
       "hp": 92,
       "atk": 130,
@@ -44102,7 +44102,7 @@
       "ja": "ムゲンダイナ"
     },
     "form": 0,
-    "galar-dex": 400,
+    "galardex": 400,
     "base": {
       "hp": 140,
       "atk": 85,
@@ -44173,7 +44173,7 @@
       "ja": "ムゲンダイナ"
     },
     "form": 1,
-    "galar-dex": 400,
+    "galardex": 400,
     "base": {
       "hp": 255,
       "atk": 115,

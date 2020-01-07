@@ -41,7 +41,7 @@ if __name__ == "__main__":
     #   - en
     #   - ja
     # form : int
-    # galar-dex: int and -1 for foreign
+    # galardex: int and -1 for foreign
     # base
     #   - hp
     #   - atk
@@ -74,9 +74,9 @@ if __name__ == "__main__":
 
         # Galar Dex
         if '#' in stats[i]:
-            pokemon['galar-dex'] = int(stats[i].split('#')[1])
+            pokemon['galardex'] = int(stats[i].split('#')[1])
         else:
-            pokemon['galar-dex'] = -1
+            pokemon['galardex'] = -1
         i += 1
 
         # Base Stats
