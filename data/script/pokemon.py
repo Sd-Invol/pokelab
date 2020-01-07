@@ -151,13 +151,13 @@ if __name__ == "__main__":
         pokemon['moves'] = sorted(set(pokemon['moves']))
         egg_moves[key] = pokemon['moves']
 
-        # pokemon['evolution'] = []
+        pokemon['evolution'] = []
         while stats[i].startswith('Evolves into '):
             eve = stats[i].split('@')[0].split(' ', 2)[2]
             name, form = eve.rsplit('-', 1)
             id = int(en_pokemons_dict[name][0])
             egg_moves[(id, int(form))] = egg_moves[key]
-            # pokemon['evolution'].append({'id': int(id), 'form': int(form)})
+            pokemon['evolution'].append({'id': int(id), 'form': int(form)})
             i += 1
         while len(stats[i]) == 0:
             i += 1
