@@ -3,7 +3,7 @@ import json
 
 if __name__ == "__main__":
     soup = BeautifulSoup(
-        open('./resources/ability-list-i18n.html', 'r'), 'html.parser')
+        open('../resources/ability-list-i18n.html', 'r'), 'html.parser')
 
     tables = soup.find_all('table')[:-1]
     abilities = [{}]
@@ -32,5 +32,5 @@ if __name__ == "__main__":
             assert(len(abilities) == ability['id'])
             abilities.append(ability)
 
-    output_file = open('./abilities.json', 'w')
+    output_file = open('../abilities.json', 'w')
     output_file.write(json.dumps(abilities, indent=2, ensure_ascii=False))

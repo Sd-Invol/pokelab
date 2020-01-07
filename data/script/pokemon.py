@@ -3,7 +3,7 @@ import json
 
 if __name__ == "__main__":
     soup = BeautifulSoup(
-        open('./resources/pkm-list-i18n.html', 'r'), 'html.parser')
+        open('../resources/pkm-list-i18n.html', 'r'), 'html.parser')
 
     tables = soup.find_all('table')
 
@@ -18,8 +18,8 @@ if __name__ == "__main__":
             texts = [cells[i].text.strip() for i in range(4)]
             en_pokemons_dict[texts[3]] = (
                 int(texts[0][1:]), texts[1], texts[2])
-    abilities = json.load(open('./abilities.json', 'r'))
-    moves = json.load(open('./moves.json', 'r'))
+    abilities = json.load(open('../abilities.json', 'r'))
+    moves = json.load(open('../moves.json', 'r'))
 
     en_abilities_dict = {}
     for ability in abilities[1:]:
@@ -30,7 +30,7 @@ if __name__ == "__main__":
         en_moves_dict[move['name']['en']] = (move['id'], move['name']['cn'])
 
     stats = list(map(lambda x: x.strip(), open(
-        './resources/pkm-stats.txt', 'r').readlines()))
+        '../resources/pkm-stats.txt', 'r').readlines()))
     pokemons = []
     egg_moves = {}
 
@@ -162,5 +162,5 @@ if __name__ == "__main__":
             i += 3
         pokemons.append(pokemon)
 
-output_file = open('./pokemons.json', 'w')
+output_file = open('../pokemons.json', 'w')
 output_file.write(json.dumps(pokemons, indent=2, ensure_ascii=False))

@@ -3,7 +3,7 @@ import json
 
 if __name__ == "__main__":
     soup = BeautifulSoup(
-        open('./resources/move-list-i18n.html', 'r'), 'html.parser')
+        open('../resources/move-list-i18n.html', 'r'), 'html.parser')
 
     tables = soup.find_all('table')[3:-1]
     moves = [{}]
@@ -47,5 +47,5 @@ if __name__ == "__main__":
             assert(len(moves) == move['id'])
             moves.append(move)
 
-    output_file = open('./moves.json', 'w')
+    output_file = open('../moves.json', 'w')
     output_file.write(json.dumps(moves, indent=2, ensure_ascii=False))
