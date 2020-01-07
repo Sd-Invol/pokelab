@@ -32,6 +32,7 @@ if __name__ == "__main__":
     stats = list(map(lambda x: x.strip(), open(
         './resources/pkm-stats.txt', 'r').readlines()))
     pokemons = []
+    egg_moves = {}
 
     i = 0
     # id
@@ -52,7 +53,6 @@ if __name__ == "__main__":
     # ty pe: list of string
     # evolution: list of [(id, form)]
     # moves: list of sorted unique number
-    # egg-moves: list of sorted unique number
 
     while i + 1 < len(stats):
         if stats[i] == '======':
@@ -94,35 +94,41 @@ if __name__ == "__main__":
         i += 1
 
         # Abilities
+        abilities = list(map(lambda x: x.strip(), stats[i].split(':', 1)[1].split('|')))
+        pokemon['abilities'] = []
+        for ab in abilities:
+            pokemon['abilities'].append(en_abilities_dict[ab.split('(')[0].strip()][0])
         i += 1
 
         # Type
+        pokemon['type'] = list(map(lambda x: x.strip(), stats[i].split(':', 1)[1].split('/')))
         i += 1
 
-        print(pokemon)
         while stats[i].startswith('Item'):
             i += 1
         i += 4
+
+        pokemon['moves'] = []
         if stats[i] == 'Level Up Moves:':
             i += 1
             while stats[i].startswith('-'):
                 # Level up moves
                 name = stats[i].split('] ')[1]
-                # print(en_moves_dict[name][1])
+                pokemon['moves'].append(en_moves_dict[name][0])
                 i += 1
         if stats[i] == 'Egg Moves:':
             i += 1
             while stats[i].startswith('-'):
                 # Egg moves
                 name = stats[i][2:]
-                # print(en_moves_dict[name][1])
+                pokemon['moves'].append(en_moves_dict[name][0])
                 i += 1
         if stats[i] == 'TMs:':
             i += 1
             while stats[i].startswith('-'):
                 # TMs
                 name = stats[i].split('] ')[1]
-                # print(en_moves_dict[name][1])
+                pokemon['moves'].append(en_moves_dict[name][0])
                 i += 1
             if stats[i] == 'None!':
                 i += 1
@@ -131,12 +137,24 @@ if __name__ == "__main__":
             while stats[i].startswith('-'):
                 # TRs
                 name = stats[i].split('] ')[1]
-                # print(en_moves_dict[name][1])
+                pokemon['moves'].append(en_moves_dict[name][0])
                 i += 1
             if stats[i] == 'None!':
                 i += 1
 
+        key = (pokemon['id'], pokemon['form'])
+        if key in egg_moves:
+            pokemon['moves'] += egg_moves[key]
+        pokemon['moves'] = sorted(set(pokemon['moves']))
+        egg_moves[key] = pokemon['moves']
+        
+        # pokemon['evolution'] = []
         while stats[i].startswith('Evolves into '):
+            eve = stats[i].split('@')[0].split(' ', 2)[2]
+            name, form = eve.rsplit('-', 1)
+            id = int(en_pokemons_dict[name][0])
+            egg_moves[(id, int(form))] = egg_moves[key] 
+            # pokemon['evolution'].append({'id': int(id), 'form': int(form)})
             i += 1
         while len(stats[i]) == 0:
             i += 1
