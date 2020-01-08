@@ -24,7 +24,7 @@ function App() {
 
   const handleChange = event => {
     setAge(event.target.value);
-    console.log(age);
+    console.log(event.target.value);
   };
 
   let pokemonList = [];
@@ -39,11 +39,13 @@ function App() {
       continue;
     }
     pokemonList.push(
-      <MenuItem value={pokemon.id + '.' + pokemon.form} key={pokemon.id}>
+      <MenuItem value={pokemon.id + '.' + pokemon.form} key={pokemon.id + '.' + pokemon.form}>
         <span>
-          <img src={`https://s.pokeuniv.com/pokemon/icon/${pokemon.form ? pokemon.id + '.' + pokemon.form : pokemon.id}.png`} alt={pokemon.id} />
+          <img src={`./sprites/${pokemon.id + '_' + pokemon.form}.png`}
+            alt={pokemon.id + '_' + pokemon.form}
+            style={{ height: '50px', transform: 'translateY(-10px)' }} />
         </span>
-        <span>{pokemon.name.cn}</span>
+        <span>{pokemon.id}</span><span>{pokemon.name.cn}</span>
       </MenuItem>)
   }
   console.log(pokemonList.length);
