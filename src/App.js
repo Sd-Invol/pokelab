@@ -7,6 +7,7 @@ import Select from '@material-ui/core/Select';
 import './App.css';
 import { makeStyles } from '@material-ui/core/styles';
 import pokemons from './data/pokemons'
+import * as dataProcessor from './dataProcessor.js';
 
 const useStyles = makeStyles(theme => ({
   formControl: {
@@ -27,40 +28,15 @@ function App() {
     console.log(event.target.value);
   };
 
-  let pokemonList = [];
-  for (let pokemon of pokemons) {
-    if (pokemon.evolution.length > 0) {
-      continue;
-    }
-    if (pokemon.galardex < 0) {
-      continue;
-    }
-    if (pokemon.form > 0) {
-      continue;
-    }
-    pokemonList.push(
-      <MenuItem value={pokemon.id + '.' + pokemon.form} key={pokemon.id + '.' + pokemon.form}>
-        <span>
-          <img src={`./sprites/${pokemon.id + '_' + pokemon.form}.png`}
-            alt={pokemon.id + '_' + pokemon.form}
-          />
-        </span>
-        <span>{pokemon.id}</span><span>{pokemon.name.cn}</span>
-      </MenuItem>)
-  }
-  console.log(pokemonList.length);
-
   return (
     <div className="App">
       <FormControl className={classes.formControl}>
-        <InputLabel id="demo-simple-select-label">宝可梦</InputLabel>
+        <InputLabel>宝可梦</InputLabel>
         <Select
-          labelId="demo-simple-select-label"
-          id="demo-simple-select"
           value={age}
           onChange={handleChange}
         >
-          {pokemonList}
+          {dataProcessor.pokemonList}
         </Select>
       </FormControl>
     </div>
