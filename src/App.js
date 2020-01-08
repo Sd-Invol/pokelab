@@ -43,7 +43,7 @@ function App() {
         <span>
           <img src={`./sprites/${pokemon.id + '_' + pokemon.form}.png`}
             alt={pokemon.id + '_' + pokemon.form}
-            style={{ height: '50px', transform: 'translateY(-10px)' }} />
+          />
         </span>
         <span>{pokemon.id}</span><span>{pokemon.name.cn}</span>
       </MenuItem>)
