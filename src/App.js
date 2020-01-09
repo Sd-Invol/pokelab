@@ -1,46 +1,31 @@
 import React from 'react';
-import InputLabel from '@material-ui/core/InputLabel';
-import FormControl from '@material-ui/core/FormControl';
-import MenuItem from '@material-ui/core/MenuItem';
-import Select from '@material-ui/core/Select';
 
 import './App.css';
-import { makeStyles } from '@material-ui/core/styles';
-import pokemons from './data/pokemons'
+
+import PokemonSelector from './PokemonSelector.js'
 import * as dataProcessor from './dataProcessor.js';
 
-const useStyles = makeStyles(theme => ({
-  formControl: {
-    margin: theme.spacing(1),
-    minWidth: 200,
-  },
-  selectEmpty: {
-    marginTop: theme.spacing(2),
-  },
-}));
 
-function App() {
-  const classes = useStyles();
-  const [age, setAge] = React.useState('');
+class App extends React.Component {
+  constructor(props) {
+    super(props);
+    this.handlePokemonChange = this.handlePokemonChange.bind(this);
 
-  const handleChange = event => {
-    setAge(event.target.value);
-    console.log(event.target.value);
-  };
+    this.state = { pokemon: 0 };
+  }
 
-  return (
-    <div className="App">
-      <FormControl className={classes.formControl}>
-        <InputLabel>宝可梦</InputLabel>
-        <Select
-          value={age}
-          onChange={handleChange}
-        >
-          {dataProcessor.pokemonList}
-        </Select>
-      </FormControl>
-    </div>
-  );
+  handlePokemonChange(id) {
+    this.setState({ pokemon: id });
+  }
+
+  render() {
+    return (
+      <div>
+        <PokemonSelector id={this.state.pokemon} onPokemonChange={this.handlePokemonChange} />
+        <div>{JSON.stringify(dataProcessor.pokemons[this.state.pokemon])}</div>
+      </div>
+    );
+  }
 }
 
 export default App;
