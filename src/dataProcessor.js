@@ -1,5 +1,4 @@
 import React from 'react';
-import MenuItem from '@material-ui/core/MenuItem';
 
 import pokemons from './data/pokemons';
 import abilities from './data/abilities';
@@ -12,9 +11,6 @@ for (let idx in pokemons) {
     let pokemon = pokemons[idx];
 
     if (pokemon.evolution.length > 0) {
-        continue;
-    }
-    if (pokemon.galardex < 0) {
         continue;
     }
 
@@ -30,19 +26,5 @@ for (let idx in pokemons) {
     pokemonSelectList.push(select);
 }
 
-let pokemonList = [];
-for (let pokemon of pokemonSelectList) {
-    pokemonList.push(
-        <MenuItem value={pokemon.value} key={pokemon.key}>
-            <span>
-                <img src={`./sprites/${pokemon.key}.png`}
-                    alt={pokemon.idx}
-                />
-            </span>
-            <span>{pokemon.name}</span>
-        </MenuItem>)
-}
-
-
-export { pokemonList };
+export { pokemonSelectList };
 

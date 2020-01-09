@@ -11,7 +11,7 @@ class App extends React.Component {
     super(props);
     this.handlePokemonChange = this.handlePokemonChange.bind(this);
 
-    this.state = { pokemon: 0 };
+    this.state = { pokemon: 5 };
   }
 
   handlePokemonChange(id) {
