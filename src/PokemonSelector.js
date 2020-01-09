@@ -4,7 +4,7 @@ import FormControl from '@material-ui/core/FormControl';
 import Select from '@material-ui/core/Select';
 import MenuItem from '@material-ui/core/MenuItem';
 
-import * as dataProcessor from './dataProcessor.js';
+import * as dataProcessor from './data_processor.js';
 
 class PokemonSelector extends React.Component {
     constructor(props) {
