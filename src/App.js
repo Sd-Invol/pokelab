@@ -3,7 +3,7 @@ import React from 'react';
 import './App.css';
 
 import PokemonSelector from './PokemonSelector.js'
-import * as dataProcessor from './dataProcessor.js';
+import pokemons from './data/pokemons';
 
 
 class App extends React.Component {
@@ -21,8 +21,10 @@ class App extends React.Component {
   render() {
     return (
       <div>
-        <PokemonSelector id={this.state.pokemon} onPokemonChange={this.handlePokemonChange} />
-        <div>{JSON.stringify(dataProcessor.pokemons[this.state.pokemon])}</div>
+        <PokemonSelector
+          id={this.state.pokemon}
+          onPokemonChange={this.handlePokemonChange} />
+        <div>{JSON.stringify(pokemons[this.state.pokemon])}</div>
       </div>
     );
   }

@@ -44,5 +44,5 @@ for (let pokemon of pokemonSelectList) {
 }
 
 
-export { pokemonList, pokemons };
+export { pokemonList };
 
