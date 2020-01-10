@@ -17,7 +17,8 @@
         "Dragon": 1,
         "Dark": 1,
         "Steel": 1,
-        "Fairy": 1
+        "Fairy": 1,
+        "cn": "无"
     },
     "Normal": {
         "None": 1,
@@ -38,7 +39,8 @@
         "Dragon": 1,
         "Dark": 1,
         "Steel": 0.5,
-        "Fairy": 1
+        "Fairy": 1,
+        "cn": "一般"
     },
     "Grass": {
         "None": 1,
@@ -59,7 +61,8 @@
         "Dragon": 0.5,
         "Dark": 1,
         "Steel": 0.5,
-        "Fairy": 1
+        "Fairy": 1,
+        "cn": "草"
     },
     "Fire": {
         "None": 1,
@@ -80,7 +83,8 @@
         "Dragon": 0.5,
         "Dark": 1,
         "Steel": 2,
-        "Fairy": 1
+        "Fairy": 1,
+        "cn": "火"
     },
     "Water": {
         "None": 1,
@@ -101,7 +105,8 @@
         "Dragon": 0.5,
         "Dark": 1,
         "Steel": 1,
-        "Fairy": 1
+        "Fairy": 1,
+        "cn": "水"
     },
     "Electric": {
         "None": 1,
@@ -122,7 +127,8 @@
         "Dragon": 0.5,
         "Dark": 1,
         "Steel": 1,
-        "Fairy": 1
+        "Fairy": 1,
+        "cn": "电"
     },
     "Ice": {
         "None": 1,
@@ -143,7 +149,8 @@
         "Dragon": 2,
         "Dark": 1,
         "Steel": 0.5,
-        "Fairy": 1
+        "Fairy": 1,
+        "cn": "冰"
     },
     "Flying": {
         "None": 1,
@@ -164,7 +171,8 @@
         "Dragon": 1,
         "Dark": 1,
         "Steel": 0.5,
-        "Fairy": 1
+        "Fairy": 1,
+        "cn": "飞行"
     },
     "Bug": {
         "None": 1,
@@ -185,7 +193,8 @@
         "Dragon": 1,
         "Dark": 2,
         "Steel": 0.5,
-        "Fairy": 0.5
+        "Fairy": 1,
+        "cn": "虫"
     },
     "Poison": {
         "None": 1,
@@ -206,7 +215,8 @@
         "Dragon": 1,
         "Dark": 1,
         "Steel": 0,
-        "Fairy": 2
+        "Fairy": 1,
+        "cn": "毒"
     },
     "Ground": {
         "None": 1,
@@ -227,7 +237,8 @@
         "Dragon": 1,
         "Dark": 1,
         "Steel": 2,
-        "Fairy": 1
+        "Fairy": 1,
+        "cn": "地面"
     },
     "Rock": {
         "None": 1,
@@ -248,7 +259,8 @@
         "Dragon": 1,
         "Dark": 1,
         "Steel": 0.5,
-        "Fairy": 1
+        "Fairy": 1,
+        "cn": "岩石"
     },
     "Fighting": {
         "None": 1,
@@ -269,7 +281,8 @@
         "Dragon": 1,
         "Dark": 2,
         "Steel": 2,
-        "Fairy": 0.5
+        "Fairy": 1,
+        "cn": "格斗"
     },
     "Psychic": {
         "None": 1,
@@ -290,7 +303,8 @@
         "Dragon": 1,
         "Dark": 0,
         "Steel": 0.5,
-        "Fairy": 1
+        "Fairy": 1,
+        "cn": "超能"
     },
     "Ghost": {
         "None": 1,
@@ -311,7 +325,8 @@
         "Dragon": 1,
         "Dark": 0.5,
         "Steel": 1,
-        "Fairy": 1
+        "Fairy": 1,
+        "cn": "鬼"
     },
     "Dragon": {
         "None": 1,
@@ -332,7 +347,8 @@
         "Dragon": 2,
         "Dark": 1,
         "Steel": 0.5,
-        "Fairy": 0
+        "Fairy": 0,
+        "cn": "龙"
     },
     "Dark": {
         "None": 1,
@@ -353,7 +369,8 @@
         "Dragon": 1,
         "Dark": 0.5,
         "Steel": 1,
-        "Fairy": 0.5
+        "Fairy": 1,
+        "cn": "恶"
     },
     "Steel": {
         "None": 1,
@@ -374,7 +391,8 @@
         "Dragon": 1,
         "Dark": 1,
         "Steel": 0.5,
-        "Fairy": 2
+        "Fairy": 1,
+        "cn": "钢"
     },
     "Fairy": {
         "None": 1,
@@ -395,6 +413,7 @@
         "Dragon": 2,
         "Dark": 2,
         "Steel": 0.5,
-        "Fairy": 1
+        "Fairy": 1,
+        "cn": "妖精"
     }
 }
