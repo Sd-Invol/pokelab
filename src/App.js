@@ -4,10 +4,11 @@ import './App.css';
 
 import Input from '@material-ui/core/Input';
 import Slider from '@material-ui/core/Slider';
+import Grid from '@material-ui/core/Grid';
+import Radio from '@material-ui/core/Radio';
 
 import PokemonSelector from './PokemonSelector.js'
 import pokemons from './data/pokemons';
-import { Grid } from '@material-ui/core';
 
 class App extends React.Component {
     constructor(props) {
@@ -15,7 +16,14 @@ class App extends React.Component {
         this.handlePokemonChange = this.handlePokemonChange.bind(this);
         this.handleEVBlur = this.handleEVBlur.bind(this);
 
-        this.state = { pokemon: 5, IVs: [31, 31, 31, 31, 31, 31], EVs: [0, 0, 0, 0, 0, 0] };
+        this.state = {
+            pokemon: 5,
+            level: 50,
+            IVs: [31, 31, 31, 31, 31, 31],
+            EVs: [0, 0, 0, 0, 0, 0],
+            natureBuff: 0,
+            natureNerf: 0,
+        };
     }
 
     handlePokemonChange(id) {
@@ -54,6 +62,25 @@ class App extends React.Component {
         this.setState({ EVs: EVs });
     }
 
+    getAbility(idx) {
+        const values = this.getBaseValues();
+        const base = Math.floor(this.state.level * (values[idx] * 2 + this.state.IVs[idx] + this.state.EVs[idx] / 4) / 100);
+        if (idx === 0) {
+            return base + this.state.level + 10;
+        } else {
+            let nature = 1;
+            if (this.state.natureBuff != this.state.natureNerf) {
+                if (this.state.natureBuff == idx) {
+                    nature = 1.1;
+                }
+                if (this.state.natureNerf == idx) {
+                    nature = 0.9;
+                }
+            }
+            return Math.floor((base + 5) * nature);
+        }
+    }
+
     render() {
         const values = this.getBaseValues();
         return (
@@ -61,8 +88,8 @@ class App extends React.Component {
                 <PokemonSelector
                     id={this.state.pokemon}
                     onPokemonChange={this.handlePokemonChange} />
-                <div>{JSON.stringify(pokemons[this.state.pokemon])}</div>
-                <div style={{ width: '50%' }}>
+                {/* <div>{JSON.stringify(pokemons[this.state.pokemon])}</div> */}
+                <Grid container>
                     {[0, 1, 2, 3, 4, 5].map((x) => (
                         <Grid container direction="row" key={x}>
                             <Grid item xs> {values[x]}</Grid>
@@ -77,14 +104,14 @@ class App extends React.Component {
                             </Grid>
                             <Grid item xs>
                                 <Slider
-                                    value={typeof this.state.EVs[x] == 'number' ? this.state.EVs[x] : 0}
+                                    value={this.state.EVs[x]}
                                     onChange={this.handleEVChanges.bind(this, x)}
                                     step={4}
                                     min={0}
                                     max={252}
                                 />
                             </Grid>
-                            <Grid item>
+                            <Grid item xs>
                                 <Input
                                     value={this.state.EVs[x]}
                                     onChange={this.handleEVInputChanges.bind(this, x)}
@@ -97,9 +124,27 @@ class App extends React.Component {
                                     }}
                                 />
                             </Grid>
+                            <Grid item xs>
+                                <Radio
+                                    checked={this.state.natureBuff === x}
+                                    onChange={() => {
+                                        this.setState({ natureBuff: x });
+                                    }}
+                                    value={x} />
+                                <Radio
+                                    color='primary'
+                                    checked={this.state.natureNerf === x}
+                                    onChange={() => {
+                                        this.setState({ natureNerf: x });
+                                    }}
+                                    value={x} />
+                            </Grid>
+                            <Grid item xs>
+                                {this.getAbility(x)}
+                            </Grid>
                         </Grid>
                     ))}
-                </div>
+                </Grid>
             </div >
         );
     }
