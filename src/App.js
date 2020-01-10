@@ -43,13 +43,23 @@ class App extends React.Component {
 
     handleEVChanges(idx, e, newValue) {
         let EVs = this.state.EVs;
-        EVs[idx] = newValue;
+        let sum = 0;
+        for (let value of EVs) {
+            sum += value;
+        }
+        sum -= EVs[idx];
+        EVs[idx] = Math.min(newValue, 508 - sum);
         this.setState({ EVs: EVs });
     }
 
     handleEVInputChanges(idx, e) {
         let EVs = this.state.EVs;
-        EVs[idx] = Number(e.target.value);
+        let sum = 0;
+        for (let value of EVs) {
+            sum += value;
+        }
+        sum -= EVs[idx];
+        EVs[idx] = Math.min(Number(e.target.value), 508 - sum);
         this.setState({ EVs: EVs });
     }
 
@@ -92,6 +102,7 @@ class App extends React.Component {
                 <Grid container>
                     {[0, 1, 2, 3, 4, 5].map((x) => (
                         <Grid container direction="row" key={x}>
+                            <Grid item xs> {["HP", "物攻", "物防", "特攻", "特防", "速度"][x]}</Grid>
                             <Grid item xs> {values[x]}</Grid>
                             <Grid item xs>
                                 <Input
