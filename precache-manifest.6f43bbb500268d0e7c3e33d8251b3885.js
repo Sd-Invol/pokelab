@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "05b7a12a29faacfddeca64baaedf8b83",
+    "revision": "a9e87dd64a63815e119a3d528199b226",
     "url": "/pokelab/index.html"
   },
   {
-    "revision": "3e83c0427801b3119591",
+    "revision": "83e201e5f71c7d031372",
     "url": "/pokelab/static/css/main.27fd15f6.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pokelab/static/js/2.dc9b461b.chunk.js.LICENSE"
   },
   {
-    "revision": "3e83c0427801b3119591",
-    "url": "/pokelab/static/js/main.b9924889.chunk.js"
+    "revision": "83e201e5f71c7d031372",
+    "url": "/pokelab/static/js/main.e9025ecc.chunk.js"
   },
   {
     "revision": "dd0d743befb6f94aca47",
