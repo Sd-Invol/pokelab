@@ -51,14 +51,14 @@ class App extends React.Component {
                     typeBonus = 1.5;
                 }
             }
-            if (moves[x].class == '物理') {
+            if (moves[x].class === '物理') {
                 return atk * Number(moves[x].power) * typeBonus;
             } else {
                 return spa * Number(moves[x].power) * typeBonus;
             }
         };
         const moveSet = pokemons[this.state.pokemon].moves
-            .filter((x) => moves[x].class != '变化' && !isNaN(moves[x].power))
+            .filter((x) => moves[x].class !== '变化' && !isNaN(moves[x].power))
             .sort((a, b) => power(b) - power(a));
 
         return (

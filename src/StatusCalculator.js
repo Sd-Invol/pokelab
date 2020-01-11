@@ -122,7 +122,9 @@ class StatusCalculator extends React.Component {
                     <Grid item xs></Grid>
                     <Grid item xs>种族值</Grid>
                     <Grid item xs>个体值</Grid>
-                    <Grid item xs>努力值</Grid>
+                    <Grid item xs>努力值({
+                        510 - this.state.EVs.reduce((a, b) => a + b, 0)
+                    })</Grid>
                     <Grid item xs></Grid>
                     <Grid item xs>性格修正</Grid>
                     <Grid item xs>能力</Grid>
