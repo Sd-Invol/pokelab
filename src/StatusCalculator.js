@@ -117,7 +117,16 @@ class StatusCalculator extends React.Component {
         const values = this.getBaseValues();
         const texts = ["HP", "物攻", "物防", "特攻", "特防", "速度"];
         return (
-            <Grid container>
+            <Grid container direction="column">
+                <Grid container direction="row">
+                    <Grid item xs></Grid>
+                    <Grid item xs>种族值</Grid>
+                    <Grid item xs>个体值</Grid>
+                    <Grid item xs>努力值</Grid>
+                    <Grid item xs></Grid>
+                    <Grid item xs>性格修正</Grid>
+                    <Grid item xs>能力</Grid>
+                </Grid>
                 {[0, 1, 2, 3, 4, 5].map((x) => (
                     <Grid container direction="row" key={x}>
                         <Grid item xs> {texts[x]}</Grid>

@@ -1,5 +1,6 @@
 import React from 'react';
 
+import Grid from '@material-ui/core/Grid';
 import List from '@material-ui/core/List';
 import ListItem from '@material-ui/core/ListItem';
 import ListItemText from '@material-ui/core/ListItemText';
@@ -62,14 +63,20 @@ class App extends React.Component {
 
         return (
             <div>
-                <PokemonSelector
-                    id={this.state.pokemon}
-                    onPokemonChange={this.handlePokemonChange} />
-                <StatusCalculator
-                    pokemon={this.state.pokemon}
-                    level={50}
-                    stats={this.state.stats}
-                    onStatsChange={this.handleStatsChange} />
+                <Grid container direction="row">
+                    <Grid xs={3}>
+                        <PokemonSelector
+                            id={this.state.pokemon}
+                            onPokemonChange={this.handlePokemonChange} />
+                    </Grid>
+                    <Grid xs={9}>
+                        <StatusCalculator
+                            pokemon={this.state.pokemon}
+                            level={50}
+                            stats={this.state.stats}
+                            onStatsChange={this.handleStatsChange} />
+                    </Grid>
+                </Grid>
                 <List>
                     {moveSet.map(x => (
                         <ListItem button key={moves[x].id}>

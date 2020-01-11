@@ -37,16 +37,14 @@ class PokemonSelector extends React.Component {
 
     render() {
         return (
-            <div className="App">
-                <FormControl style={{ minWidth: 240 }}>
-                    <InputLabel>宝可梦</InputLabel>
-                    <Select
-                        value={this.props.id}
-                        onChange={this.handleChange}>
-                        {this.pokemonList}
-                    </Select>
-                </FormControl>
-            </div>
+            <FormControl style={{ minWidth: 240 }}>
+                <InputLabel>宝可梦</InputLabel>
+                <Select
+                    value={this.props.id}
+                    onChange={this.handleChange}>
+                    {this.pokemonList}
+                </Select>
+            </FormControl>
         );
     }
 }
