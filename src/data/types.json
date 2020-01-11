@@ -193,7 +193,7 @@
         "Dragon": 1,
         "Dark": 2,
         "Steel": 0.5,
-        "Fairy": 1,
+        "Fairy": 0.5,
         "cn": "虫"
     },
     "Poison": {
@@ -215,7 +215,7 @@
         "Dragon": 1,
         "Dark": 1,
         "Steel": 0,
-        "Fairy": 1,
+        "Fairy": 2,
         "cn": "毒"
     },
     "Ground": {
@@ -281,7 +281,7 @@
         "Dragon": 1,
         "Dark": 2,
         "Steel": 2,
-        "Fairy": 1,
+        "Fairy": 0.5,
         "cn": "格斗"
     },
     "Psychic": {
@@ -369,7 +369,7 @@
         "Dragon": 1,
         "Dark": 0.5,
         "Steel": 1,
-        "Fairy": 1,
+        "Fairy": 0.5,
         "cn": "恶"
     },
     "Steel": {
@@ -391,7 +391,7 @@
         "Dragon": 1,
         "Dark": 1,
         "Steel": 0.5,
-        "Fairy": 1,
+        "Fairy": 2,
         "cn": "钢"
     },
     "Fairy": {

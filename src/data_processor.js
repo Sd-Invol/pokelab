@@ -27,39 +27,39 @@ for (let idx in pokemons) {
     pokemonSelectList.push(select);
 }
 
-let types_cn_to_en = {};
-for (let type in types) {
-    types_cn_to_en[types[type].cn] = type;
-}
+// let types_cn_to_en = {};
+// for (let type in types) {
+//     types_cn_to_en[types[type].cn] = type;
+// }
 
-for (let idx in pokemons) {
-    let pokemon = pokemons[idx];
+// for (let idx in pokemons) {
+//     let pokemon = pokemons[idx];
 
-    let moveByType = {};
-    for (let moveId of pokemon.moves) {
-        const move = moves[moveId];
-        if (move.class === '变化') {
-            continue;
-        }
-        if (!(move.type in moveByType)) {
-            moveByType[move.type] = {
-                physical: [],
-                special: [],
-            }
-        }
-        if (move.class === '物理') {
-            moveByType[move.type].physical.push(move);
-        }
-        if (move.class === '特殊') {
-            moveByType[move.type].special.push(move);
-        }
-    }
-    for (let type in moveByType) {
-        moveByType[type].physical = moveByType[type].physical.sort(
-            (a, b) => Number(b.power) - Number(a.power));
-        moveByType[type].special = moveByType[type].special.sort(
-            (a, b) => Number(b.power) - Number(a.power));
-    }
-}
+//     let moveByType = {};
+//     for (let moveId of pokemon.moves) {
+//         const move = moves[moveId];
+//         if (move.class === '变化') {
+//             continue;
+//         }
+//         if (!(move.type in moveByType)) {
+//             moveByType[move.type] = {
+//                 physical: [],
+//                 special: [],
+//             }
+//         }
+//         if (move.class === '物理') {
+//             moveByType[move.type].physical.push(move);
+//         }
+//         if (move.class === '特殊') {
+//             moveByType[move.type].special.push(move);
+//         }
+//     }
+//     for (let type in moveByType) {
+//         moveByType[type].physical = moveByType[type].physical.sort(
+//             (a, b) => Number(b.power) - Number(a.power));
+//         moveByType[type].special = moveByType[type].special.sort(
+//             (a, b) => Number(b.power) - Number(a.power));
+//     }
+// }
 
 export { pokemonSelectList };
