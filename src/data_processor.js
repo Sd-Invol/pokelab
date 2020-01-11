@@ -3,12 +3,15 @@ import moves from './data/moves';
 import types from './data/types';
 
 let pokemonSelectList = [];
-const duplicatedForms = [25, 773, 778, 845, 855, 869, 875, 890];
+const duplicatedForms = [25, 423, 550, 773, 778, 845, 849, 855, 869, 875, 877, 890];
 
 for (let idx in pokemons) {
     let pokemon = pokemons[idx];
 
     if (pokemon.evolution.length > 0) {
+        continue;
+    }
+    if (pokemon.galardex < 0) {
         continue;
     }
 
