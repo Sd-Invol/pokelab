@@ -11,9 +11,11 @@ for (let idx in pokemons) {
     if (pokemon.evolution.length > 0) {
         continue;
     }
-    if (pokemon.galardex < 0) {
-        continue;
-    }
+
+    // Removed as Pokemon home is opened.
+    // if (pokemon.galardex < 0) {
+    //     continue;
+    // }
 
     if (duplicatedForms.includes(pokemon.id) && pokemon.form > 0) {
         continue;
