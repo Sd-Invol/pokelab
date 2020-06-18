@@ -59,7 +59,7 @@ if __name__ == "__main__":
             i += 1
         id = int(stats[i].split(' -')[0])
         name = stats[i].split('(')[0].split('- ')[1].strip()
-        if not name[-1].isdigit():
+        if not name[-1].isdigit() or name.startswith('Porygon'):
             name += " 0"
         pokemon = {}
 
@@ -165,11 +165,12 @@ if __name__ == "__main__":
             egg_moves[(id, int(form))] = egg_moves[key]
             pokemon['evolution'].append({'id': int(id), 'form': int(form)})
             i += 1
-        while len(stats[i]) == 0:
+        while i < len(stats) and len(stats[i]) == 0:
             i += 1
-        if not stats[i].startswith('='):
-            i += 3
         pokemons.append(pokemon)
+
+        if i < len(stats) and not stats[i].startswith('='):
+            i += 3
 
 output_file = open('../pokemons.json', 'w')
 output_file.write(json.dumps(pokemons, indent=2, ensure_ascii=False))

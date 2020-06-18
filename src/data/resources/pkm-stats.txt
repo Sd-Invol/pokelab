@@ -794,7 +794,7 @@ TRs:
 Evolves into Butterfree-0 @ 10 (LevelUp) [0]
 
 It is waiting for the moment to evolve. At this stage, it can only harden, so it remains motionless to avoid attack.
-Even though it is encased in a sturdy shell, the body inside is tender. It can’t withstand a harsh attack.
+Even though it is encased in a sturdy shell, the body inside is tender. It can't withstand a harsh attack.
 
 ======
 012 - Butterfree (Stage: 3)
@@ -956,7 +956,7 @@ TRs:
 Evolves into Raichu-0 @ 0 (UseItem) [83]
 
 Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.
-When Pikachu meet, they’ll touch their tails together and exchange electricity through them as a form of greeting.
+When Pikachu meet, they'll touch their tails together and exchange electricity through them as a form of greeting.
 
 ======
 896 - Pikachu 1 (Stage: 2)
@@ -2067,7 +2067,7 @@ TRs:
 - [TR85] Work Up
 - [TR87] Drill Run
 - [TR95] Throat Chop
-The drier the area Sandslash lives in, the harder and smoother the Pokémon’s spikes will feel when touched.
+The drier the area Sandslash lives in, the harder and smoother the Pokémon's spikes will feel when touched.
 It climbs trees by hooking on with its sharp claws. Sandslash shares the berries it gathers, dropping them down to Sandshrew waiting below the tree.
 
 ======
@@ -2467,7 +2467,7 @@ TRs:
 - [TR81] Foul Play
 Evolves into Ninetales-0 @ 0 (UseItem) [82]
 
-It has the world’s largest petals. With every step, the petals shake out heavy clouds of toxic pollen.
+It has the world's largest petals. With every step, the petals shake out heavy clouds of toxic pollen.
 The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up.
 
 ======
@@ -2994,7 +2994,7 @@ TRs:
 Evolves into Gloom-0 @ 21 (LevelUp) [0]
 
 A team of Diglett triplets. It triggers huge earthquakes by burrowing 60 miles underground.
-These Diglett triplets dig over 60 miles below sea level. No one knows what it’s like underground.
+These Diglett triplets dig over 60 miles below sea level. No one knows what it's like underground.
 
 ======
 044 - Gloom (Stage: 2)
@@ -3057,8 +3057,8 @@ TRs:
 Evolves into Vileplume-0 @ 0 (UseItem) [85]
 Evolves into Bellossom-0 @ 0 (UseItem) [80]
 
-It loves to collect shiny things. If it’s in a good mood, it might even let its Trainer have a look at its hoard of treasures.
-It washes its face regularly to keep the coin on its forehead spotless. It doesn’t get along with Galarian Meowth.
+It loves to collect shiny things. If it's in a good mood, it might even let its Trainer have a look at its hoard of treasures.
+It washes its face regularly to keep the coin on its forehead spotless. It doesn't get along with Galarian Meowth.
 
 ======
 045 - Vileplume (Stage: 3)
@@ -3520,7 +3520,7 @@ TRs:
 - [TR95] Throat Chop
 Evolves into Persian-0 @ 28 (LevelUp) [0]
 
-For Poliwag, swimming is easier than walking. The swirl pattern on its belly is actually part of the Pokémon’s innards showing through the skin.
+For Poliwag, swimming is easier than walking. The swirl pattern on its belly is actually part of the Pokémon's innards showing through the skin.
 In rivers with fast-flowing water, this Pokémon will cling to a rock by using its thick lips, which act like a suction cup.
 
 ======
@@ -3768,8 +3768,8 @@ TRs:
 - [TR85] Work Up
 - [TR90] Play Rough
 - [TR95] Throat Chop
-Staring at the swirl on its belly causes drowsiness. This trait of Poliwhirl’s has been used in place of lullabies to get children to go to sleep.
-This Pokémon’s sweat is a slimy mucus. When captured, Poliwhirl can slither from its enemies’ grasp and escape.
+Staring at the swirl on its belly causes drowsiness. This trait of Poliwhirl's has been used in place of lullabies to get children to go to sleep.
+This Pokémon's sweat is a slimy mucus. When captured, Poliwhirl can slither from its enemies' grasp and escape.
 
 ======
 914 - Persian 1 (Stage: 2)
@@ -4026,7 +4026,7 @@ TRs:
 - [TR69] Zen Headbutt
 - [TR84] Scald
 - [TR98] Liquidation
-This Pokémon uses its psychic powers while it sleeps. The contents of Abra’s dreams affect the powers that the Pokémon wields.
+This Pokémon uses its psychic powers while it sleeps. The contents of Abra's dreams affect the powers that the Pokémon wields.
 Abra can teleport in its sleep. Apparently the more deeply Abra sleeps, the farther its teleportations go.
 
 ======
@@ -4106,7 +4106,7 @@ TRs:
 - [TR97] Psychic Fangs
 Evolves into Arcanine-0 @ 0 (UseItem) [82]
 
-Its whole body is composed of muscles. Even though it’s the size of a human child, it can hurl 100 grown-ups.
+Its whole body is composed of muscles. Even though it's the size of a human child, it can hurl 100 grown-ups.
 Always brimming with power, it passes time by lifting boulders. Doing so makes it even stronger.
 
 ======
@@ -4275,7 +4275,7 @@ Catch Rate: 120
 Abilities: Water Absorb (1) | Damp (2) | Swift Swim (H)
 Type: Water
 Item 1 (50%): None
-Item 2 (5%): King’s Rock
+Item 2 (5%): King's Rock
 Item 3 (1%): None
 EXP Group: MediumSlow
 Egg Group: Water1
@@ -4349,7 +4349,7 @@ Catch Rate: 45
 Abilities: Water Absorb (1) | Damp (2) | Swift Swim (H)
 Type: Water / Fighting
 Item 1 (50%): None
-Item 2 (5%): King’s Rock
+Item 2 (5%): King's Rock
 Item 3 (1%): None
 EXP Group: MediumSlow
 Egg Group: Water1
@@ -4693,7 +4693,7 @@ TRs:
 - [TR82] Stored Power
 - [TR83] Ally Switch
 - [TR92] Dazzling Gleam
-When the red orbs on Tentacruel’s head glow brightly, watch out. The Pokémon is about to fire off a burst of ultrasonic waves.
+When the red orbs on Tentacruel's head glow brightly, watch out. The Pokémon is about to fire off a burst of ultrasonic waves.
 Its 80 tentacles can stretch and shrink freely. Tentacruel ensnares prey in a net of spread-out tentacles, delivering venomous stings to its catch.
 
 ======
@@ -5131,7 +5131,7 @@ TRs:
 - [TR84] Scald
 - [TR91] Venom Drench
 - [TR92] Dazzling Gleam
-At times, Magnemite runs out of electricity and ends up on the ground. If you give batteries to a grounded Magnemite, it’ll start moving again.
+At times, Magnemite runs out of electricity and ends up on the ground. If you give batteries to a grounded Magnemite, it'll start moving again.
 It subsists on electricity. As Magnemite flies, it emits electromagnetic waves from the units on each side of its body.
 
 ======
@@ -5643,7 +5643,7 @@ Catch Rate: 75
 Abilities: Oblivious (1) | Own Tempo (2) | Regenerator (H)
 Type: Water / Psychic
 Item 1 (50%): None
-Item 2 (5%): King’s Rock
+Item 2 (5%): King's Rock
 Item 3 (1%): None
 EXP Group: MediumFast
 Egg Group: Monster / Water1
@@ -5989,7 +5989,7 @@ It swims facing backward by opening and closing its two-piece shell. It is surpr
 Its hard shell repels any kind of attack. It is vulnerable only when its shell is open.
 
 ======
-083 - Farfetch’d (Stage: 2)
+083 - Farfetch'd (Stage: 2)
 ======
 Galar Dex: #218
 Base Stats: 52.90.55.58.62.60 (BST: 377)
@@ -6078,7 +6078,7 @@ Its shell is extremely hard. It cannot be shattered, even with a bomb. The shell
 Once it slams its shell shut, it is impossible to open, even by those with superior strength.
 
 ======
-923 - Farfetch’d 1 (Stage: 2)
+923 - Farfetch'd 1 (Stage: 2)
 ======
 Galar Dex: #218
 Base Stats: 52.95.55.58.62.55 (BST: 377)
@@ -6152,7 +6152,7 @@ TRs:
 - [TR66] Brave Bird
 - [TR85] Work Up
 - [TR95] Throat Chop
-Evolves into Sirfetch’d-0 @ 0 (CriticalHitsInBattle) [3]
+Evolves into Sirfetch'd-0 @ 0 (CriticalHitsInBattle) [3]
 
 
 ======
@@ -6310,7 +6310,7 @@ TRs:
 - [TR57] Poison Jab
 - [TR98] Liquidation
 Its large and hard pincer has 10,000-horsepower strength. However, being so big, it is unwieldy to move.
-Its oversized claw is very powerful, but when it’s not in battle, the claw just gets in the way.
+Its oversized claw is very powerful, but when it's not in battle, the claw just gets in the way.
 
 ======
 092 - Gastly (Stage: 1)
@@ -6572,8 +6572,8 @@ TRs:
 - [TR81] Foul Play
 - [TR83] Ally Switch
 - [TR92] Dazzling Gleam
-Though it may look like it’s just a bunch of eggs, it’s a proper Pokémon. Exeggcute communicates with others of its kind via telepathy, apparently.
-These Pokémon get nervous when they’re not in a group of six. The minute even one member of the group goes missing, Exeggcute become cowardly.
+Though it may look like it's just a bunch of eggs, it's a proper Pokémon. Exeggcute communicates with others of its kind via telepathy, apparently.
+These Pokémon get nervous when they're not in a group of six. The minute even one member of the group goes missing, Exeggcute become cowardly.
 
 ======
 095 - Onix (Stage: 1)
@@ -6661,8 +6661,8 @@ TRs:
 - [TR99] Body Press
 Evolves into Steelix-0 @ 0 (TradeHeldItem) [233]
 
-Each of Exeggutor’s three heads is thinking different thoughts. The three don’t seem to be very interested in one another.
-When they work together, Exeggutor’s three heads can put out powerful psychic energy. Cloudy days make this Pokémon sluggish.
+Each of Exeggutor's three heads is thinking different thoughts. The three don't seem to be very interested in one another.
+When they work together, Exeggutor's three heads can put out powerful psychic energy. Cloudy days make this Pokémon sluggish.
 
 ======
 098 - Krabby (Stage: 1)
@@ -6897,8 +6897,8 @@ TRs:
 - [TR77] Grass Knot
 Evolves into Exeggutor-0 @ 0 (UseItem) [85]
 
-It mixes gases between its two bodies. It’s said that these Pokémon were seen all over the Galar region back in the day.
-It can’t suck in air quite as well as a Galarian Weezing, but the toxins it creates are more potent than those of its counterpart.
+It mixes gases between its two bodies. It's said that these Pokémon were seen all over the Galar region back in the day.
+It can't suck in air quite as well as a Galarian Weezing, but the toxins it creates are more potent than those of its counterpart.
 
 ======
 103 - Exeggutor (Stage: 2)
@@ -7242,7 +7242,7 @@ TRs:
 - [TR75] Stone Edge
 - [TR76] Stealth Rock
 - [TR95] Throat Chop
-The egg Chansey carries is not only delicious but also packed with nutrition. It’s used as a high-class cooking ingredient.
+The egg Chansey carries is not only delicious but also packed with nutrition. It's used as a high-class cooking ingredient.
 This species was once very slow. To protect their eggs from other creatures, these Pokémon became able to flee quickly.
 
 ======
@@ -7428,7 +7428,7 @@ TRs:
 - [TR75] Stone Edge
 - [TR85] Work Up
 - [TR95] Throat Chop
-Hidden beneath a tangle of vines that grows nonstop even if the vines are torn off, this Pokémon’s true appearance remains a mystery.
+Hidden beneath a tangle of vines that grows nonstop even if the vines are torn off, this Pokémon's true appearance remains a mystery.
 The vines of a Tangela have a distinct scent. In some parts of Galar, Tangela vines are used as herbs.
 
 ======
@@ -7513,7 +7513,7 @@ TRs:
 - [TR75] Stone Edge
 - [TR85] Work Up
 - [TR95] Throat Chop
-Although it’s carrying its baby in a pouch on its belly, Kangaskhan is swift on its feet. It intimidates its opponents with quick jabs.
+Although it's carrying its baby in a pouch on its belly, Kangaskhan is swift on its feet. It intimidates its opponents with quick jabs.
 There are records of a lost human child being raised by a childless Kangaskhan.
 
 ======
@@ -7688,8 +7688,8 @@ TRs:
 - [TR91] Venom Drench
 Evolves into Weezing-1 @ 35 (LevelUp) [0]
 
-It’s the males that raise the offspring. While Seadra are raising young, the spines on their backs secrete thicker and stronger poison.
-Seadra’s mouth is slender, but its suction power is strong. In an instant, Seadra can suck in food that’s larger than the opening of its mouth.
+It's the males that raise the offspring. While Seadra are raising young, the spines on their backs secrete thicker and stronger poison.
+Seadra's mouth is slender, but its suction power is strong. In an instant, Seadra can suck in food that's larger than the opening of its mouth.
 
 ======
 110 - Weezing (Stage: 2)
@@ -8054,8 +8054,8 @@ TRs:
 - [TR99] Body Press
 Evolves into Rhyperior-0 @ 0 (TradeHeldItem) [321]
 
-If you visit a beach at the end of summer, you’ll be able to see groups of Staryu lighting up in a steady rhythm.
-Fish Pokémon nibble at it, but Staryu isn’t bothered. Its body regenerates quickly, even if part of it is completely torn off.
+If you visit a beach at the end of summer, you'll be able to see groups of Staryu lighting up in a steady rhythm.
+Fish Pokémon nibble at it, but Staryu isn't bothered. Its body regenerates quickly, even if part of it is completely torn off.
 
 ======
 113 - Chansey (Stage: 2)
@@ -8238,7 +8238,7 @@ TRs:
 Evolves into Tangrowth-0 @ 0 (LevelUpKnowMove) [246]
 
 The broadness of its hands may be no coincidence—many scientists believe its palms became enlarged specifically for pantomiming.
-It’s known for its top-notch pantomime skills. It protects itself from all sorts of attacks by emitting auras from its fingers to create walls.
+It's known for its top-notch pantomime skills. It protects itself from all sorts of attacks by emitting auras from its fingers to create walls.
 
 ======
 115 - Kangaskhan (Stage: 2)
@@ -8339,7 +8339,7 @@ TRs:
 - [TR64] Focus Blast
 - [TR85] Work Up
 As Scyther fights more and more battles, its scythes become sharper and sharper. With a single slice, Scyther can fell a massive tree.
-If you come across an area in a forest where a lot of the trees have been cut down, what you’ve found is a Scyther’s territory.
+If you come across an area in a forest where a lot of the trees have been cut down, what you've found is a Scyther's territory.
 
 ======
 116 - Horsea (Stage: 1)
@@ -8486,8 +8486,8 @@ TRs:
 - [TR98] Liquidation
 Evolves into Kingdra-0 @ 0 (TradeHeldItem) [235]
 
-When Tauros begins whipping itself with its tails, it’s a warning that the Pokémon is about to charge with astounding speed.
-The Tauros of the Galar region are volatile in nature, and they won’t allow people to ride on their backs.
+When Tauros begins whipping itself with its tails, it's a warning that the Pokémon is about to charge with astounding speed.
+The Tauros of the Galar region are volatile in nature, and they won't allow people to ride on their backs.
 
 ======
 118 - Goldeen (Stage: 1)
@@ -9098,8 +9098,8 @@ TRs:
 - [TR61] Bug Buzz
 Evolves into Scizor-0 @ 0 (TradeHeldItem) [233]
 
-When Vaporeon’s fins begin to vibrate, it is a sign that rain will come within a few hours.
-Its body’s cellular structure is similar to the molecular composition of water. It can melt invisibly in water.
+When Vaporeon's fins begin to vibrate, it is a sign that rain will come within a few hours.
+Its body's cellular structure is similar to the molecular composition of water. It can melt invisibly in water.
 
 ======
 127 - Pinsir (Stage: 2)
@@ -9180,7 +9180,7 @@ TRs:
 - [TR94] High Horsepower
 - [TR95] Throat Chop
 It is not satisfied unless it eats over 880 pounds of food every day. When it is done eating, it goes promptly to sleep.
-This Pokémon’s stomach is so strong, even eating moldy or rotten food will not affect it.
+This Pokémon's stomach is so strong, even eating moldy or rotten food will not affect it.
 
 ======
 128 - Tauros (Stage: 2)
@@ -10615,7 +10615,7 @@ TRs:
 - [TR92] Dazzling Gleam
 Evolves into Lanturn-0 @ 27 (LevelUp) [0]
 
-It has an easygoing nature. It doesn’t care if it bumps its head on boats and boulders while swimming.
+It has an easygoing nature. It doesn't care if it bumps its head on boats and boulders while swimming.
 Its body is always slimy. It often bangs its head on the river bottom as it swims but seems not to care.
 
 ======
@@ -10691,7 +10691,7 @@ TRs:
 - [TR84] Scald
 - [TR86] Wild Charge
 - [TR92] Dazzling Gleam
-By reading air currents, it can predict things such as the weather or its foe’s next move.
+By reading air currents, it can predict things such as the weather or its foe's next move.
 It unleashes psychic power from the orb on its forehead. When its power is exhausted, the orb grows dull and dark.
 
 ======
@@ -10764,7 +10764,7 @@ TRs:
 - [TR90] Play Rough
 Evolves into Pikachu-0 @ 0 (LevelUpFriendship) [0]
 
-When this Pokémon becomes angry, its pores secrete a poisonous sweat, which it sprays at its opponent’s eyes.
+When this Pokémon becomes angry, its pores secrete a poisonous sweat, which it sprays at its opponent's eyes.
 On the night of a full moon, or when it gets excited, the ring patterns on its body glow yellow.
 
 ======
@@ -10928,7 +10928,7 @@ TRs:
 - [TR90] Play Rough
 Evolves into Jigglypuff-0 @ 0 (LevelUpFriendship) [0]
 
-Miraculously, this former Slowpoke’s latent intelligence was drawn out when Shellder poison raced through its brain.
+Miraculously, this former Slowpoke's latent intelligence was drawn out when Shellder poison raced through its brain.
 Slowking can solve any problem presented to it, but no one can understand a thing Slowking says.
 
 ======
@@ -11643,7 +11643,7 @@ Catch Rate: 45
 Abilities: Water Absorb (1) | Damp (2) | Drizzle (H)
 Type: Water
 Item 1 (50%): None
-Item 2 (5%): King’s Rock
+Item 2 (5%): King's Rock
 Item 3 (1%): None
 EXP Group: MediumSlow
 Egg Group: Water1
@@ -11715,7 +11715,7 @@ TRs:
 - [TR67] Earth Power
 - [TR84] Scald
 - [TR98] Liquidation
-When faced with a larger opponent, it swallows as much water as it can to match the opponent’s size.
+When faced with a larger opponent, it swallows as much water as it can to match the opponent's size.
 The small spikes covering its body developed from scales. They inject a toxin that causes fainting.
 
 ======
@@ -12078,7 +12078,7 @@ Catch Rate: 70
 Abilities: Oblivious (1) | Own Tempo (2) | Regenerator (H)
 Type: Water / Psychic
 Item 1 (50%): None
-Item 2 (5%): King’s Rock
+Item 2 (5%): King's Rock
 Item 3 (1%): None
 EXP Group: MediumFast
 Egg Group: Monster / Water1
@@ -12213,7 +12213,7 @@ TRs:
 - [TR17] Amnesia
 - [TR30] Encore
 The pointed feathers of these Pokémon are sharper than swords. Skarmory and Corviknight fight viciously over territory.
-People fashion swords from Skarmory’s shed feathers, so this Pokémon is a popular element in heraldic designs.
+People fashion swords from Skarmory's shed feathers, so this Pokémon is a popular element in heraldic designs.
 
 ======
 206 - Dunsparce (Stage: 2)
@@ -12495,7 +12495,7 @@ TRs:
 - [TR95] Throat Chop
 - [TR98] Liquidation
 It is always bursting with energy. To make itself stronger, it keeps on fighting even if it loses.
-Even though it is small, it can’t be ignored because it will slug any handy target without warning.
+Even though it is small, it can't be ignored because it will slug any handy target without warning.
 
 ======
 212 - Scizor (Stage: 2)
@@ -12577,7 +12577,7 @@ TRs:
 - [TR70] Flash Cannon
 - [TR74] Iron Head
 It launches kicks while spinning. If it spins at high speed, it may bore its way into the ground.
-After doing a handstand to throw off the opponent’s timing, it presents its fancy kick moves.
+After doing a handstand to throw off the opponent's timing, it presents its fancy kick moves.
 
 ======
 213 - Shuckle (Stage: 2)
@@ -12657,7 +12657,7 @@ TRs:
 - [TR75] Stone Edge
 - [TR76] Stealth Rock
 - [TR78] Sludge Wave
-Miltank produces highly nutritious milk, so it’s been supporting the lives of people and other Pokémon since ancient times.
+Miltank produces highly nutritious milk, so it's been supporting the lives of people and other Pokémon since ancient times.
 This Pokémon needs to be milked every day, or else it will fall ill. The flavor of Miltank milk changes with the seasons.
 
 ======
@@ -12748,7 +12748,7 @@ TRs:
 - [TR94] High Horsepower
 - [TR95] Throat Chop
 Whenever a Blissey finds a weakened Pokémon, it will share its egg and offer its care until the other Pokémon is all better.
-Blissey lays mysterious eggs that are filled with happiness. It’s said that anyone who eats a Blissey egg will start acting kindly to all others.
+Blissey lays mysterious eggs that are filled with happiness. It's said that anyone who eats a Blissey egg will start acting kindly to all others.
 
 ======
 215 - Sneasel (Stage: 1)
@@ -12995,7 +12995,7 @@ TRs:
 Evolves into Mamoswine-0 @ 0 (LevelUpKnowMove) [246]
 
 It marks its territory by rubbing its bristly fur on trees. This variety of Zigzagoon is friendlier and calmer than the kind native to Galar.
-Zigzagoon that adapted to regions outside Galar acquired this appearance. If you’ve lost something, this Pokémon can likely find it.
+Zigzagoon that adapted to regions outside Galar acquired this appearance. If you've lost something, this Pokémon can likely find it.
 
 ======
 222 - Corsola (Stage: 2)
@@ -13658,7 +13658,7 @@ TRs:
 - [TR84] Scald
 - [TR89] Hurricane
 - [TR98] Liquidation
-The rhythm of bright, festive music activates Ludicolo’s cells, making it more powerful.
+The rhythm of bright, festive music activates Ludicolo's cells, making it more powerful.
 If it hears festive music, it begins moving in rhythm in order to amplify its power.
 
 ======
@@ -13735,7 +13735,7 @@ TRs:
 - [TR83] Ally Switch
 Evolves into Porygon-Z-0 @ 0 (TradeHeldItem) [324]
 
-A Pokémon that was feared as a forest guardian. It can read the foe’s mind and take preemptive action.
+A Pokémon that was feared as a forest guardian. It can read the foe's mind and take preemptive action.
 It lives quietly in the deep forest. It is said to create chilly winter winds with the fans it holds.
 
 ======
@@ -13802,7 +13802,7 @@ Evolves into Hitmonlee-0 @ 20 (LevelUpATK) [0]
 Evolves into Hitmontop-0 @ 20 (LevelUpDEF) [0]
 
 It makes its nest on sheer cliffs. Riding the sea breeze, it glides up into the expansive skies.
-It soars on updrafts without flapping its wings. It makes a nest on sheer cliffs at the sea’s edge.
+It soars on updrafts without flapping its wings. It makes a nest on sheer cliffs at the sea's edge.
 
 ======
 237 - Hitmontop (Stage: 2)
@@ -13881,7 +13881,7 @@ TRs:
 - [TR85] Work Up
 - [TR87] Drill Run
 It is a messenger of the skies, carrying small Pokémon and eggs to safety in its bill.
-Skimming the water’s surface, it dips its large bill in the sea, scoops up food and water, and carries it.
+Skimming the water's surface, it dips its large bill in the sea, scoops up food and water, and carries it.
 
 ======
 241 - Miltank (Stage: 2)
@@ -14463,8 +14463,8 @@ TRs:
 - [TR83] Ally Switch
 - [TR92] Dazzling Gleam
 - [TR96] Pollen Puff
-The cry of a Whismur is over 100 decibels. If you’re close to a Whismur when it lets out a cry, you’ll be stuck with an all-day headache.
-When Whismur cries, the sound of its own voice startles it, making the Pokémon cry even louder. It cries until it’s exhausted, then it falls asleep.
+The cry of a Whismur is over 100 decibels. If you're close to a Whismur when it lets out a cry, you'll be stuck with an all-day headache.
+When Whismur cries, the sound of its own voice startles it, making the Pokémon cry even louder. It cries until it's exhausted, then it falls asleep.
 
 ======
 263 - Zigzagoon (Stage: 1)
@@ -15130,7 +15130,7 @@ TRs:
 - [TR81] Foul Play
 Evolves into Nuzleaf-0 @ 14 (LevelUp) [0]
 
-It won’t attack while it’s alone—not even if it spots prey. Instead, it waits for other Carvanha to join it, and then the Pokémon attack as a group.
+It won't attack while it's alone—not even if it spots prey. Instead, it waits for other Carvanha to join it, and then the Pokémon attack as a group.
 These Pokémon have sharp fangs and powerful jaws. Sailors avoid Carvanha dens at all costs.
 
 ======
@@ -15824,7 +15824,7 @@ TRs:
 - [TR61] Bug Buzz
 Evolves into Ninjask-0 @ 20 (LevelUpNinjask) [0]
 
-The phase of the moon apparently has some effect on its power. It’s active on the night of a full moon.
+The phase of the moon apparently has some effect on its power. It's active on the night of a full moon.
 It was discovered at the site of a meteor strike 40 years ago. Its stare can lull its foes to sleep.
 
 ======
@@ -16286,7 +16286,7 @@ TRs:
 - [TR85] Work Up
 Evolves into Marill-0 @ 0 (LevelUpFriendship) [0]
 
-Although unattractive and unpopular, this Pokémon’s marvelous vitality has made it a subject of research.
+Although unattractive and unpopular, this Pokémon's marvelous vitality has made it a subject of research.
 It is a shabby and ugly Pokémon. However, it is very hardy and can survive on little water.
 
 ======
@@ -16559,7 +16559,7 @@ TRs:
 - [TR97] Psychic Fangs
 Evolves into Manectric-0 @ 26 (LevelUp) [0]
 
-It’s said that if they are seen at midnight, they’ll cause heavy snow. They eat snow and ice to survive.
+It's said that if they are seen at midnight, they'll cause heavy snow. They eat snow and ice to survive.
 It can only survive in cold areas. It bounces happily around, even in environments as cold as −150 degrees Fahrenheit.
 
 ======
@@ -16632,7 +16632,7 @@ TRs:
 - [TR80] Electro Ball
 - [TR86] Wild Charge
 - [TR97] Psychic Fangs
-It has a body of ice that won’t melt, even with fire. It can instantly freeze moisture in the atmosphere.
+It has a body of ice that won't melt, even with fire. It can instantly freeze moisture in the atmosphere.
 It can instantly freeze moisture in the atmosphere. It uses this power to freeze its foes.
 
 ======
@@ -16715,7 +16715,7 @@ TRs:
 Evolves into Roserade-0 @ 0 (UseItem) [107]
 
 Once every 1,000 years, the singing of a pure voice will rouse this Pokémon from its near- perpetual slumber. It wakes for only seven days.
-It’s believed that when this Pokémon wakes from its 1,000-year slumber, it will grant any wishes written on the notes attached to its head.
+It's believed that when this Pokémon wakes from its 1,000-year slumber, it will grant any wishes written on the notes attached to its head.
 
 ======
 318 - Carvanha (Stage: 1)
@@ -18222,7 +18222,7 @@ TRs:
 - [TR74] Iron Head
 - [TR84] Scald
 It nimbly dashes about to avoid getting pecked by bird Pokémon that would love to make off with its small, nutrient-rich storage ball.
-The deeper a Cherubi’s red, the more nutrients it has stockpiled in its body. And the sweeter and tastier its small ball!
+The deeper a Cherubi's red, the more nutrients it has stockpiled in its body. And the sweeter and tastier its small ball!
 
 ======
 355 - Duskull (Stage: 1)
@@ -18746,7 +18746,7 @@ TRs:
 - [TR97] Psychic Fangs
 Evolves into Luxio-0 @ 15 (LevelUp) [0]
 
-One boy’s invention led to the development of many different machines that take advantage of Rotom’s unique capabilities.
+One boy's invention led to the development of many different machines that take advantage of Rotom's unique capabilities.
 With a body made of plasma, it can inhabit all sorts of machines. It loves to surprise others.
 
 ======
@@ -19211,7 +19211,7 @@ TRs:
 Evolves into Cherrim-0 @ 25 (LevelUp) [0]
 
 This Pokémon is courageous but also cautious. It uses the soft fur covering its face to collect information about its surroundings.
-This Pokémon is far brighter than the average child, and Lillipup won’t forget the love it receives or any abuse it suffers.
+This Pokémon is far brighter than the average child, and Lillipup won't forget the love it receives or any abuse it suffers.
 
 ======
 421 - Cherrim (Stage: 2)
@@ -19277,8 +19277,8 @@ TRs:
 - [TR90] Play Rough
 - [TR92] Dazzling Gleam
 - [TR96] Pollen Puff
-Herdier is a very smart and friendly Pokémon. So much so that there’s a theory that Herdier was the first Pokémon to partner with people.
-The black fur that covers this Pokémon’s body is dense and springy. Even sharp fangs bounce right off.
+Herdier is a very smart and friendly Pokémon. So much so that there's a theory that Herdier was the first Pokémon to partner with people.
+The black fur that covers this Pokémon's body is dense and springy. Even sharp fangs bounce right off.
 
 ======
 973 - Cherrim 1 (Stage: 2)
@@ -19414,7 +19414,7 @@ TRs:
 Evolves into Gastrodon-0 @ 30 (LevelUp) [0]
 
 These Pokémon seem to enjoy living with humans. Even a Stoutland caught in the wild will warm up to people in about three days.
-Stoutland is immensely proud of its impressive moustache. It’s said that moustache length is what determines social standing among this species.
+Stoutland is immensely proud of its impressive moustache. It's said that moustache length is what determines social standing among this species.
 
 ======
 974 - Shellos 1 (Stage: 1)
@@ -20372,7 +20372,7 @@ TRs:
 - [TR81] Foul Play
 Evolves into Sudowoodo-0 @ 0 (LevelUpKnowMove) [102]
 
-It’s as hard as steel, but apparently a long soak in water will cause it to soften a bit.
+It's as hard as steel, but apparently a long soak in water will cause it to soften a bit.
 When it detects a noise, it starts to move. The energy core inside it makes this Pokémon slightly warm to the touch.
 
 ======
@@ -20464,8 +20464,8 @@ TRs:
 - [TR92] Dazzling Gleam
 Evolves into Mr. Mime-1 @ 0 (LevelUpKnowMove) [102]
 
-If you see its orange crystals start to glow, be wary. It’s about to fire off bursts of energy.
-It relies on sound in order to monitor what’s in its vicinity. When angered, it will attack without ever changing the direction it’s facing.
+If you see its orange crystals start to glow, be wary. It's about to fire off bursts of energy.
+It relies on sound in order to monitor what's in its vicinity. When angered, it will attack without ever changing the direction it's facing.
 
 ======
 440 - Happiny (Stage: 1)
@@ -20635,7 +20635,7 @@ TRs:
 Evolves into Snorlax-0 @ 0 (LevelUpFriendship) [0]
 
 It shows off its muscles to Machoke and other Gurdurr. If it fails to measure up to the other Pokémon, it lies low for a little while.
-Gurdurr excels at demolition—construction is not its forte. In any case, there’s skill in the way this Pokémon wields its metal beam.
+Gurdurr excels at demolition—construction is not its forte. In any case, there's skill in the way this Pokémon wields its metal beam.
 
 ======
 447 - Riolu (Stage: 1)
@@ -20836,8 +20836,8 @@ TRs:
 - [TR70] Flash Cannon
 - [TR75] Stone Edge
 - [TR85] Work Up
-Graceful ripples running across the water’s surface are a sure sign that Tympole are singing in high-pitched voices below.
-It uses sound waves to communicate with others of its kind. People and other Pokémon species can’t hear its cries of warning.
+Graceful ripples running across the water's surface are a sure sign that Tympole are singing in high-pitched voices below.
+It uses sound waves to communicate with others of its kind. People and other Pokémon species can't hear its cries of warning.
 
 ======
 449 - Hippopotas (Stage: 1)
@@ -21072,8 +21072,8 @@ TRs:
 - [TR61] Bug Buzz
 Evolves into Drapion-0 @ 40 (LevelUp) [0]
 
-It performs throwing moves with first-rate skill. Over the course of many battles, Throh’s belt grows darker as it absorbs its wearer’s sweat.
-They train in groups of five. Any member that can’t keep up will discard its belt and leave the group.
+It performs throwing moves with first-rate skill. Over the course of many battles, Throh's belt grows darker as it absorbs its wearer's sweat.
+They train in groups of five. Any member that can't keep up will discard its belt and leave the group.
 
 ======
 452 - Drapion (Stage: 2)
@@ -21169,8 +21169,8 @@ TRs:
 - [TR61] Bug Buzz
 - [TR91] Venom Drench
 - [TR95] Throat Chop
-If you see a Sawk training in the mountains in its single-minded pursuit of strength, it’s best to quietly pass by.
-The karate chops of a Sawk that’s trained itself to the limit can cleave the ocean itself.
+If you see a Sawk training in the mountains in its single-minded pursuit of strength, it's best to quietly pass by.
+The karate chops of a Sawk that's trained itself to the limit can cleave the ocean itself.
 
 ======
 453 - Croagunk (Stage: 1)
@@ -21438,7 +21438,7 @@ TRs:
 - [TR84] Scald
 Evolves into Mantine-0 @ 0 (LevelUpWithTeammate) [223]
 
-Scolipede latches on to its prey with the claws on its neck before slamming them into the ground and jabbing them with its claws’ toxic spikes.
+Scolipede latches on to its prey with the claws on its neck before slamming them into the ground and jabbing them with its claws' toxic spikes.
 Scolipede engage in fierce territorial battles with Centiskorch. At the end of one of these battles, the victor makes a meal of the loser.
 
 ======
@@ -21512,7 +21512,7 @@ TRs:
 Evolves into Abomasnow-0 @ 40 (LevelUp) [0]
 
 It shoots cotton from its body to protect itself. If it gets caught up in hurricane-strength winds, it can get sent to the other side of the Earth.
-Weaving together the cotton of both Cottonee and Eldegoss produces exquisite cloth that’s highly prized by many luxury brands.
+Weaving together the cotton of both Cottonee and Eldegoss produces exquisite cloth that's highly prized by many luxury brands.
 
 ======
 460 - Abomasnow (Stage: 2)
@@ -21594,7 +21594,7 @@ TRs:
 - [TR67] Earth Power
 - [TR71] Leaf Storm
 - [TR77] Grass Knot
-It scatters cotton all over the place as a prank. If it gets wet, it’ll become too heavy to move and have no choice but to answer for its mischief.
+It scatters cotton all over the place as a prank. If it gets wet, it'll become too heavy to move and have no choice but to answer for its mischief.
 As long as this Pokémon bathes in sunlight, its cotton keeps growing. If too much cotton fluff builds up, Whimsicott tears it off and scatters it.
 
 ======
@@ -21692,8 +21692,8 @@ TRs:
 - [TR68] Nasty Plot
 - [TR81] Foul Play
 - [TR95] Throat Chop
-Petilil appears around sources of clean water. Boiling leaves from this Pokémon’s head results in a liquid that’s sometimes used as a bug repellent.
-The deeper the color of a Petilil’s leaves, the healthier the Pokémon is. Petilil sometimes makes its home in a well-tended field or flowerbed.
+Petilil appears around sources of clean water. Boiling leaves from this Pokémon's head results in a liquid that's sometimes used as a bug repellent.
+The deeper the color of a Petilil's leaves, the healthier the Pokémon is. Petilil sometimes makes its home in a well-tended field or flowerbed.
 
 ======
 462 - Magnezone (Stage: 3)
@@ -21767,8 +21767,8 @@ TRs:
 - [TR83] Ally Switch
 - [TR86] Wild Charge
 - [TR99] Body Press
-It’s believed that even first-rate gardeners have a hard time getting the flower on a Lilligant’s head to bloom.
-Essential oils made from Lilligant flowers have a sublime scent, but they’re also staggeringly expensive.
+It's believed that even first-rate gardeners have a hard time getting the flower on a Lilligant's head to bloom.
+Essential oils made from Lilligant flowers have a sublime scent, but they're also staggeringly expensive.
 
 ======
 463 - Lickilicky (Stage: 2)
@@ -21859,7 +21859,7 @@ TRs:
 - [TR85] Work Up
 - [TR99] Body Press
 Anglers love the fight this Pokémon puts up on the hook. And there are always more to catch— many people release them into lakes illicitly.
-In the past, it often appeared on the dinner table. The meat of red-striped Basculin is on the fatty side, and it’s more popular with the youth.
+In the past, it often appeared on the dinner table. The meat of red-striped Basculin is on the fatty side, and it's more popular with the youth.
 
 ======
 464 - Rhyperior (Stage: 3)
@@ -21971,7 +21971,7 @@ TRs:
 - [TR94] High Horsepower
 - [TR99] Body Press
 The desert gets cold at night, so when the sun sets, this Pokémon burrows deep into the sand and sleeps until sunrise.
-Sandile is small, but its legs and lower body are powerful. Pushing sand aside as it goes, Sandile moves through the desert as if it’s swimming.
+Sandile is small, but its legs and lower body are powerful. Pushing sand aside as it goes, Sandile moves through the desert as if it's swimming.
 
 ======
 465 - Tangrowth (Stage: 2)
@@ -22049,7 +22049,7 @@ TRs:
 - [TR72] Power Whip
 - [TR77] Grass Knot
 Krokorok has specialized eyes that enable it to see in the dark. This ability lets Krokorok hunt in the dead of night without getting lost.
-Although this Pokémon has specialized eyes that allow it to see in the dark, Krokorok won’t move much at night—the desert gets cold after sunset.
+Although this Pokémon has specialized eyes that allow it to see in the dark, Krokorok won't move much at night—the desert gets cold after sunset.
 
 ======
 468 - Togekiss (Stage: 3)
@@ -22152,7 +22152,7 @@ TRs:
 - [TR90] Play Rough
 - [TR92] Dazzling Gleam
 The thick arms of this hot-blooded Pokémon can deliver punches capable of obliterating a dump truck.
-This Pokémon’s power level rises along with the temperature of its fire, which can reach 2,500 degrees Fahrenheit.
+This Pokémon's power level rises along with the temperature of its fire, which can reach 2,500 degrees Fahrenheit.
 
 ======
 470 - Leafeon (Stage: 2)
@@ -22319,8 +22319,8 @@ TRs:
 - [TR42] Hyper Voice
 - [TR82] Stored Power
 - [TR85] Work Up
-This highly territorial Pokémon prefers dry climates. It won’t come out of its boulder on rainy days.
-Its thick claws are its greatest weapons. They’re mighty enough to crack Rhyperior’s carapace.
+This highly territorial Pokémon prefers dry climates. It won't come out of its boulder on rainy days.
+Its thick claws are its greatest weapons. They're mighty enough to crack Rhyperior's carapace.
 
 ======
 473 - Mamoswine (Stage: 3)
@@ -22399,7 +22399,7 @@ TRs:
 - [TR79] Heavy Slam
 - [TR94] High Horsepower
 - [TR99] Body Press
-As halfhearted as this Pokémon’s kicks may seem, they pack enough power to shatter Conkeldurr’s concrete pillars.
+As halfhearted as this Pokémon's kicks may seem, they pack enough power to shatter Conkeldurr's concrete pillars.
 While mostly known for having the temperament of an aggressive ruffian, this Pokémon takes very good care of its family, friends, and territory.
 
 ======
@@ -22479,7 +22479,7 @@ TRs:
 - [TR69] Zen Headbutt
 - [TR81] Foul Play
 - [TR83] Ally Switch
-Psychic power allows these Pokémon to fly. Some say they were the guardians of an ancient city. Others say they were the guardians’ emissaries.
+Psychic power allows these Pokémon to fly. Some say they were the guardians of an ancient city. Others say they were the guardians' emissaries.
 A discovery was made in the desert where Sigilyph fly. The ruins of what may have been an ancient city were found beneath the sands.
 
 ======
@@ -22611,7 +22611,7 @@ TRs:
 - [TR85] Work Up
 - [TR92] Dazzling Gleam
 - [TR95] Throat Chop
-It wanders through ruins by night, carrying a mask that’s said to have been the face it had when it was still human.
+It wanders through ruins by night, carrying a mask that's said to have been the face it had when it was still human.
 The spirit of a person from a bygone age became this Pokémon. It rambles through ruins, searching for someone who knows its face.
 
 ======
@@ -22857,7 +22857,7 @@ TRs:
 - [TR81] Foul Play
 - [TR82] Stored Power
 - [TR83] Ally Switch
-Zorua is a timid Pokémon. This disposition seems to be what led to the development of Zorua’s ability to take on the forms of other creatures.
+Zorua is a timid Pokémon. This disposition seems to be what led to the development of Zorua's ability to take on the forms of other creatures.
 Zorua sometimes transforms into a person and goes into cities to search for food. When Zorua does this, it usually takes on the form of a child.
 
 ======
@@ -23264,8 +23264,8 @@ TRs:
 - [TR97] Psychic Fangs
 Evolves into Herdier-0 @ 16 (LevelUp) [0]
 
-It defends itself by launching spikes, but its aim isn’t very good at first. Only after a lot of practice will it improve.
-Mossy caves are their preferred dwellings. Enzymes contained in mosses help Ferroseed’s spikes grow big and strong.
+It defends itself by launching spikes, but its aim isn't very good at first. Only after a lot of practice will it improve.
+Mossy caves are their preferred dwellings. Enzymes contained in mosses help Ferroseed's spikes grow big and strong.
 
 ======
 507 - Herdier (Stage: 2)
@@ -23413,7 +23413,7 @@ TRs:
 - [TR90] Play Rough
 - [TR97] Psychic Fangs
 The two minigears that compose this Pokémon are closer than twins. They mesh well only with each other.
-It’s suspected that Klink were the inspiration behind ancient people’s invention of the first gears.
+It's suspected that Klink were the inspiration behind ancient people's invention of the first gears.
 
 ======
 509 - Purrloin (Stage: 1)
@@ -23491,7 +23491,7 @@ TRs:
 - [TR90] Play Rough
 Evolves into Liepard-0 @ 20 (LevelUp) [0]
 
-When Klang goes all out, the minigear links up perfectly with the outer part of the big gear, and this Pokémon’s rotation speed increases sharply.
+When Klang goes all out, the minigear links up perfectly with the outer part of the big gear, and this Pokémon's rotation speed increases sharply.
 Many companies in the Galar region choose Klang as their logo. This Pokémon is considered the symbol of industrial technology.
 
 ======
@@ -23566,7 +23566,7 @@ TRs:
 - [TR90] Play Rough
 - [TR95] Throat Chop
 From its spikes, it launches powerful blasts of electricity. Its red core contains an enormous amount of energy.
-The three gears that compose this Pokémon spin at high speed. Its new spiked gear isn’t a living creature.
+The three gears that compose this Pokémon spin at high speed. Its new spiked gear isn't a living creature.
 
 ======
 517 - Munna (Stage: 1)
@@ -23643,7 +23643,7 @@ TRs:
 - [TR92] Dazzling Gleam
 Evolves into Musharna-0 @ 0 (UseItem) [81]
 
-This Pokémon appears just before someone passes away, so it’s feared as an emissary of death.
+This Pokémon appears just before someone passes away, so it's feared as an emissary of death.
 It lurks in cities, pretending to be a lamp. Once it finds someone whose death is near, it will trail quietly after them.
 
 ======
@@ -23721,7 +23721,7 @@ TRs:
 - [TR83] Ally Switch
 - [TR92] Dazzling Gleam
 This Pokémon haunts dilapidated mansions. It sways its arms to hypnotize opponents with the ominous dancing of its flames.
-In homes illuminated by Chandelure instead of lights, funerals were a constant occurrence— or so it’s said.
+In homes illuminated by Chandelure instead of lights, funerals were a constant occurrence— or so it's said.
 
 ======
 519 - Pidove (Stage: 1)
@@ -23784,8 +23784,8 @@ TRs:
 - [TR85] Work Up
 Evolves into Tranquill-0 @ 21 (LevelUp) [0]
 
-These Pokémon nest in the ground and use their tusks to crush hard berries. Crushing berries is also how they test each other’s strength.
-They play with each other by knocking their large tusks together. Their tusks break sometimes, but they grow back so quickly that it isn’t a concern.
+These Pokémon nest in the ground and use their tusks to crush hard berries. Crushing berries is also how they test each other's strength.
+They play with each other by knocking their large tusks together. Their tusks break sometimes, but they grow back so quickly that it isn't a concern.
 
 ======
 520 - Tranquill (Stage: 2)
@@ -23843,7 +23843,7 @@ TRs:
 Evolves into Unfezant-0 @ 32 (LevelUp) [0]
 
 After battle, this Pokémon carefully sharpens its tusks on river rocks. It needs to take care of its tusks—if one breaks, it will never grow back.
-Its skin is as hard as a suit of armor. Fraxure’s favorite strategy is to tackle its opponents, stabbing them with its tusks at the same time.
+Its skin is as hard as a suit of armor. Fraxure's favorite strategy is to tackle its opponents, stabbing them with its tusks at the same time.
 
 ======
 521 - Unfezant (Stage: 3)
@@ -24196,7 +24196,7 @@ TRs:
 Evolves into Swoobat-0 @ 0 (LevelUpFriendship) [0]
 
 In one minute, a well-trained Mienfoo can chop with its arms more than 100 times.
-Though small, Mienfoo’s temperament is fierce. Any creature that approaches Mienfoo carelessly will be greeted with a flurry of graceful attacks.
+Though small, Mienfoo's temperament is fierce. Any creature that approaches Mienfoo carelessly will be greeted with a flurry of graceful attacks.
 
 ======
 528 - Swoobat (Stage: 2)
@@ -24351,7 +24351,7 @@ TRs:
 - [TR94] High Horsepower
 Evolves into Excadrill-0 @ 31 (LevelUp) [0]
 
-Druddigon lives in caves, but it never skips sunbathing—it won’t be able to move if its body gets too cold.
+Druddigon lives in caves, but it never skips sunbathing—it won't be able to move if its body gets too cold.
 Druddigon are vicious and cunning. They take up residence in nests dug out by other Pokémon, treating the stolen nests as their own lairs.
 
 ======
@@ -24588,7 +24588,7 @@ TRs:
 - [TR94] High Horsepower
 Evolves into Conkeldurr-0 @ 0 (Trade) [0]
 
-It’s accompanied by a large retinue of Pawniard. Bisharp keeps a keen eye on its minions, ensuring none of them even think of double-crossing it.
+It's accompanied by a large retinue of Pawniard. Bisharp keeps a keen eye on its minions, ensuring none of them even think of double-crossing it.
 Violent conflicts erupt between Bisharp and Fraxure over places where sharpening stones can be found.
 
 ======
@@ -24739,8 +24739,8 @@ TRs:
 - [TR91] Venom Drench
 Evolves into Palpitoad-0 @ 25 (LevelUp) [0]
 
-If it spies a strong Pokémon, Rufflet can’t resist challenging it to a battle. But if Rufflet loses, it starts bawling.
-A combative Pokémon, it’s ready to pick a fight with anyone. It has talons that can crush hard berries.
+If it spies a strong Pokémon, Rufflet can't resist challenging it to a battle. But if Rufflet loses, it starts bawling.
+A combative Pokémon, it's ready to pick a fight with anyone. It has talons that can crush hard berries.
 
 ======
 536 - Palpitoad (Stage: 2)
@@ -24806,7 +24806,7 @@ TRs:
 Evolves into Seismitoad-0 @ 36 (LevelUp) [0]
 
 Known for its bravery and pride, this majestic Pokémon is often seen as a motif for various kinds of emblems.
-Because this Pokémon is hotheaded and belligerent, it’s Corviknight that’s taken the role of transportation in Galar.
+Because this Pokémon is hotheaded and belligerent, it's Corviknight that's taken the role of transportation in Galar.
 
 ======
 537 - Seismitoad (Stage: 3)
@@ -24973,7 +24973,7 @@ TRs:
 - [TR75] Stone Edge
 - [TR77] Grass Knot
 - [TR85] Work Up
-Although it’s a bit of a ruffian, this Pokémon will take lost Vullaby under its wing and care for them till they’re ready to leave the nest.
+Although it's a bit of a ruffian, this Pokémon will take lost Vullaby under its wing and care for them till they're ready to leave the nest.
 They adorn themselves with bones. There seem to be fashion trends among them, as different bones come into and fall out of popularity.
 
 ======
@@ -25053,7 +25053,7 @@ TRs:
 - [TR77] Grass Knot
 - [TR85] Work Up
 - [TR95] Throat Chop
-There’s a hole in its tail that allows it to draw in the air it needs to keep its fire burning. If the hole gets blocked, this Pokémon will fall ill.
+There's a hole in its tail that allows it to draw in the air it needs to keep its fire burning. If the hole gets blocked, this Pokémon will fall ill.
 A flame serves as its tongue, melting through the hard shell of Durant so that Heatmor can devour their insides.
 
 ======
@@ -25119,7 +25119,7 @@ TRs:
 Evolves into Whirlipede-0 @ 22 (LevelUp) [0]
 
 There are a slew of stories about villages that were destroyed by Hydreigon. It bites anything that moves.
-The three heads take turns sinking their teeth into the opponent. Their attacks won’t slow until their target goes down.
+The three heads take turns sinking their teeth into the opponent. Their attacks won't slow until their target goes down.
 
 ======
 544 - Whirlipede (Stage: 2)
@@ -25183,7 +25183,7 @@ TRs:
 Evolves into Scolipede-0 @ 30 (LevelUp) [0]
 
 The people of ancient times believed that Larvesta fell from the sun.
-Larvesta’s body is warm all over. It spouts fire from the tips of its horns to intimidate predators and scare prey.
+Larvesta's body is warm all over. It spouts fire from the tips of its horns to intimidate predators and scare prey.
 
 ======
 545 - Scolipede (Stage: 3)
@@ -25263,7 +25263,7 @@ TRs:
 - [TR60] X-Scissor
 - [TR91] Venom Drench
 - [TR95] Throat Chop
-Volcarona scatters burning scales. Some say it does this to start fires. Others say it’s trying to rescue those that suffer in the cold.
+Volcarona scatters burning scales. Some say it does this to start fires. Others say it's trying to rescue those that suffer in the cold.
 This Pokémon emerges from a cocoon formed of raging flames. Ancient murals depict Volcarona as a deity of fire.
 
 ======
@@ -25337,7 +25337,7 @@ TRs:
 - [TR92] Dazzling Gleam
 Evolves into Whimsicott-0 @ 0 (UseItem) [80]
 
-Flames spew from its tail as it flies through the sky like a jet airplane. It’s said that this Pokémon will scorch the world.
+Flames spew from its tail as it flies through the sky like a jet airplane. It's said that this Pokémon will scorch the world.
 According to myth, if people ignore truth and let themselves become consumed by greed, Reshiram will arrive to burn their kingdoms down.
 
 ======
@@ -25420,7 +25420,7 @@ TRs:
 - [TR90] Play Rough
 - [TR92] Dazzling Gleam
 When the interior part of its tail spins like a motor, Zekrom can generate many bolts of lightning to blast its surroundings.
-Mythology tells us that if people lose the righteousness in their hearts, their kingdoms will be razed by Zekrom’s lightning.
+Mythology tells us that if people lose the righteousness in their hearts, their kingdoms will be razed by Zekrom's lightning.
 
 ======
 548 - Petilil (Stage: 1)
@@ -26837,7 +26837,7 @@ TRs:
 Evolves into Scrafty-0 @ 39 (LevelUp) [0]
 
 It excels at digging holes. Using its ears, it can dig a nest 33 feet deep in one night.
-It’s very sensitive to danger. The sound of Corviknight’s flapping will have Bunnelby digging a hole to hide underground in moments.
+It's very sensitive to danger. The sound of Corviknight's flapping will have Bunnelby digging a hole to hide underground in moments.
 
 ======
 560 - Scrafty (Stage: 2)
@@ -26931,7 +26931,7 @@ TRs:
 - [TR81] Foul Play
 - [TR85] Work Up
 - [TR95] Throat Chop
-With power equal to an excavator, it can dig through dense bedrock. It’s a huge help during tunnel construction.
+With power equal to an excavator, it can dig through dense bedrock. It's a huge help during tunnel construction.
 The fur on its belly retains heat exceptionally well. People used to make heavy winter clothing from fur shed by this Pokémon.
 
 ======
@@ -27090,7 +27090,7 @@ TRs:
 - [TR83] Ally Switch
 Evolves into Cofagrigus-0 @ 34 (LevelUp) [0]
 
-Fletchinder launches embers into the den of its prey. When the prey comes leaping out, Fletchinder’s sharp talons finish it off.
+Fletchinder launches embers into the den of its prey. When the prey comes leaping out, Fletchinder's sharp talons finish it off.
 Fletchinder are exceedingly territorial and aggressive. These Pokémon fight among themselves over feeding grounds.
 
 ======
@@ -27818,8 +27818,8 @@ TRs:
 - [TR83] Ally Switch
 Evolves into Gothorita-0 @ 32 (LevelUp) [0]
 
-It chooses a Pangoro as its master and then imitates its master’s actions. This is how it learns to battle and hunt for prey.
-Wanting to make sure it’s taken seriously, Pancham’s always giving others a glare. But if it’s not focusing, it ends up smiling.
+It chooses a Pangoro as its master and then imitates its master's actions. This is how it learns to battle and hunt for prey.
+Wanting to make sure it's taken seriously, Pancham's always giving others a glare. But if it's not focusing, it ends up smiling.
 
 ======
 575 - Gothorita (Stage: 2)
@@ -28064,8 +28064,8 @@ TRs:
 - [TR83] Ally Switch
 Evolves into Duosion-0 @ 32 (LevelUp) [0]
 
-Though Espurr’s expression never changes, behind that blank stare is an intense struggle to contain its devastating psychic power.
-There’s enough psychic power in Espurr to send a wrestler flying, but because this power can’t be controlled, Espurr finds it troublesome.
+Though Espurr's expression never changes, behind that blank stare is an intense struggle to contain its devastating psychic power.
+There's enough psychic power in Espurr to send a wrestler flying, but because this power can't be controlled, Espurr finds it troublesome.
 
 ======
 578 - Duosion (Stage: 2)
@@ -28143,7 +28143,7 @@ TRs:
 Evolves into Reuniclus-0 @ 41 (LevelUp) [0]
 
 Revealing the eyelike patterns on the insides of its ears will unleash its psychic powers. It normally keeps the patterns hidden, however.
-The defensive instinct of the males is strong. It’s when they’re protecting themselves or their partners that they unleash their full power.
+The defensive instinct of the males is strong. It's when they're protecting themselves or their partners that they unleash their full power.
 
 ======
 579 - Reuniclus (Stage: 3)
@@ -28231,8 +28231,8 @@ TRs:
 - [TR77] Grass Knot
 - [TR82] Stored Power
 - [TR83] Ally Switch
-Honedge’s soul once belonged to a person who was killed a long time ago by the sword that makes up Honedge’s body.
-The blue eye on the sword’s handguard is the true body of Honedge. With its old cloth, it drains people’s lives away.
+Honedge's soul once belonged to a person who was killed a long time ago by the sword that makes up Honedge's body.
+The blue eye on the sword's handguard is the true body of Honedge. With its old cloth, it drains people's lives away.
 
 ======
 582 - Vanillite (Stage: 1)
@@ -28302,7 +28302,7 @@ TRs:
 - [TR83] Ally Switch
 Evolves into Vanillish-0 @ 35 (LevelUp) [0]
 
-A scent pouch within this Pokémon’s body allows it to create various scents. A change in its diet will alter the fragrance it produces.
+A scent pouch within this Pokémon's body allows it to create various scents. A change in its diet will alter the fragrance it produces.
 The scent its body gives off enraptures those who smell it. Noble ladies had no shortage of love for Spritzee.
 
 ======
@@ -28366,8 +28366,8 @@ TRs:
 - [TR83] Ally Switch
 Evolves into Vanilluxe-0 @ 47 (LevelUp) [0]
 
-The scent that constantly emits from its fur is so powerful that this Pokémon’s companions will eventually lose their sense of smell.
-The scents Aromatisse can produce range from sweet smells that bolster allies to foul smells that sap an opponent’s will to fight.
+The scent that constantly emits from its fur is so powerful that this Pokémon's companions will eventually lose their sense of smell.
+The scents Aromatisse can produce range from sweet smells that bolster allies to foul smells that sap an opponent's will to fight.
 
 ======
 584 - Vanilluxe (Stage: 3)
@@ -28435,8 +28435,8 @@ TRs:
 - [TR46] Iron Defense
 - [TR70] Flash Cannon
 - [TR83] Ally Switch
-It eats its own weight in sugar every day. If it doesn’t get enough sugar, it becomes incredibly grumpy.
-The sweet smell of cotton candy perfumes Swirlix’s fluffy fur. This Pokémon spits out sticky string to tangle up its enemies.
+It eats its own weight in sugar every day. If it doesn't get enough sugar, it becomes incredibly grumpy.
+The sweet smell of cotton candy perfumes Swirlix's fluffy fur. This Pokémon spits out sticky string to tangle up its enemies.
 
 ======
 587 - Emolga (Stage: 2)
@@ -28510,8 +28510,8 @@ TRs:
 - [TR65] Energy Ball
 - [TR80] Electro Ball
 - [TR86] Wild Charge
-Gazing at its luminescent spots will quickly induce a hypnotic state, putting the observer under Malamar’s control.
-It’s said that Malamar’s hypnotic powers played a role in certain history-changing events.
+Gazing at its luminescent spots will quickly induce a hypnotic state, putting the observer under Malamar's control.
+It's said that Malamar's hypnotic powers played a role in certain history-changing events.
 
 ======
 588 - Karrablast (Stage: 1)
@@ -28577,7 +28577,7 @@ TRs:
 Evolves into Escavalier-0 @ 0 (TradeSpecies) [0]
 
 After two Binacle find a suitably sized rock, they adhere themselves to it and live together. They cooperate to gather food during high tide.
-If the two don’t work well together, both their offense and defense fall apart. Without good teamwork, they won’t survive.
+If the two don't work well together, both their offense and defense fall apart. Without good teamwork, they won't survive.
 
 ======
 589 - Escavalier (Stage: 2)
@@ -28654,7 +28654,7 @@ TRs:
 - [TR74] Iron Head
 - [TR87] Drill Run
 Seven Binacle come together to form one Barbaracle. The Binacle that serves as the head gives orders to those serving as the limbs.
-Having an eye on each palm allows it to keep watch in all directions. In a pinch, its limbs start to act on their own to ensure the enemy’s defeat.
+Having an eye on each palm allows it to keep watch in all directions. In a pinch, its limbs start to act on their own to ensure the enemy's defeat.
 
 ======
 590 - Foongus (Stage: 1)
@@ -28784,7 +28784,7 @@ TRs:
 - [TR81] Foul Play
 - [TR96] Pollen Puff
 Dragalge uses a poisonous liquid capable of corroding metal to send tankers that enter its territory to the bottom of the sea.
-Dragalge generates dragon energy by sticking the plume on its head out above the ocean’s surface and bathing it in sunlight.
+Dragalge generates dragon energy by sticking the plume on its head out above the ocean's surface and bathing it in sunlight.
 
 ======
 592 - Frillish (Stage: 1)
@@ -28863,7 +28863,7 @@ TRs:
 - [TR92] Dazzling Gleam
 Evolves into Jellicent-0 @ 40 (LevelUp) [0]
 
-Clauncher’s claws can fall off during battle, but they’ll regenerate. The meat inside the claws is popular as a delicacy in Galar.
+Clauncher's claws can fall off during battle, but they'll regenerate. The meat inside the claws is popular as a delicacy in Galar.
 By detonating gas that accumulates in its right claw, this Pokémon launches water like a bullet. This is how Clauncher defeats its enemies.
 
 ======
@@ -28939,7 +28939,7 @@ TRs:
 - [TR84] Scald
 - [TR92] Dazzling Gleam
 After using the feelers on its oversized claw to detect the location of prey, Clawitzer launches a cannonball of water at its target.
-Clawitzer’s right arm is a cannon that launches projectiles made of seawater. Shots from a Clawitzer’s cannon arm can sink a tanker.
+Clawitzer's right arm is a cannon that launches projectiles made of seawater. Shots from a Clawitzer's cannon arm can sink a tanker.
 
 ======
 595 - Joltik (Stage: 1)
@@ -29085,7 +29085,7 @@ TRs:
 - [TR86] Wild Charge
 - [TR95] Throat Chop
 By releasing enmity-erasing waves from its ribbonlike feelers, Sylveon stops any conflict.
-There’s a Galarian fairy tale that describes a beautiful Sylveon vanquishing a dreadful dragon Pokémon.
+There's a Galarian fairy tale that describes a beautiful Sylveon vanquishing a dreadful dragon Pokémon.
 
 ======
 597 - Ferroseed (Stage: 1)
@@ -29234,8 +29234,8 @@ TRs:
 - [TR77] Grass Knot
 - [TR79] Heavy Slam
 - [TR99] Body Press
-A Dedenne’s whiskers pick up electrical waves other Dedenne send out. These Pokémon share locations of food or electricity with one another.
-Since Dedenne can’t generate much electricity on its own, it steals electricity from outlets or other electric Pokémon.
+A Dedenne's whiskers pick up electrical waves other Dedenne send out. These Pokémon share locations of food or electricity with one another.
+Since Dedenne can't generate much electricity on its own, it steals electricity from outlets or other electric Pokémon.
 
 ======
 599 - Klink (Stage: 1)
@@ -29291,8 +29291,8 @@ TRs:
 - [TR86] Wild Charge
 Evolves into Klang-0 @ 38 (LevelUp) [0]
 
-Because most of its body is water, it will dry up if the weather becomes too arid. It’s considered the weakest dragon Pokémon.
-Their horns are powerful sensors. As soon as Goomy pick up any sign of enemies, they go into hiding. This is how they’ve survived.
+Because most of its body is water, it will dry up if the weather becomes too arid. It's considered the weakest dragon Pokémon.
+Their horns are powerful sensors. As soon as Goomy pick up any sign of enemies, they go into hiding. This is how they've survived.
 
 ======
 600 - Klang (Stage: 2)
@@ -29349,7 +29349,7 @@ TRs:
 - [TR86] Wild Charge
 Evolves into Klinklang-0 @ 49 (LevelUp) [0]
 
-Although this Pokémon isn’t very strong, its body is coated in a caustic slime that can melt through anything, so predators steer clear of it.
+Although this Pokémon isn't very strong, its body is coated in a caustic slime that can melt through anything, so predators steer clear of it.
 The lump on its back contains its tiny brain. It thinks only of food and escaping its enemies.
 
 ======
@@ -29412,7 +29412,7 @@ TRs:
 - [TR70] Flash Cannon
 - [TR83] Ally Switch
 - [TR86] Wild Charge
-Sometimes it misunderstands instructions and appears dazed or bewildered. Many Trainers don’t mind, finding this behavior to be adorable.
+Sometimes it misunderstands instructions and appears dazed or bewildered. Many Trainers don't mind, finding this behavior to be adorable.
 Its form of offense is forcefully stretching out its horns. The strikes land 100 times harder than any blow from a heavyweight boxer.
 
 ======
@@ -29493,7 +29493,7 @@ TRs:
 - [TR83] Ally Switch
 Evolves into Beheeyem-0 @ 42 (LevelUp) [0]
 
-Spirits that wander this world are placed into Pumpkaboo’s body. They’re then moved on to the afterlife.
+Spirits that wander this world are placed into Pumpkaboo's body. They're then moved on to the afterlife.
 The light that streams out from the holes in the pumpkin can hypnotize and control the people and Pokémon that see it.
 
 ======
@@ -29722,7 +29722,7 @@ TRs:
 Evolves into Chandelure-0 @ 0 (UseItem) [108]
 
 At high latitudes, this Pokémon can be found with clusters of Bergmite on its back as it swims among the icebergs.
-As Avalugg moves about during the day, the cracks in its body deepen. The Pokémon’s body returns to a pristine state overnight.
+As Avalugg moves about during the day, the cracks in its body deepen. The Pokémon's body returns to a pristine state overnight.
 
 ======
 609 - Chandelure (Stage: 3)
@@ -29793,7 +29793,7 @@ TRs:
 - [TR65] Energy Ball
 - [TR83] Ally Switch
 After nightfall, they emerge from the caves they nest in during the day. Using their ultrasonic waves, they go on the hunt for ripened fruit.
-No wavelength of sound is beyond Noibat’s ability to produce. The ultrasonic waves it generates can overcome much larger Pokémon.
+No wavelength of sound is beyond Noibat's ability to produce. The ultrasonic waves it generates can overcome much larger Pokémon.
 
 ======
 610 - Axew (Stage: 1)
@@ -30206,8 +30206,8 @@ TRs:
 - [TR95] Throat Chop
 - [TR98] Liquidation
 - [TR99] Body Press
-As if wielding a bow, it launches the arrow quills hidden among the feathers of its wings. Decidueye’s shots never miss.
-In a tenth of a second, it can nock and fire an arrow quill, piercing an opponent’s weak point before they notice what’s happening.
+As if wielding a bow, it launches the arrow quills hidden among the feathers of its wings. Decidueye's shots never miss.
+In a tenth of a second, it can nock and fire an arrow quill, piercing an opponent's weak point before they notice what's happening.
 
 ======
 616 - Shelmet (Stage: 1)
@@ -30271,8 +30271,8 @@ TRs:
 - [TR65] Energy Ball
 Evolves into Accelgor-0 @ 0 (TradeSpecies) [0]
 
-In the midst of battle, the fire pouch on Torracat’s neck rings like a bell and produces stronger flames than usual.
-When facing a powerful enemy, Torracat’s fighting spirit gets pumped up, and its fire bell blazes hotter.
+In the midst of battle, the fire pouch on Torracat's neck rings like a bell and produces stronger flames than usual.
+When facing a powerful enemy, Torracat's fighting spirit gets pumped up, and its fire bell blazes hotter.
 
 ======
 617 - Accelgor (Stage: 2)
@@ -30349,7 +30349,7 @@ TRs:
 - [TR65] Energy Ball
 - [TR91] Venom Drench
 It excels at violent, no-holds-barred battles. The temperature of the flames that issue from its navel exceeds 3,600 degrees Fahrenheit.
-Incineroar’s rough and aggressive behavior is its most notable trait, but the way it helps out small Pokémon shows that it has a kind side as well.
+Incineroar's rough and aggressive behavior is its most notable trait, but the way it helps out small Pokémon shows that it has a kind side as well.
 
 ======
 618 - Stunfisk (Stage: 2)
@@ -30599,8 +30599,8 @@ TRs:
 - [TR85] Work Up
 Evolves into Mienshao-0 @ 50 (LevelUp) [0]
 
-As if dancing, it artfully dodges the attacks of its enemies. All the while, it’s busy forming a bunch of balloons to overwhelm its foes.
-On nights when the sea is calm, Brionne dance with one another to the singing of the Primarina that’s leading them.
+As if dancing, it artfully dodges the attacks of its enemies. All the while, it's busy forming a bunch of balloons to overwhelm its foes.
+On nights when the sea is calm, Brionne dance with one another to the singing of the Primarina that's leading them.
 
 ======
 620 - Mienshao (Stage: 2)
@@ -30687,7 +30687,7 @@ TRs:
 - [TR83] Ally Switch
 - [TR85] Work Up
 With its mouth, it makes sonic waves that sound like beautiful singing. It uses the sonic waves to control its water balloons.
-For Primarina, every battle’s a stage. Its singing and the dancing of its balloons will mesmerize the audience.
+For Primarina, every battle's a stage. Its singing and the dancing of its balloons will mesmerize the audience.
 
 ======
 621 - Druddigon (Stage: 2)
@@ -31655,8 +31655,8 @@ TRs:
 - [TR70] Flash Cannon
 - [TR74] Iron Head
 - [TR75] Stone Edge
-Nectar and pollen are its favorite fare. You can find Cutiefly hovering around Gossifleur, trying to get some of Gossifleur’s pollen.
-An opponent’s aura can tell Cutiefly what that opponent’s next move will be. Then Cutiefly can glide around the attack and strike back.
+Nectar and pollen are its favorite fare. You can find Cutiefly hovering around Gossifleur, trying to get some of Gossifleur's pollen.
+An opponent's aura can tell Cutiefly what that opponent's next move will be. Then Cutiefly can glide around the attack and strike back.
 
 ======
 633 - Deino (Stage: 1)
@@ -31733,7 +31733,7 @@ TRs:
 - [TR85] Work Up
 Evolves into Zweilous-0 @ 50 (LevelUp) [0]
 
-It makes pollen puffs from pollen and nectar. The puffs’ effects depend on the type of ingredients and how much of each one is used.
+It makes pollen puffs from pollen and nectar. The puffs' effects depend on the type of ingredients and how much of each one is used.
 Ribombee absolutely hate getting wet or rained on. In the cloudy Galar region, they are very seldom seen.
 
 ======
@@ -31914,7 +31914,7 @@ TRs:
 - [TR85] Work Up
 - [TR95] Throat Chop
 This Lycanroc is calm and cautious. The rocks jutting from its mane are razor sharp.
-With swift movements, this Pokémon gradually backs its prey into a corner. Lycanroc’s fangs are always aimed toward opponents’ weak spots.
+With swift movements, this Pokémon gradually backs its prey into a corner. Lycanroc's fangs are always aimed toward opponents' weak spots.
 
 ======
 636 - Larvesta (Stage: 1)
@@ -31983,7 +31983,7 @@ TRs:
 - [TR86] Wild Charge
 Evolves into Volcarona-0 @ 59 (LevelUp) [0]
 
-Individually, they’re incredibly weak. It’s by gathering up into schools that they’re able to confront opponents.
+Individually, they're incredibly weak. It's by gathering up into schools that they're able to confront opponents.
 When it senses danger, its eyes tear up. The sparkle of its tears signals other Wishiwashi to gather.
 
 ======
@@ -32066,7 +32066,7 @@ TRs:
 - [TR69] Zen Headbutt
 - [TR86] Wild Charge
 - [TR89] Hurricane
-The first symptom of its sting is numbness. The next is an itching sensation so intense that it’s impossible to resist the urge to claw at your skin.
+The first symptom of its sting is numbness. The next is an itching sensation so intense that it's impossible to resist the urge to claw at your skin.
 Unlike their Alolan counterparts, the Mareanie of the Galar region have not yet figured out that the branches of Corsola are delicious.
 
 ======
@@ -32222,7 +32222,7 @@ TRs:
 - [TR75] Stone Edge
 - [TR76] Stealth Rock
 - [TR85] Work Up
-Loads weighing up to 50 times as much as its own body weight pose no issue for this Pokémon. It’s skilled at making use of mud.
+Loads weighing up to 50 times as much as its own body weight pose no issue for this Pokémon. It's skilled at making use of mud.
 It eats dirt to create mud and smears this mud all over its feet, giving them the grip needed to walk on rough terrain without slipping.
 
 ======
@@ -32301,7 +32301,7 @@ TRs:
 - [TR75] Stone Edge
 - [TR77] Grass Knot
 - [TR85] Work Up
-Mud that hardens around a Mudsdale’s legs sets harder than stone. It’s so hard that it allows this Pokémon to scrap a truck with a single kick.
+Mud that hardens around a Mudsdale's legs sets harder than stone. It's so hard that it allows this Pokémon to scrap a truck with a single kick.
 Mudsdale has so much stamina that it could carry over 10 tons across the Galar region without rest or sleep.
 
 ======
@@ -32474,7 +32474,7 @@ TRs:
 - [TR86] Wild Charge
 - [TR99] Body Press
 This Pokémon resembles a beautiful flower. A properly raised Lurantis will have gorgeous, brilliant colors.
-The petals on this Pokémon’s arms are thin and super sharp, and they can fire laser beams if Lurantis gathers light first.
+The petals on this Pokémon's arms are thin and super sharp, and they can fire laser beams if Lurantis gathers light first.
 
 ======
 646 - Kyurem (Stage: 3)
@@ -32558,7 +32558,7 @@ TRs:
 - [TR75] Stone Edge
 - [TR99] Body Press
 Its flickering spores lure in prey and put them to sleep. Once this Pokémon has its prey snoozing, it drains their vitality with its fingertips.
-If you see a light deep in a forest at night, don’t go near. Shiinotic will make you fall fast asleep.
+If you see a light deep in a forest at night, don't go near. Shiinotic will make you fall fast asleep.
 
 ======
 1016 - Kyurem 1 (Stage: 3)
@@ -32801,7 +32801,7 @@ TRs:
 - [TR84] Scald
 - [TR85] Work Up
 - [TR98] Liquidation
-Its venom sacs produce a fluid that this Pokémon then heats up with the flame in its tail. This process creates Salandit’s poisonous gas.
+Its venom sacs produce a fluid that this Pokémon then heats up with the flame in its tail. This process creates Salandit's poisonous gas.
 This sneaky Pokémon will slink behind its prey and immobilize it with poisonous gas before the prey even realizes Salandit is there.
 
 ======
@@ -33044,7 +33044,7 @@ TRs:
 - [TR86] Wild Charge
 - [TR94] High Horsepower
 Palossand is known as the Beach Nightmare. It pulls its prey down into the sand by controlling the sand itself, and then it sucks out their souls.
-This Pokémon lives on beaches, but it hates water. Palossand can’t maintain its castle-like shape if it gets drenched by a heavy rain.
+This Pokémon lives on beaches, but it hates water. Palossand can't maintain its castle-like shape if it gets drenched by a heavy rain.
 
 ======
 661 - Fletchling (Stage: 1)
@@ -33106,7 +33106,7 @@ TRs:
 Evolves into Fletchinder-0 @ 17 (LevelUp) [0]
 
 It lives in warm, shallow waters. If it encounters a foe, it will spit out its internal organs as a means to punch them.
-It’s covered in a slime that keeps its skin moist, allowing it to stay on land for days without drying up.
+It's covered in a slime that keeps its skin moist, allowing it to stay on land for days without drying up.
 
 ======
 662 - Fletchinder (Stage: 2)
@@ -33240,7 +33240,7 @@ TRs:
 - [TR85] Work Up
 - [TR89] Hurricane
 A solid bond of trust between this Pokémon and its Trainer awakened the strength hidden within Silvally. It can change its type at will.
-The final factor needed to release this Pokémon’s true power was a strong bond with a Trainer it trusts.
+The final factor needed to release this Pokémon's true power was a strong bond with a Trainer it trusts.
 
 ======
 674 - Pancham (Stage: 1)
@@ -33834,8 +33834,8 @@ Egg Group: Mineral
 Hatch Cycles: 20
 Height: 01.70 m, Weight: 053.0 kg, Color: Brown
 Level Up Moves:
-- [00] King’s Shield
-- [01] King’s Shield
+- [00] King's Shield
+- [01] King's Shield
 - [01] Head Smash
 - [01] Aerial Ace
 - [01] Metal Sound
@@ -33904,8 +33904,8 @@ Egg Group: Mineral
 Hatch Cycles: 20
 Height: 01.70 m, Weight: 053.0 kg, Color: Brown
 Level Up Moves:
-- [00] King’s Shield
-- [01] King’s Shield
+- [00] King's Shield
+- [01] King's Shield
 - [01] Head Smash
 - [01] Aerial Ace
 - [01] Metal Sound
@@ -34171,7 +34171,7 @@ TRs:
 Evolves into Slurpuff-0 @ 0 (TradeHeldItem) [646]
 
 At the end of its life-span, Melmetal will rust and fall apart. The small shards left behind will eventually be reborn as Meltan.
-Centrifugal force is behind the punches of Melmetal’s heavy hex-nut arms. Melmetal is said to deliver the strongest punches of all Pokémon.
+Centrifugal force is behind the punches of Melmetal's heavy hex-nut arms. Melmetal is said to deliver the strongest punches of all Pokémon.
 
 ======
 685 - Slurpuff (Stage: 2)
@@ -34318,7 +34318,7 @@ TRs:
 Evolves into Malamar-0 @ 30 (LevelUpInverted) [0]
 
 The faster a Thwackey can beat out a rhythm with its two sticks, the more respect it wins from its peers.
-When it’s drumming out rapid beats in battle, it gets so caught up in the rhythm that it won’t even notice that it’s already knocked out its opponent.
+When it's drumming out rapid beats in battle, it gets so caught up in the rhythm that it won't even notice that it's already knocked out its opponent.
 
 ======
 687 - Malamar (Stage: 2)
@@ -34484,8 +34484,8 @@ TRs:
 - [TR98] Liquidation
 Evolves into Barbaracle-0 @ 39 (LevelUp) [0]
 
-A warm-up of running around gets fire energy coursing through this Pokémon’s body. Once that happens, it’s ready to fight at full power.
-It has special pads on the backs of its feet, and one on its nose. Once it’s raring to fight, these pads radiate tremendous heat.
+A warm-up of running around gets fire energy coursing through this Pokémon's body. Once that happens, it's ready to fight at full power.
+It has special pads on the backs of its feet, and one on its nose. Once it's raring to fight, these pads radiate tremendous heat.
 
 ======
 689 - Barbaracle (Stage: 2)
@@ -34651,7 +34651,7 @@ TRs:
 Evolves into Dragalge-0 @ 48 (LevelUp) [0]
 
 It juggles a pebble with its feet, turning it into a burning soccer ball. Its shots strike opponents hard and leave them scorched.
-It’s skilled at both offense and defense, and it gets pumped up when cheered on. But if it starts showboating, it could put itself in a tough spot.
+It's skilled at both offense and defense, and it gets pumped up when cheered on. But if it starts showboating, it could put itself in a tough spot.
 
 ======
 691 - Dragalge (Stage: 2)
@@ -34719,7 +34719,7 @@ TRs:
 - [TR84] Scald
 - [TR90] Play Rough
 - [TR91] Venom Drench
-When scared, this Pokémon cries. Its tears pack the chemical punch of 100 onions, and attackers won’t be able to resist weeping.
+When scared, this Pokémon cries. Its tears pack the chemical punch of 100 onions, and attackers won't be able to resist weeping.
 When it gets wet, its skin changes color, and this Pokémon becomes invisible as if it were camouflaged.
 
 ======
@@ -34861,7 +34861,7 @@ TRs:
 - [TR84] Scald
 - [TR98] Liquidation
 It has many hidden capabilities, such as fingertips that can shoot water and a membrane on its back that it can use to glide through the air.
-Its nictitating membranes let it pick out foes’ weak points so it can precisely blast them with water that shoots from its fingertips at Mach 3.
+Its nictitating membranes let it pick out foes' weak points so it can precisely blast them with water that shoots from its fingertips at Mach 3.
 
 ======
 694 - Helioptile (Stage: 1)
@@ -34934,7 +34934,7 @@ TRs:
 Evolves into Heliolisk-0 @ 0 (UseItem) [80]
 
 Found throughout the Galar region, this Pokémon becomes uneasy if its cheeks are ever completely empty of berries.
-It eats berries nonstop—a habit that has made it more resilient than it looks. It’ll show up on farms, searching for yet more berries.
+It eats berries nonstop—a habit that has made it more resilient than it looks. It'll show up on farms, searching for yet more berries.
 
 ======
 695 - Heliolisk (Stage: 2)
@@ -35018,7 +35018,7 @@ TRs:
 - [TR80] Electro Ball
 - [TR83] Ally Switch
 - [TR86] Wild Charge
-It stashes berries in its tail—so many berries that they fall out constantly. But this Pokémon is a bit slow-witted, so it doesn’t notice the loss.
+It stashes berries in its tail—so many berries that they fall out constantly. But this Pokémon is a bit slow-witted, so it doesn't notice the loss.
 Common throughout the Galar region, this Pokémon has strong teeth and can chew through the toughest of berry shells.
 
 ======
@@ -35104,7 +35104,7 @@ TRs:
 - [TR85] Work Up
 - [TR90] Play Rough
 - [TR92] Dazzling Gleam
-It barely moves, but it’s still alive. Hiding in its shell without food or water seems to have awakened its psychic powers.
+It barely moves, but it's still alive. Hiding in its shell without food or water seems to have awakened its psychic powers.
 As it grows inside its shell, it uses its psychic abilities to monitor the outside world and prepare for evolution.
 
 ======
@@ -35118,7 +35118,7 @@ Catch Rate: 100
 Abilities: Limber (1) | Unburden (2) | Mold Breaker (H)
 Type: Fighting / Flying
 Item 1 (50%): None
-Item 2 (5%): King’s Rock
+Item 2 (5%): King's Rock
 Item 3 (1%): None
 EXP Group: MediumFast
 Egg Group: Flying / HumanLike
@@ -35207,8 +35207,8 @@ TRs:
 - [TR85] Work Up
 - [TR95] Throat Chop
 - [TR99] Body Press
-It’s famous for its high level of intelligence, and the large size of its brain is proof that it also possesses immense psychic power.
-It emits psychic energy to observe and study what’s around it—and what’s around it can include things over six miles away.
+It's famous for its high level of intelligence, and the large size of its brain is proof that it also possesses immense psychic power.
+It emits psychic energy to observe and study what's around it—and what's around it can include things over six miles away.
 
 ======
 702 - Dedenne (Stage: 2)
@@ -35491,7 +35491,7 @@ TRs:
 - [TR78] Sludge Wave
 - [TR99] Body Press
 Its curly fleece is such an effective cushion that this Pokémon could fall off a cliff and stand right back up at the bottom, unharmed.
-If its fleece grows too long, Wooloo won’t be able to move. Cloth made with the wool of this Pokémon is surprisingly strong.
+If its fleece grows too long, Wooloo won't be able to move. Cloth made with the wool of this Pokémon is surprisingly strong.
 
 ======
 707 - Klefki (Stage: 2)
@@ -35561,7 +35561,7 @@ TRs:
 - [TR82] Stored Power
 - [TR90] Play Rough
 - [TR92] Dazzling Gleam
-Weave a carpet from its springy wool, and you end up with something closer to a trampoline. You’ll start to bounce the moment you set foot on it.
+Weave a carpet from its springy wool, and you end up with something closer to a trampoline. You'll start to bounce the moment you set foot on it.
 Its majestic horns are meant only to impress the opposite gender. They never see use in battle.
 
 ======
@@ -35594,7 +35594,7 @@ Level Up Moves:
 - [40] Ingrain
 - [44] Wood Hammer
 - [48] Destiny Bond
-- [52] Forest’s Curse
+- [52] Forest's Curse
 Egg Moves:
 - Grudge
 - Sucker Punch
@@ -35675,7 +35675,7 @@ Level Up Moves:
 - [40] Ingrain
 - [44] Wood Hammer
 - [48] Destiny Bond
-- [52] Forest’s Curse
+- [52] Forest's Curse
 TMs:
 - [TM08] Hyper Beam
 - [TM09] Giga Impact
@@ -36597,8 +36597,8 @@ TRs:
 - [TR89] Hurricane
 Evolves into Noivern-0 @ 48 (LevelUp) [0]
 
-It’s usually peaceful, but the vandalism of mines enrages it. Offenders will be incinerated with flames that reach 2,700 degrees Fahrenheit.
-While it’s engaged in battle, its mountain of coal will burn bright red, sending off sparks that scorch the surrounding area.
+It's usually peaceful, but the vandalism of mines enrages it. Offenders will be incinerated with flames that reach 2,700 degrees Fahrenheit.
+While it's engaged in battle, its mountain of coal will burn bright red, sending off sparks that scorch the surrounding area.
 
 ======
 715 - Noivern (Stage: 2)
@@ -36679,8 +36679,8 @@ TRs:
 - [TR64] Focus Blast
 - [TR86] Wild Charge
 - [TR89] Hurricane
-It spends its entire life inside an apple. It hides from its natural enemies, bird Pokémon, by pretending it’s just an apple and nothing more.
-As soon as it’s born, it burrows into an apple. Not only does the apple serve as its food source, but the flavor of the fruit determines its evolution.
+It spends its entire life inside an apple. It hides from its natural enemies, bird Pokémon, by pretending it's just an apple and nothing more.
+As soon as it's born, it burrows into an apple. Not only does the apple serve as its food source, but the flavor of the fruit determines its evolution.
 
 ======
 722 - Rowlet (Stage: 1)
@@ -36748,7 +36748,7 @@ TRs:
 - [TR85] Work Up
 Evolves into Dartrix-0 @ 17 (LevelUp) [0]
 
-This Pokémon has a jaw that’s as sharp as a spear and as strong as steel. Apparently Barraskewda’s flesh is surprisingly tasty, too.
+This Pokémon has a jaw that's as sharp as a spear and as strong as steel. Apparently Barraskewda's flesh is surprisingly tasty, too.
 It spins its tail fins to propel itself, surging forward at speeds of over 100 knots before ramming prey and spearing into them.
 
 ======
@@ -36894,7 +36894,7 @@ TRs:
 - [TR77] Grass Knot
 - [TR85] Work Up
 - [TR89] Hurricane
-When this Pokémon sounds as if it’s strumming a guitar, it’s actually clawing at the protrusions on its chest to generate electricity.
+When this Pokémon sounds as if it's strumming a guitar, it's actually clawing at the protrusions on its chest to generate electricity.
 This short-tempered and aggressive Pokémon chugs stagnant water to absorb any toxins it might contain.
 
 ======
@@ -36969,7 +36969,7 @@ TRs:
 Evolves into Torracat-0 @ 17 (LevelUp) [0]
 
 It stores flammable gas in its body and uses it to generate heat. The yellow sections on its belly get particularly hot.
-It wraps prey up with its heated body, cooking them in its coils. Once they’re well-done, it will voraciously nibble them down to the last morsel.
+It wraps prey up with its heated body, cooking them in its coils. Once they're well-done, it will voraciously nibble them down to the last morsel.
 
 ======
 726 - Torracat (Stage: 2)
@@ -37138,8 +37138,8 @@ TRs:
 - [TR88] Heat Crash
 - [TR93] Darkest Lariat
 - [TR95] Throat Chop
-It’s very curious, but its means of investigating things is to try to punch them with its tentacles. The search for food is what brings it onto land.
-Its tentacles tear off easily, but it isn’t alarmed when that happens—it knows they’ll grow back. It’s about as smart as a three-year-old.
+It's very curious, but its means of investigating things is to try to punch them with its tentacles. The search for food is what brings it onto land.
+Its tentacles tear off easily, but it isn't alarmed when that happens—it knows they'll grow back. It's about as smart as a three-year-old.
 
 ======
 728 - Popplio (Stage: 1)
@@ -37645,7 +37645,7 @@ TRs:
 Evolves into Ribombee-0 @ 25 (LevelUp) [0]
 
 A powerful curse was woven into an ancient painting. After absorbing the spirit of a Yamask, the painting began to move.
-Never touch its shadowlike body, or you’ll be shown the horrific memories behind the picture carved into it.
+Never touch its shadowlike body, or you'll be shown the horrific memories behind the picture carved into it.
 
 ======
 743 - Ribombee (Stage: 2)
@@ -37792,7 +37792,7 @@ TRs:
 Evolves into Lycanroc-0 @ 25 (LevelUpMorning) [0]
 Evolves into Lycanroc-1 @ 25 (LevelUpNight) [0]
 
-When it trusts a Trainer, it will treat them to berries it’s decorated with cream.
+When it trusts a Trainer, it will treat them to berries it's decorated with cream.
 When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
 
 ======
@@ -37939,7 +37939,7 @@ TRs:
 - [TR87] Drill Run
 - [TR90] Play Rough
 - [TR97] Psychic Fangs
-Five of them are troopers, and one is the brass. The brass’s orders are absolute.
+Five of them are troopers, and one is the brass. The brass's orders are absolute.
 The six of them work together as one Pokémon. Teamwork is also their battle strategy, and they constantly change their formation as they fight.
 
 ======
@@ -38461,7 +38461,7 @@ TRs:
 - [TR94] High Horsepower
 Evolves into Mudsdale-0 @ 30 (LevelUp) [0]
 
-It stands in grasslands, watching the sun’s descent from zenith to horizon. This Pokémon has a talent for delivering dynamic kicks.
+It stands in grasslands, watching the sun's descent from zenith to horizon. This Pokémon has a talent for delivering dynamic kicks.
 Once a year, on a specific date and at a specific time, they gather out of nowhere and form up in a circle.
 
 ======
@@ -38671,8 +38671,8 @@ TRs:
 - [TR61] Bug Buzz
 - [TR84] Scald
 - [TR98] Liquidation
-As it eats the seeds stored up in its pocket-like pouches, this Pokémon is not just satisfying its constant hunger. It’s also generating electricity.
-It carries electrically roasted seeds with it as if they’re precious treasures. No matter how much it eats, it always gets hungry again in short order.
+As it eats the seeds stored up in its pocket-like pouches, this Pokémon is not just satisfying its constant hunger. It's also generating electricity.
+It carries electrically roasted seeds with it as if they're precious treasures. No matter how much it eats, it always gets hungry again in short order.
 
 ======
 753 - Fomantis (Stage: 1)
@@ -38740,7 +38740,7 @@ TRs:
 - [TR77] Grass Knot
 Evolves into Lurantis-0 @ 34 (LevelUpMorning) [0]
 
-It digs up the ground with its trunk. It’s also very strong, being able to carry loads of over five tons without any problem at all.
+It digs up the ground with its trunk. It's also very strong, being able to carry loads of over five tons without any problem at all.
 If a job requires serious strength, this Pokémon will excel at it. Its copper body tarnishes in the rain, turning a vibrant green color.
 
 ======
@@ -39031,7 +39031,7 @@ TRs:
 Evolves into Salazzle-0 @ 33 (LevelUpFemale) [0]
 
 Powerful legs and jaws made it the apex predator of its time. Its own overhunting of its prey was what drove it to extinction.
-Its mighty legs are capable of running at speeds exceeding 40 mph, but this Pokémon can’t breathe unless it’s underwater.
+Its mighty legs are capable of running at speeds exceeding 40 mph, but this Pokémon can't breathe unless it's underwater.
 
 ======
 758 - Salazzle (Stage: 2)
@@ -39117,7 +39117,7 @@ TRs:
 - [TR78] Sludge Wave
 - [TR81] Foul Play
 - [TR91] Venom Drench
-Though it’s able to capture prey by freezing its surroundings, it has trouble eating the prey afterward because its mouth is on top of its head.
+Though it's able to capture prey by freezing its surroundings, it has trouble eating the prey afterward because its mouth is on top of its head.
 The skin on its face is impervious to attack, but breathing difficulties made this Pokémon go extinct anyway.
 
 ======
@@ -39191,7 +39191,7 @@ TRs:
 - [TR85] Work Up
 Evolves into Bewear-0 @ 27 (LevelUp) [0]
 
-Its body resembles polished metal, and it’s both lightweight and strong. The only drawback is that it rusts easily.
+Its body resembles polished metal, and it's both lightweight and strong. The only drawback is that it rusts easily.
 The special metal that composes its body is very light, so this Pokémon has considerable agility. It lives in caves because it dislikes the rain.
 
 ======
@@ -39338,8 +39338,8 @@ TRs:
 - [TR92] Dazzling Gleam
 Evolves into Steenee-0 @ 18 (LevelUp) [0]
 
-It’s capable of flying faster than 120 mph. It battles alongside Dreepy and dotes on them until they successfully evolve.
-Without a Dreepy to place on its head and care for, it gets so uneasy it’ll try to substitute any Pokémon it finds for the missing Dreepy.
+It's capable of flying faster than 120 mph. It battles alongside Dreepy and dotes on them until they successfully evolve.
+Without a Dreepy to place on its head and care for, it gets so uneasy it'll try to substitute any Pokémon it finds for the missing Dreepy.
 
 ======
 762 - Steenee (Stage: 2)
@@ -39405,8 +39405,8 @@ TRs:
 - [TR92] Dazzling Gleam
 Evolves into Tsareena-0 @ 0 (LevelUpKnowMove) [23]
 
-When it isn’t battling, it keeps Dreepy in the holes on its horns. Once a fight starts, it launches the Dreepy like supersonic missiles.
-Apparently the Dreepy inside Dragapult’s horns eagerly look forward to being launched out at Mach speeds.
+When it isn't battling, it keeps Dreepy in the holes on its horns. Once a fight starts, it launches the Dreepy like supersonic missiles.
+Apparently the Dreepy inside Dragapult's horns eagerly look forward to being launched out at Mach speeds.
 
 ======
 763 - Tsareena (Stage: 3)
@@ -39485,7 +39485,7 @@ TRs:
 - [TR90] Play Rough
 - [TR92] Dazzling Gleam
 Known as a legendary hero, this Pokémon absorbs metal particles, transforming them into a weapon it uses to battle.
-This Pokémon has slumbered for many years. Some say it’s Zamazenta’s elder sister—others say the two Pokémon are rivals.
+This Pokémon has slumbered for many years. Some say it's Zamazenta's elder sister—others say the two Pokémon are rivals.
 
 ======
 764 - Comfey (Stage: 2)
@@ -39896,8 +39896,8 @@ TRs:
 - [TR87] Drill Run
 - [TR95] Throat Chop
 - [TR98] Liquidation
-Within dense forests, this Pokémon lives in a pack with others of its kind. It’s incredibly aggressive, and the other Pokémon of the forest fear it.
-Once the vines on Zarude’s body tear off, they become nutrients in the soil. This helps the plants of the forest grow.
+Within dense forests, this Pokémon lives in a pack with others of its kind. It's incredibly aggressive, and the other Pokémon of the forest fear it.
+Once the vines on Zarude's body tear off, they become nutrients in the soil. This helps the plants of the forest grow.
 
 ======
 769 - Sandygast (Stage: 1)
@@ -41911,7 +41911,7 @@ TRs:
 - [TR85] Work Up
 - [TR88] Heat Crash
 - [TR99] Body Press
-Crystallized Gigantamax energy makes up this Pokémon’s blindingly bright and highly toxic scales.
+Crystallized Gigantamax energy makes up this Pokémon's blindingly bright and highly toxic scales.
 Once it has opponents trapped in a tornado that could blow away a 10-ton truck, it finishes them off with its poisonous scales.
 
 ======
@@ -42421,8 +42421,8 @@ TRs:
 - [TR85] Work Up
 Evolves into Hakamo-o-0 @ 35 (LevelUp) [0]
 
-This Pikachu wears its partner’s cap, which is brimming with memories of traveling through many different regions.
-This Pikachu is wearing its Trainer’s cap. The cap is proof that the two traveled across many regions together.
+This Pikachu wears its partner's cap, which is brimming with memories of traveling through many different regions.
+This Pikachu is wearing its Trainer's cap. The cap is proof that the two traveled across many regions together.
 
 ======
 783 - Hakamo-o (Stage: 2)
@@ -42504,8 +42504,8 @@ TRs:
 - [TR85] Work Up
 Evolves into Kommo-o-0 @ 45 (LevelUp) [0]
 
-This Pikachu wears its partner’s cap, which is brimming with memories of traveling through the Hoenn region.
-This Pikachu is wearing its Trainer’s cap. The cap is proof that the two traveled throughout the Hoenn region together.
+This Pikachu wears its partner's cap, which is brimming with memories of traveling through the Hoenn region.
+This Pikachu is wearing its Trainer's cap. The cap is proof that the two traveled throughout the Hoenn region together.
 
 ======
 784 - Kommo-o (Stage: 3)
@@ -42606,8 +42606,8 @@ TRs:
 - [TR76] Stealth Rock
 - [TR85] Work Up
 - [TR99] Body Press
-This Pikachu wears its partner’s cap, which is brimming with memories of traveling through the Sinnoh region.
-This Pikachu is wearing its Trainer’s cap. The cap is proof that the two traveled throughout the Sinnoh region together.
+This Pikachu wears its partner's cap, which is brimming with memories of traveling through the Sinnoh region.
+This Pikachu is wearing its Trainer's cap. The cap is proof that the two traveled throughout the Sinnoh region together.
 
 ======
 789 - Cosmog (Stage: 1)
@@ -42662,8 +42662,8 @@ TRs:
 Evolves into Solgaleo-0 @ 53 (LevelUpVersion) [44]
 Evolves into Lunala-0 @ 53 (LevelUpVersion) [45]
 
-This Pikachu wears its partner’s cap, which is brimming with memories of traveling through different regions.
-This Pikachu is wearing its Trainer’s cap. The cap is a precious symbol that travels across different regions with Pikachu.
+This Pikachu wears its partner's cap, which is brimming with memories of traveling through different regions.
+This Pikachu is wearing its Trainer's cap. The cap is a precious symbol that travels across different regions with Pikachu.
 
 ======
 791 - Solgaleo (Stage: 3)
@@ -42843,7 +42843,7 @@ TRs:
 - [TR64] Focus Blast
 - [TR85] Work Up
 - [TR92] Dazzling Gleam
-It’s believed that the weather, climate, and food of the Alola region all play a part in causing Pikachu to evolve into this form of Raichu.
+It's believed that the weather, climate, and food of the Alola region all play a part in causing Pikachu to evolve into this form of Raichu.
 This Pokémon rides on its tail while it uses its psychic powers to levitate. It attacks with star-shaped thunderbolts.
 
 ======
@@ -42935,7 +42935,7 @@ TRs:
 - [TR82] Stored Power
 - [TR83] Ally Switch
 - [TR97] Psychic Fangs
-Living with a savage, seafaring people has toughened this Pokémon’s body so much that parts of it have turned to iron.
+Living with a savage, seafaring people has toughened this Pokémon's body so much that parts of it have turned to iron.
 These daring Pokémon have coins on their foreheads. Darker coins are harder, and harder coins garner more respect among Meowth.
 
 ======
@@ -43374,7 +43374,7 @@ TRs:
 - [TR85] Work Up
 - [TR95] Throat Chop
 The round face of Alolan Persian is considered to be a symbol of prosperity in the Alola region, so these Pokémon are very well cared for.
-This Pokémon is one tough opponent. Not only does it have formidable physical abilities, but it’s also not above fighting dirty.
+This Pokémon is one tough opponent. Not only does it have formidable physical abilities, but it's also not above fighting dirty.
 
 ======
 807 - Zeraora (Stage: 3)
@@ -43507,7 +43507,7 @@ TRs:
 - [TR46] Iron Defense
 - [TR52] Gyro Ball
 - [TR70] Flash Cannon
-Its small horn hides a healing power. With a few rubs from this Pokémon’s horn, any slight wound you have will be healed.
+Its small horn hides a healing power. With a few rubs from this Pokémon's horn, any slight wound you have will be healed.
 This Pokémon will look into your eyes and read the contents of your heart. If it finds evil there, it promptly hides away.
 
 ======
@@ -43580,7 +43580,7 @@ TRs:
 - [TR93] Darkest Lariat
 - [TR94] High Horsepower
 - [TR99] Body Press
-Little can stand up to its psycho cut. Unleashed from this Pokémon’s horn, the move will punch a hole right through a thick metal sheet.
+Little can stand up to its psycho cut. Unleashed from this Pokémon's horn, the move will punch a hole right through a thick metal sheet.
 Brave and prideful, this Pokémon dashes airily through the forest, its steps aided by the psychic power stored in the fur on its fetlocks.
 
 ======
@@ -43654,7 +43654,7 @@ TRs:
 - [TR85] Work Up
 Evolves into Thwackey-0 @ 16 (LevelUp) [0]
 
-Although this Pokémon is normally zoned out, its expression abruptly sharpens on occasion. The cause for this seems to lie in Slowpoke’s diet.
+Although this Pokémon is normally zoned out, its expression abruptly sharpens on occasion. The cause for this seems to lie in Slowpoke's diet.
 Because Galarian Slowpoke eat the seeds of a plant that grows only in Galar, their tails have developed a spicy flavor.
 
 ======
@@ -43814,7 +43814,7 @@ TRs:
 - [TR93] Darkest Lariat
 - [TR94] High Horsepower
 - [TR99] Body Press
-A Shellder bite set off a chemical reaction with the spices inside Slowbro’s body, causing Slowbro to become a Poison-type Pokémon.
+A Shellder bite set off a chemical reaction with the spices inside Slowbro's body, causing Slowbro to become a Poison-type Pokémon.
 If this Pokémon squeezes the tongue of the Shellder biting it, the Shellder will launch a toxic liquid from the tip of its shell.
 
 ======
@@ -43887,8 +43887,8 @@ TRs:
 - [TR85] Work Up
 Evolves into Raboot-0 @ 16 (LevelUp) [0]
 
-The Farfetch’d of the Galar region are brave warriors, and they wield thick, tough leeks in battle.
-The stalks of leeks are thicker and longer in the Galar region. Farfetch’d that adapted to these stalks took on a unique form.
+The Farfetch'd of the Galar region are brave warriors, and they wield thick, tough leeks in battle.
+The stalks of leeks are thicker and longer in the Galar region. Farfetch'd that adapted to these stalks took on a unique form.
 
 ======
 814 - Raboot (Stage: 2)
@@ -44168,7 +44168,7 @@ TRs:
 Evolves into Inteleon-0 @ 35 (LevelUp) [0]
 
 Rumor has it that its gigantic mouth leads not into its body, filled with cursed energy, but instead directly to the afterlife.
-It lays traps, hoping to steal the lives of those it catches. If you stand in front of its mouth, you’ll hear your loved ones’ voices calling out to you.
+It lays traps, hoping to steal the lives of those it catches. If you stand in front of its mouth, you'll hear your loved ones' voices calling out to you.
 
 ======
 818 - Inteleon (Stage: 3)
@@ -44247,7 +44247,7 @@ TRs:
 - [TR84] Scald
 - [TR85] Work Up
 - [TR98] Liquidation
-The flow of Gigantamax energy has spurred this Pokémon’s left pincer to grow to an enormous size. That claw can pulverize anything.
+The flow of Gigantamax energy has spurred this Pokémon's left pincer to grow to an enormous size. That claw can pulverize anything.
 The bubbles it spews out are strongly alkaline. Any opponents hit by them will have their bodies quickly melted away.
 
 ======
@@ -44317,7 +44317,7 @@ TRs:
 Evolves into Greedent-0 @ 24 (LevelUp) [0]
 
 Blazing sunlight has brought out the true form and powers of this Pokémon.
-This Pokémon’s psychic powers aren’t as strong as they once were. The head on this Exeggutor’s tail scans surrounding areas with weak telepathy.
+This Pokémon's psychic powers aren't as strong as they once were. The head on this Exeggutor's tail scans surrounding areas with weak telepathy.
 
 ======
 820 - Greedent (Stage: 2)
@@ -44631,7 +44631,7 @@ None!
 Evolves into Dottler-0 @ 10 (LevelUp) [0]
 
 Its talent is tap-dancing. It can also manipulate temperatures to create a floor of ice, which this Pokémon can kick up to use as a barrier.
-It can radiate chilliness from the bottoms of its feet. It’ll spend the whole day tap-dancing on a frozen floor.
+It can radiate chilliness from the bottoms of its feet. It'll spend the whole day tap-dancing on a frozen floor.
 
 ======
 825 - Dottler (Stage: 2)
@@ -44846,7 +44846,7 @@ TRs:
 - [TR90] Play Rough
 Evolves into Thievul-0 @ 18 (LevelUp) [0]
 
-Over 5,000 people can ride on its shell at once. And it’s a very comfortable ride, without the slightest shaking or swaying.
+Over 5,000 people can ride on its shell at once. And it's a very comfortable ride, without the slightest shaking or swaying.
 It surrounds itself with a huge ring of gathered ice particles. It uses the ring to smash any icebergs that might impede its graceful swimming.
 
 ======
@@ -44983,7 +44983,7 @@ TRs:
 - [TR96] Pollen Puff
 Evolves into Eldegoss-0 @ 20 (LevelUp) [0]
 
-Gigantamax energy upped the fluffiness of the fur around Eevee’s neck. The fur will envelop a foe, capturing its body and captivating its mind.
+Gigantamax energy upped the fluffiness of the fur around Eevee's neck. The fur will envelop a foe, capturing its body and captivating its mind.
 Having gotten even friendlier and more innocent, Eevee tries to play with anyone around, only to end up crushing them with its immense body.
 
 ======
@@ -47780,7 +47780,7 @@ TRs:
 
 
 ======
-865 - Sirfetch’d (Stage: 2)
+865 - Sirfetch'd (Stage: 2)
 ======
 Galar Dex: #219
 Base Stats: 62.135.95.68.82.65 (BST: 507)
@@ -47848,7 +47848,7 @@ TRs:
 - [TR85] Work Up
 - [TR95] Throat Chop
 Watch your step when wandering areas oceans once covered. What looks like a stone could be this Pokémon, and it will curse you if you kick it.
-Sudden climate change wiped out this ancient kind of Corsola. This Pokémon absorbs others’ life-force through its branches.
+Sudden climate change wiped out this ancient kind of Corsola. This Pokémon absorbs others' life-force through its branches.
 
 ======
 866 - Mr. Rime (Stage: 2)
@@ -51193,3 +51193,4 @@ TRs:
 - [TR77] Grass Knot
 - [TR93] Darkest Lariat
 - [TR95] Throat Chop
+
