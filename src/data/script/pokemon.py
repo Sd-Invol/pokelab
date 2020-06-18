@@ -93,6 +93,12 @@ if __name__ == "__main__":
         # EV Yield
         i += 1
 
+        # Gender Ratio
+        i += 1
+        # Catch Rate
+
+        i += 1
+
         # Abilities
         abilities = list(
             map(lambda x: x.strip(), stats[i].split(':', 1)[1].split('|')))
