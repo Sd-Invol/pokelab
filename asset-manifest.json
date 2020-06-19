@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/pokelab/static/css/main.27fd15f6.chunk.css",
-    "main.js": "/pokelab/static/js/main.aaaa3591.chunk.js",
-    "main.js.map": "/pokelab/static/js/main.aaaa3591.chunk.js.map",
-    "runtime-main.js": "/pokelab/static/js/runtime-main.6c706331.js",
-    "runtime-main.js.map": "/pokelab/static/js/runtime-main.6c706331.js.map",
-    "static/js/2.0c8fe2b4.chunk.js": "/pokelab/static/js/2.0c8fe2b4.chunk.js",
-    "static/js/2.0c8fe2b4.chunk.js.map": "/pokelab/static/js/2.0c8fe2b4.chunk.js.map",
+    "main.js": "/pokelab/static/js/main.ef96a6e1.chunk.js",
+    "main.js.map": "/pokelab/static/js/main.ef96a6e1.chunk.js.map",
+    "runtime-main.js": "/pokelab/static/js/runtime-main.854b4ea0.js",
+    "runtime-main.js.map": "/pokelab/static/js/runtime-main.854b4ea0.js.map",
+    "static/js/2.62f95d6f.chunk.js": "/pokelab/static/js/2.62f95d6f.chunk.js",
+    "static/js/2.62f95d6f.chunk.js.map": "/pokelab/static/js/2.62f95d6f.chunk.js.map",
     "index.html": "/pokelab/index.html",
-    "precache-manifest.4aa1a29d6931f8288b1e859db76541fd.js": "/pokelab/precache-manifest.4aa1a29d6931f8288b1e859db76541fd.js",
+    "precache-manifest.37ddeb28899fb298802103c7297f3b1e.js": "/pokelab/precache-manifest.37ddeb28899fb298802103c7297f3b1e.js",
     "service-worker.js": "/pokelab/service-worker.js",
     "static/css/main.27fd15f6.chunk.css.map": "/pokelab/static/css/main.27fd15f6.chunk.css.map",
-    "static/js/2.0c8fe2b4.chunk.js.LICENSE": "/pokelab/static/js/2.0c8fe2b4.chunk.js.LICENSE"
+    "static/js/2.62f95d6f.chunk.js.LICENSE.txt": "/pokelab/static/js/2.62f95d6f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6c706331.js",
-    "static/js/2.0c8fe2b4.chunk.js",
+    "static/js/runtime-main.854b4ea0.js",
+    "static/js/2.62f95d6f.chunk.js",
     "static/css/main.27fd15f6.chunk.css",
-    "static/js/main.aaaa3591.chunk.js"
+    "static/js/main.ef96a6e1.chunk.js"
   ]
 }
