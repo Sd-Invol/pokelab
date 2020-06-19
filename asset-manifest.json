@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/pokelab/static/css/main.27fd15f6.chunk.css",
-    "main.js": "/pokelab/static/js/main.7892d1bc.chunk.js",
-    "main.js.map": "/pokelab/static/js/main.7892d1bc.chunk.js.map",
+    "main.js": "/pokelab/static/js/main.fe442920.chunk.js",
+    "main.js.map": "/pokelab/static/js/main.fe442920.chunk.js.map",
     "runtime-main.js": "/pokelab/static/js/runtime-main.6c706331.js",
     "runtime-main.js.map": "/pokelab/static/js/runtime-main.6c706331.js.map",
     "static/js/2.702ea141.chunk.js": "/pokelab/static/js/2.702ea141.chunk.js",
     "static/js/2.702ea141.chunk.js.map": "/pokelab/static/js/2.702ea141.chunk.js.map",
     "index.html": "/pokelab/index.html",
-    "precache-manifest.4e21e08f58f9c8910bd6d606a6ee84d7.js": "/pokelab/precache-manifest.4e21e08f58f9c8910bd6d606a6ee84d7.js",
+    "precache-manifest.39d062ffcd7ea62c71fd541d44eb7e4e.js": "/pokelab/precache-manifest.39d062ffcd7ea62c71fd541d44eb7e4e.js",
     "service-worker.js": "/pokelab/service-worker.js",
     "static/css/main.27fd15f6.chunk.css.map": "/pokelab/static/css/main.27fd15f6.chunk.css.map",
     "static/js/2.702ea141.chunk.js.LICENSE": "/pokelab/static/js/2.702ea141.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.6c706331.js",
     "static/js/2.702ea141.chunk.js",
     "static/css/main.27fd15f6.chunk.css",
-    "static/js/main.7892d1bc.chunk.js"
+    "static/js/main.fe442920.chunk.js"
   ]
 }
