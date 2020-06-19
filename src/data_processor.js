@@ -1,9 +1,9 @@
 import pokemons from './data/pokemons';
-import moves from './data/moves';
-import types from './data/types';
+// import moves from './data/moves';
+// import types from './data/types';
 
 let pokemonSelectList = [];
-const duplicatedForms = [25, 423, 550, 773, 778, 845, 849, 855, 869, 875, 877, 890];
+const duplicatedForms = [25, 423, 550, 647, 773, 778, 845, 849, 855, 869, 875, 877, 890];
 
 for (let idx in pokemons) {
     let pokemon = pokemons[idx];

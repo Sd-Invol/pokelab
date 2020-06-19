@@ -118,6 +118,15 @@ if __name__ == "__main__":
         i += 4
 
         pokemon['moves'] = []
+
+        # Special tutor moves
+        # Draco Meteor for all Dragon pokemons
+        if 'Dragon' in pokemon['type']:
+            pokemon['moves'].append(434)
+        # Steel Beam for all Steel pokemons
+        if 'Steel' in pokemon['type']:
+            pokemon['moves'].append(796)
+
         if stats[i] == 'Level Up Moves:':
             i += 1
             while stats[i].startswith('-'):
