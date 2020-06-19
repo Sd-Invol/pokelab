@@ -63,7 +63,7 @@ if __name__ == "__main__":
             name += " 0"
         pokemon = {}
 
-        info = en_pokemons_dict[name.rsplit(' ', 1)[0]]
+        info = en_pokemons_dict[name.rsplit(' ', 1)[0].replace('’', '\'')]
         pokemon['id'] = info[0]
         pokemon['name'] = {}
         pokemon['name']['cn'] = info[1]
@@ -123,7 +123,8 @@ if __name__ == "__main__":
             while stats[i].startswith('-'):
                 # Level up moves
                 name = stats[i].split('] ')[1]
-                pokemon['moves'].append(en_moves_dict[name][0])
+                pokemon['moves'].append(
+                    en_moves_dict[name.replace('’', '\'')][0])
                 i += 1
         if stats[i] == 'Egg Moves:':
             i += 1
@@ -150,6 +151,15 @@ if __name__ == "__main__":
                 i += 1
             if stats[i] == 'None!':
                 i += 1
+        if stats[i] == 'Armor Tutors:':
+            i += 1
+            while stats[i].startswith('-'):
+                # Armor Tutors
+                name = stats[i][2:]
+                pokemon['moves'].append(en_moves_dict[name][0])
+                i += 1
+            if stats[i] == 'None!':
+                i += 1
 
         key = (pokemon['id'], pokemon['form'])
         if key in egg_moves:
@@ -161,16 +171,17 @@ if __name__ == "__main__":
         while stats[i].startswith('Evolves into '):
             eve = stats[i].split('@')[0].split(' ', 2)[2]
             name, form = eve.rsplit('-', 1)
-            id = int(en_pokemons_dict[name][0])
+            id = int(en_pokemons_dict[name.replace('’', '\'')][0])
             egg_moves[(id, int(form))] = egg_moves[key]
             pokemon['evolution'].append({'id': int(id), 'form': int(form)})
             i += 1
-        while i < len(stats) and len(stats[i]) == 0:
-            i += 1
         pokemons.append(pokemon)
 
-        if i < len(stats) and not stats[i].startswith('='):
-            i += 3
+        while i < len(stats) and len(stats[i]) == 0:
+            i += 1
+
+        while i < len(stats) and not stats[i].startswith('='):
+            i += 1
 
 output_file = open('../pokemons.json', 'w')
 output_file.write(json.dumps(pokemons, indent=2, ensure_ascii=False))

@@ -36,6 +36,10 @@ if __name__ == "__main__":
             move['name'] = {}
             move['name']['cn'] = texts[1]
             move['name']['ja'] = texts[2]
+
+            if texts[3] == 'Vice Grip':
+                texts[3] = 'Vise Grip'
+
             move['name']['en'] = texts[3]
             move['type'] = texts[4]
             move['class'] = texts[5]
