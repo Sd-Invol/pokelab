@@ -3,7 +3,6 @@ import React from 'react';
 import Grid from '@material-ui/core/Grid';
 import List from '@material-ui/core/List';
 import ListItem from '@material-ui/core/ListItem';
-import ListItemText from '@material-ui/core/ListItemText';
 
 import Table from '@material-ui/core/Table';
 import TableBody from '@material-ui/core/TableBody';
@@ -167,11 +166,12 @@ class App extends React.Component {
                         <List dense={true}>
                             {moveSet.map(x => (
                                 <ListItem button key={moves[x].id}
-                                    onClick={() => this.setState({ move: moves[x].id })}
-                                    selected={this.state.move === moves[x].id}>
-                                    <ListItemText >
-                                        <span>{moves[x].name.cn}</span>
-                                    </ListItemText>
+                                          alignItems="center"
+                                          onClick={() => this.setState({ move: moves[x].id })}
+                                          selected={this.state.move === moves[x].id}>
+                                    <img src={process.env.PUBLIC_URL  + `/types/${this.types_cn_to_en[moves[x].type].toLowerCase()}.svg`} 
+                                         style={{ height: "20px", marginRight: "2px" }} alt={x}/>
+                                    <span>{moves[x].name.cn}({moves[x].power})</span>
                                 </ListItem>))}
                         </List>
                     </Grid>
@@ -191,10 +191,15 @@ class App extends React.Component {
                                     ).map((pokemon) => (
                                         <TableRow key={pokemon.value}>
                                             <TableCell align="right">
-                                                <img src={`./sprites/${pokemon.key}.png`}
-                                                    alt={pokemon.idx}
-                                                    style={{ height: "35px" }}
-                                                />{pokemon.name}</TableCell>
+                                                <div style={{ height: "32px" }}>
+                                                    <img src={process.env.PUBLIC_URL + `/sprites/${pokemon.key}.png`}
+                                                        alt={pokemon.idx}
+                                                        style={{ height: "100%" }}/>
+                                                    <span>
+                                                        {pokemon.name}
+                                                    </span>
+                                                </div>
+                                            </TableCell>
                                             <TableCell align="right">{this.calDamage(pokemon.value, false)}</TableCell>
                                             <TableCell align="right">{this.calDamage(pokemon.value, true)}</TableCell>
                                         </TableRow>

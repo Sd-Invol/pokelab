@@ -15,7 +15,7 @@ class PokemonSelector extends React.Component {
         this.pokemonList = dataProcessor.pokemonSelectList.map((pokemon) => (
             <MenuItem value={pokemon.value} key={pokemon.key}>
                 <span>
-                    <img src={`./sprites/${pokemon.key}.png`} style={{ height: "50px" }}
+                    <img src={process.env.PUBLIC_URL + `/sprites/${pokemon.key}.png`} style={{ height: "50px" }}
                         alt={pokemon.idx}
                     />
                 </span>
