@@ -1,5 +1,6 @@
 import React from 'react';
 
+import Container from '@material-ui/core/Container';
 import Grid from '@material-ui/core/Grid';
 import List from '@material-ui/core/List';
 import ListItem from '@material-ui/core/ListItem';
@@ -146,7 +147,7 @@ class App extends React.Component {
         }
 
         return (
-            <div>
+            <Container>
                 <Grid container direction="row">
                     <Grid item xs={3}>
                         <PokemonSelector
@@ -162,20 +163,22 @@ class App extends React.Component {
                     </Grid>
                 </Grid>
                 <Grid container direction="row">
-                    <Grid item xs={2}>
+                    <Grid item xs={3}>
                         <List dense={true}>
                             {moveSet.map(x => (
                                 <ListItem button key={moves[x].id}
                                           alignItems="center"
                                           onClick={() => this.setState({ move: moves[x].id })}
                                           selected={this.state.move === moves[x].id}>
-                                    <img src={process.env.PUBLIC_URL  + `/types/${this.types_cn_to_en[moves[x].type].toLowerCase()}.svg`} 
-                                         style={{ height: "20px", marginRight: "2px" }} alt={x}/>
+                                    <img src={process.env.PUBLIC_URL  + `/icons/${moves[x].class}.png`} alt={{x}}
+                                        style={{ height: "20px"}}/>
+                                    <img src={process.env.PUBLIC_URL  + `/icons/types/${this.types_cn_to_en[moves[x].type].toLowerCase()}.svg`} alt={{x}}
+                                         style={{ height: "20px", marginRight: "2px" }}/>
                                     <span>{moves[x].name.cn}({moves[x].power})</span>
                                 </ListItem>))}
                         </List>
                     </Grid>
-                    <Grid item xs={10}>
+                    <Grid item xs={9}>
                         <TableContainer>
                             <Table size="small">
                                 <TableHead>
@@ -191,14 +194,10 @@ class App extends React.Component {
                                     ).map((pokemon) => (
                                         <TableRow key={pokemon.value}>
                                             <TableCell align="right">
-                                                <div style={{ height: "32px" }}>
-                                                    <img src={process.env.PUBLIC_URL + `/sprites/${pokemon.key}.png`}
-                                                        alt={pokemon.idx}
-                                                        style={{ height: "100%" }}/>
-                                                    <span>
-                                                        {pokemon.name}
-                                                    </span>
-                                                </div>
+                                                <img src={process.env.PUBLIC_URL + `/sprites/${pokemon.key}.png`}
+                                                    alt={pokemon.idx}
+                                                    style={{ height: "20px" }}/>
+                                                {pokemon.name}
                                             </TableCell>
                                             <TableCell align="right">{this.calDamage(pokemon.value, false)}</TableCell>
                                             <TableCell align="right">{this.calDamage(pokemon.value, true)}</TableCell>
@@ -209,7 +208,7 @@ class App extends React.Component {
                         </TableContainer>
                     </Grid>
                 </Grid>
-            </div>
+            </Container>
         );
     }
 }

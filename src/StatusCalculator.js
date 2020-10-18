@@ -118,22 +118,23 @@ class StatusCalculator extends React.Component {
         const texts = ["HP", "物攻", "物防", "特攻", "特防", "速度"];
         return (
             <Grid container direction="column">
-                <Grid container direction="row">
-                    <Grid item xs></Grid>
-                    <Grid item xs>种族值</Grid>
-                    <Grid item xs>个体值</Grid>
-                    <Grid item xs>努力值({
+                <Grid container item direction="row" spacing={1}>
+                    <Grid item xs={1}></Grid>
+                    <Grid item xs={1}>种族值</Grid>
+                    <Grid item xs={1}>个体值</Grid>
+                    <Grid item xs={3}>努力值({
                         510 - this.state.EVs.reduce((a, b) => a + b, 0)
                     })</Grid>
-                    <Grid item xs></Grid>
-                    <Grid item xs>性格修正</Grid>
-                    <Grid item xs>能力</Grid>
+                    <Grid item xs={2}>
+                        性格修正
+                    </Grid>
+                    <Grid item xs={1}>能力</Grid>
                 </Grid>
                 {[0, 1, 2, 3, 4, 5].map((x) => (
-                    <Grid container direction="row" key={x}>
-                        <Grid item xs> {texts[x]}</Grid>
-                        <Grid item xs> {values[x]}</Grid>
-                        <Grid item xs>
+                    <Grid container item direction="row" key={x} spacing={1}>
+                        <Grid item xs={1}> {texts[x]}</Grid>
+                        <Grid item xs={1}> {values[x]}</Grid>
+                        <Grid item xs={1}>
                             <Input
                                 inputProps={{ min: 0, max: 31, step: 1 }}
                                 value={this.state.IVs[x]}
@@ -142,16 +143,14 @@ class StatusCalculator extends React.Component {
                                 size="small"
                             />
                         </Grid>
-                        <Grid item xs>
+                        <Grid item xs={2}>
                             <Slider
                                 value={this.state.EVs[x]}
                                 onChange={this.handleEVChanges.bind(this, x)}
-                                step={4}
-                                min={0}
-                                max={252}
+                                step={4} min={0} max={252}
                             />
                         </Grid>
-                        <Grid item xs>
+                        <Grid item xs={1}>
                             <Input
                                 value={this.state.EVs[x]}
                                 onChange={this.handleEVInputChanges.bind(this, x)}
@@ -164,7 +163,7 @@ class StatusCalculator extends React.Component {
                                 }}
                             />
                         </Grid>
-                        <Grid item xs>
+                        <Grid item container xs={2}>
                             <Radio
                                 checked={this.state.natureBuff === x}
                                 onChange={() => {
@@ -181,7 +180,7 @@ class StatusCalculator extends React.Component {
                                 }}
                                 value={x} />
                         </Grid>
-                        <Grid item xs>
+                        <Grid item xs={1}>
                             {this.props.stats[x]}
                         </Grid>
                     </Grid>
