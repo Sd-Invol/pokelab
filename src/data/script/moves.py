@@ -28,9 +28,8 @@ if __name__ == "__main__":
             if len(cells) != 10:
                 continue
             texts = [cells[i].text.strip() for i in range(10)]
-            if texts[0] == '???':
+            if texts[0] == '???' or texts[0] == '—':
                 continue
-
             move = {}
             move['id'] = int(texts[0])
             move['name'] = {}

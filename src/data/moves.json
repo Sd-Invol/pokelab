@@ -8230,7 +8230,7 @@
     "power": "—",
     "accuracy": "—",
     "PP": "10",
-    "description": "防住对手攻击的同时，自己变为防御姿态。大幅降低所接触到的对手的攻击。"
+    "description": "防住对手攻击的同时，自己变为防御姿态。降低所接触到的对手的攻击。"
   },
   {
     "id": 589,
@@ -9203,7 +9203,7 @@
     "name": {
       "cn": "皮卡皮卡必杀击",
       "ja": "ひっさつのピカチュート",
-      "en": "Castatropika"
+      "en": "Catastropika"
     },
     "type": "电",
     "class": "物理",
@@ -11451,5 +11451,117 @@
     "accuracy": "100",
     "PP": "5",
     "description": "将水之流派修炼至大成的仿若行云流水般的３次连击。必定会击中要害。"
+  },
+  {
+    "id": 819,
+    "name": {
+      "cn": "雷电囚笼",
+      "ja": "サンダープリズン",
+      "en": "Thunder Cage"
+    },
+    "type": "电",
+    "class": "特殊",
+    "power": "80",
+    "accuracy": "90",
+    "PP": "15",
+    "description": "将对手困在电流四溅的囚笼中，在４～５回合内进行攻击。"
+  },
+  {
+    "id": 820,
+    "name": {
+      "cn": "巨龙威能",
+      "ja": "ドラゴンエナジー",
+      "en": "Dragon Energy"
+    },
+    "type": "龙",
+    "class": "特殊",
+    "power": "150",
+    "accuracy": "100",
+    "PP": "5",
+    "description": "把生命力转换为力量攻击对手。自己的ＨＰ越少，招式的威力越小。"
+  },
+  {
+    "id": 821,
+    "name": {
+      "cn": "冰冷视线",
+      "ja": "いてつくしせん",
+      "en": "Freezing Glare"
+    },
+    "type": "超能力",
+    "class": "特殊",
+    "power": "90",
+    "accuracy": "100",
+    "PP": "10",
+    "description": "从双眼发射精神力量进行攻击。有时会让对手陷入冰冻状态。"
+  },
+  {
+    "id": 822,
+    "name": {
+      "cn": "怒火中烧",
+      "ja": "もえあがるいかり",
+      "en": "Fiery Wrath"
+    },
+    "type": "恶",
+    "class": "特殊",
+    "power": "90",
+    "accuracy": "100",
+    "PP": "10",
+    "description": "将愤怒转化为火焰般的气场进行攻击。有时会使对手畏缩。"
+  },
+  {
+    "id": 823,
+    "name": {
+      "cn": "雷鸣蹴击",
+      "ja": "らいめいげり",
+      "en": "Thunderous Kick"
+    },
+    "type": "格斗",
+    "class": "物理",
+    "power": "90",
+    "accuracy": "100",
+    "PP": "10",
+    "description": "以雷电般的动作戏耍对手的同时使出脚踢。可降低对手的防御。"
+  },
+  {
+    "id": 824,
+    "name": {
+      "cn": "雪矛",
+      "ja": "ブリザードランス",
+      "en": "Glacial Lance"
+    },
+    "type": "冰",
+    "class": "物理",
+    "power": "130",
+    "accuracy": "100",
+    "PP": "5",
+    "description": "向对手投掷掀起暴风雪的冰矛进行攻击。"
+  },
+  {
+    "id": 825,
+    "name": {
+      "cn": "星碎",
+      "ja": "アストラルビット",
+      "en": "Astral Barrage"
+    },
+    "type": "幽灵",
+    "class": "特殊",
+    "power": "120",
+    "accuracy": "100",
+    "PP": "5",
+    "description": "用大量的小灵体向对手发起攻击。"
+  },
+  {
+    "id": 826,
+    "name": {
+      "cn": "诡异咒语",
+      "ja": "ぶきみなじゅもん",
+      "en": "Eerie Spell"
+    },
+    "type": "超能力",
+    "class": "特殊",
+    "power": "80",
+    "accuracy": "100",
+    "PP": "5",
+    "description": "用强大的精神力量攻击。让对手最后使用的招式减少３ＰＰ。"
   }
 ]

@@ -73,11 +73,32 @@ if __name__ == "__main__":
         i += 2
 
         # Galar Dex
-        if '#' in stats[i]:
-            pokemon['galardex'] = int(stats[i].split('#')[1])
+        if 'Galar' in stats[i]:
+            if 'Foreign' not in stats[i]:
+                pokemon['galardex'] = int(stats[i].split('#')[1])
+            else:
+                pokemon['galardex'] = -1
+            i += 1
         else:
             pokemon['galardex'] = -1
-        i += 1
+
+        # Armor Dex
+        if 'Armor' in stats[i]:
+            pokemon['armordex'] = int(stats[i].split('#')[1])
+            i += 1
+        else:
+            pokemon['armordex'] = -1
+
+        # Crown Dex
+        if 'Crown' in stats[i]:
+            pokemon['crowndex'] = int(stats[i].split('#')[1])
+            i += 1
+        else:
+            pokemon['crowndex'] = -1
+
+        # For Zacians
+        if 'Dynamax!' in stats[i]:
+            i += 1
 
         # Base Stats
         base = list(map(int, (stats[i].split(' ')[2]).split('.')))
@@ -162,12 +183,12 @@ if __name__ == "__main__":
                 i += 1
         if stats[i] == 'Armor Tutors:':
             i += 1
-            while stats[i].startswith('-'):
+            while i < len(stats) and stats[i].startswith('-'):
                 # Armor Tutors
                 name = stats[i][2:]
                 pokemon['moves'].append(en_moves_dict[name][0])
                 i += 1
-            if stats[i] == 'None!':
+            if i < len(stats) and stats[i] == 'None!':
                 i += 1
 
         key = (pokemon['id'], pokemon['form'])
@@ -177,7 +198,7 @@ if __name__ == "__main__":
         egg_moves[key] = pokemon['moves']
 
         pokemon['evolution'] = []
-        while stats[i].startswith('Evolves into '):
+        while i < len(stats) and stats[i].startswith('Evolves into '):
             eve = stats[i].split('@')[0].split(' ', 2)[2]
             name, form = eve.rsplit('-', 1)
             id = int(en_pokemons_dict[name.replace('’', '\'')][0])
