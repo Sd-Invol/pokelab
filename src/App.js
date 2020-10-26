@@ -130,14 +130,15 @@ class App extends React.Component {
                     typeBonus = 1.5;
                 }
             }
-            if (moves[x].class === '物理') {
+            if (moves[x].class === '变化' || isNaN(moves[x].power)) {
+                return -Number(moves[x].id);
+            } else if (moves[x].class === '物理') {
                 return atk * Number(moves[x].power) * typeBonus;
             } else {
                 return spa * Number(moves[x].power) * typeBonus;
             }
         };
         const moveSet = pokemons[this.state.pokemon].moves
-            .filter((x) => moves[x].class !== '变化' && !isNaN(moves[x].power))
             .sort((a, b) => power(b) - power(a));
 
 
@@ -168,7 +169,11 @@ class App extends React.Component {
                             {moveSet.map(x => (
                                 <ListItem button key={moves[x].id}
                                     alignItems="center"
-                                    onClick={() => this.setState({ move: moves[x].id })}
+                                    onClick={() => {
+                                        if (power(x) > 0) {
+                                            this.setState({ move: moves[x].id });
+                                        }
+                                    }}
                                     selected={this.state.move === moves[x].id}>
                                     <img src={process.env.PUBLIC_URL + `/icons/${moves[x].class}.png`} alt={{ x }}
                                         style={{ height: "20px" }} />
