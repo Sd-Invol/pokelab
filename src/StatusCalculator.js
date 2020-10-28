@@ -1,6 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
+import Button from '@material-ui/core/Button';
 import Input from '@material-ui/core/Input';
 import Slider from '@material-ui/core/Slider';
 import Grid from '@material-ui/core/Grid';
@@ -121,7 +122,11 @@ class StatusCalculator extends React.Component {
                 direction="column"
                 style={{ padding: "10px" }}>
                 <Grid container item direction="row" spacing={1}>
-                    <Grid item xs={1} container justify="center" alignItems="center"></Grid>
+                    <Grid item xs={1} container justify="center" alignItems="center">
+                        <Button variant="contained" color="primary" onClick={() => {
+                            this.updateStats([31, 31, 31, 31, 31, 31], [0, 0, 0, 0, 0, 0], 0, 0);
+                        }}>重置</Button>
+                    </Grid>
                     <Grid item xs={1} container justify="center" alignItems="center">种族值</Grid>
                     <Grid item xs={1} container justify="center" alignItems="center">个体值</Grid>
                     <Grid item xs={3} container justify="center" alignItems="center">
