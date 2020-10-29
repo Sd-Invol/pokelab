@@ -147,7 +147,8 @@ class App extends React.Component {
         for (let pokemon of dataProcessor.pokemonSelectList) {
             damages[pokemon.value] = this.getDamage(pokemon.value, false);
         }
-        const pokemonList = dataProcessor.pokemonSelectList.sort((a, b) =>
+        const pokemonList = dataProcessor.pokemonSelectList.slice();
+        pokemonList.sort((a, b) =>
             damages[b.value] - damages[a.value]
         );
 
