@@ -147,6 +147,9 @@ class App extends React.Component {
         for (let pokemon of dataProcessor.pokemonSelectList) {
             damages[pokemon.value] = this.getDamage(pokemon.value, false);
         }
+        const pokemonList = dataProcessor.pokemonSelectList.sort((a, b) =>
+            damages[b.value] - damages[a.value]
+        );
 
         return (
             <Container>
@@ -199,9 +202,7 @@ class App extends React.Component {
                                     </TableRow>
                                 </TableHead>
                                 <TableBody>
-                                    {dataProcessor.pokemonSelectList.sort((a, b) =>
-                                        damages[b.value] - damages[a.value]
-                                    ).map((pokemon) => (
+                                    {pokemonList.map((pokemon) => (
                                         <TableRow key={pokemon.value}>
                                             <TableCell align="right">
                                                 <img src={process.env.PUBLIC_URL + `/sprites/${pokemon.key}.png`}
