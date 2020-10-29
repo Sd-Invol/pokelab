@@ -4,6 +4,7 @@ import Container from '@material-ui/core/Container';
 import Grid from '@material-ui/core/Grid';
 import List from '@material-ui/core/List';
 import ListItem from '@material-ui/core/ListItem';
+import Tooltip from '@material-ui/core/Tooltip';
 
 import Table from '@material-ui/core/Table';
 import TableBody from '@material-ui/core/TableBody';
@@ -149,38 +150,42 @@ class App extends React.Component {
 
         return (
             <Container>
-                <Grid container direction="row">
-                    <Grid item xs={3}>
-                        <PokemonSelector
-                            id={this.state.pokemon}
-                            onPokemonChange={this.handlePokemonChange} />
+                <div style={{ margin: "8px" }}>
+                    <Grid container direction="row" style={{ margin: "8px", border: "1px #eee solid", borderRadius: "16px", width: "100%" }}>
+                        <Grid item xs={4} style={{ padding: "8px" }}>
+                            <PokemonSelector
+                                id={this.state.pokemon}
+                                onPokemonChange={this.handlePokemonChange} />
+                        </Grid>
+                        <Grid item xs={8}>
+                            <StatusCalculator
+                                pokemon={this.state.pokemon}
+                                level={50}
+                                stats={this.state.stats}
+                                onStatsChange={(stats) => this.setState({ stats: stats })} />
+                        </Grid>
                     </Grid>
-                    <Grid item xs={9}>
-                        <StatusCalculator
-                            pokemon={this.state.pokemon}
-                            level={50}
-                            stats={this.state.stats}
-                            onStatsChange={(stats) => this.setState({ stats: stats })} />
-                    </Grid>
-                </Grid>
+                </div>
                 <Grid container direction="row">
                     <Grid item xs={3}>
                         <List dense={true}>
                             {moveSet.map(x => (
-                                <ListItem button key={moves[x].id}
-                                    alignItems="center"
-                                    onClick={() => {
-                                        if (power(x) > 0) {
-                                            this.setState({ move: moves[x].id });
-                                        }
-                                    }}
-                                    selected={this.state.move === moves[x].id}>
-                                    <img src={process.env.PUBLIC_URL + `/icons/${moves[x].class}.png`} alt={{ x }}
-                                        style={{ height: "20px" }} />
-                                    <img src={process.env.PUBLIC_URL + `/icons/types/${this.types_cn_to_en[moves[x].type].toLowerCase()}.svg`} alt={{ x }}
-                                        style={{ height: "20px", marginRight: "2px" }} />
-                                    <span>{moves[x].name.cn}({moves[x].power})</span>
-                                </ListItem>))}
+                                <Tooltip title={moves[x].description} placement="left" arrow key={moves[x].id}>
+                                    <ListItem button
+                                        alignItems="center"
+                                        onClick={() => {
+                                            if (power(x) > 0) {
+                                                this.setState({ move: moves[x].id });
+                                            }
+                                        }}
+                                        selected={this.state.move === moves[x].id}>
+                                        <img src={process.env.PUBLIC_URL + `/icons/${moves[x].class}.png`} alt={{ x }}
+                                            style={{ height: "20px" }} />
+                                        <img src={process.env.PUBLIC_URL + `/icons/types/${this.types_cn_to_en[moves[x].type].toLowerCase()}.svg`} alt={{ x }}
+                                            style={{ height: "20px", marginRight: "2px" }} />
+                                        <span>{moves[x].name.cn}({moves[x].power})</span>
+                                    </ListItem>
+                                </Tooltip>))}
                         </List>
                     </Grid>
                     <Grid item xs={9}>

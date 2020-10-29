@@ -127,8 +127,8 @@ class StatusCalculator extends React.Component {
                             this.updateStats([31, 31, 31, 31, 31, 31], [0, 0, 0, 0, 0, 0], 0, 0);
                         }}>重置</Button>
                     </Grid>
-                    <Grid item xs={1} container justify="center" alignItems="center">种族值</Grid>
-                    <Grid item xs={1} container justify="center" alignItems="center">个体值</Grid>
+                    <Grid item xs={2} container justify="center" alignItems="center">种族值</Grid>
+                    <Grid item xs={2} container justify="center" alignItems="center">个体值</Grid>
                     <Grid item xs={3} container justify="center" alignItems="center">
                         努力值({
                             510 - this.state.EVs.reduce((a, b) => a + b, 0)
@@ -136,17 +136,17 @@ class StatusCalculator extends React.Component {
                     </Grid>
                     <Grid item xs={2} container justify="center" alignItems="center">
                         性格修正</Grid>
-                    <Grid item xs={1} container justify="center" alignItems="center">能力</Grid>
+                    <Grid item xs={2} container justify="center" alignItems="center">能力</Grid>
                 </Grid>
                 {[0, 1, 2, 3, 4, 5].map((x) => (
                     <Grid container item direction="row" key={x} spacing={1}>
                         <Grid item xs={1} container justify="center" alignItems="center">
                             {texts[x]}
                         </Grid>
-                        <Grid item xs={1} container justify="center" alignItems="center">
+                        <Grid item xs={2} container justify="center" alignItems="center">
                             {values[x]}
                         </Grid>
-                        <Grid item xs={1} container justify="center" alignItems="center">
+                        <Grid item xs={2} container justify="center" alignItems="center">
                             <Input
                                 inputProps={{ min: 0, max: 31, step: 1 }}
                                 value={this.state.IVs[x]}
@@ -192,7 +192,7 @@ class StatusCalculator extends React.Component {
                                 }}
                                 value={x} />
                         </Grid>
-                        <Grid item xs={1} container justify="center" alignItems="center">
+                        <Grid item xs={2} container justify="center" alignItems="center">
                             {this.props.stats[x]}
                         </Grid>
                     </Grid>
