@@ -22,6 +22,7 @@ import * as dataProcessor from './data_processor.js';
 import pokemons from './data/pokemons';
 import moves from './data/moves';
 import types from './data/types';
+import abilities from './data/abilities';
 
 class App extends React.Component {
     constructor(props) {
@@ -139,7 +140,8 @@ class App extends React.Component {
                 return spa * Number(moves[x].power) * typeBonus;
             }
         };
-        const moveSet = pokemons[this.state.pokemon].moves
+        const pokemonData = pokemons[this.state.pokemon];
+        const moveSet = pokemonData.moves
             .sort((a, b) => power(b) - power(a));
 
 
@@ -160,6 +162,23 @@ class App extends React.Component {
                             <PokemonSelector
                                 id={this.state.pokemon}
                                 onPokemonChange={this.handlePokemonChange} />
+                            <div style={{ padding: "8px" }}>
+                                {pokemonData.type.map((type) => (
+                                    <img src={process.env.PUBLIC_URL + `/icons/types/${type.toLowerCase()}.svg`}
+                                        alt={{ type }} key={type} style={{ height: "32px", marginRight: "8px" }} />
+                                ))}
+                            </div>
+                            <div style={{ padding: "8px" }}>
+                                {pokemonData.abilities
+                                    .filter((value, index, self) => self.indexOf(value) === index)
+                                    .map((ability) => (
+                                        <Tooltip key={ability} title={abilities[ability].description}>
+                                            <div>
+                                                {abilities[ability].name.cn}
+                                            </div>
+                                        </Tooltip>
+                                    ))}
+                            </div>
                         </Grid>
                         <Grid item xs={8}>
                             <StatusCalculator
@@ -174,7 +193,7 @@ class App extends React.Component {
                     <Grid item xs={3}>
                         <List dense={true}>
                             {moveSet.map(x => (
-                                <Tooltip title={moves[x].description} placement="left" arrow key={moves[x].id}>
+                                <Tooltip title={moves[x].description} placement="right" arrow key={moves[x].id}>
                                     <ListItem button
                                         alignItems="center"
                                         onClick={() => {
