@@ -2,8 +2,6 @@ import React from 'react';
 
 import Container from '@material-ui/core/Container';
 import Grid from '@material-ui/core/Grid';
-import List from '@material-ui/core/List';
-import ListItem from '@material-ui/core/ListItem';
 import Tooltip from '@material-ui/core/Tooltip';
 
 import Table from '@material-ui/core/Table';
@@ -16,6 +14,7 @@ import TableRow from '@material-ui/core/TableRow';
 import './App.css';
 
 import PokemonSelector from './PokemonSelector.js'
+import MoveSelector from './MoveSelector.js'
 import StatusCalculator from './StatusCalculator.js'
 import * as dataProcessor from './data_processor.js';
 
@@ -192,25 +191,14 @@ class App extends React.Component {
         </div>
         <Grid container direction="row">
           <Grid item xs={3}>
-            <List dense={true}>
-              {moveSet.map(x => (
-                <Tooltip title={moves[x].description} placement="right" arrow key={moves[x].id}>
-                  <ListItem button
-                    alignItems="center"
-                    onClick={() => {
-                      if (power(x) > 0) {
-                        this.setState({ move: moves[x].id });
-                      }
-                    }}
-                    selected={this.state.move === moves[x].id}>
-                    <img src={process.env.PUBLIC_URL + `/icons/${moves[x].class}.png`} alt={{ x }}
-                      style={{ height: "20px" }} />
-                    <img src={process.env.PUBLIC_URL + `/icons/types/${this.types_cn_to_en[moves[x].type].toLowerCase()}.svg`} alt={{ x }}
-                      style={{ height: "20px", marginRight: "2px" }} />
-                    <span>{moves[x].name.cn}({moves[x].power})</span>
-                  </ListItem>
-                </Tooltip>))}
-            </List>
+            <MoveSelector
+              move={this.state.move}
+              moveSet={moveSet}
+              onMoveChange={(x) => {
+                if (power(x) > 0) {
+                  this.setState({ move: moves[x].id });
+                }
+              }} />
           </Grid>
           <Grid item xs={9}>
             <TableContainer>
